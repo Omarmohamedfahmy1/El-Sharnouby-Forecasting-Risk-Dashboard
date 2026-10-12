@@ -1,0 +1,4 @@
+Location_ID,Location_Name,Channel,Total_Demand,Mean_Daily_Demand,Median_Daily_Demand,Zero_Demand_Pct,Product_Count,Series_Count
+LOC001,LEO MODA - Sidi Bishr Store,Retail,86174.0,1.3358239032708108,1.0,47.83134397767788,59,64510
+LOC002,LEO MODA Online Store,Online,99339.0,1.5403544680653114,1.0,44.41394923322634,59,64491
+LOC003,El-Sharnouby Wholesale Desk,Wholesale,1475076.0,22.89282056057361,0.0,55.36207592264953,59,64434

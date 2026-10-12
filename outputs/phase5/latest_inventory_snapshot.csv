@@ -1,0 +1,178 @@
+Snapshot_Month,Location_ID,Location_Name,Product_ID,SKU,Product_Name,Opening_Stock,Received_Qty,Sold_Qty,Returned_Qty,Damaged_Qty,Closing_Stock,Avg_Daily_Sales_90D,Safety_Stock_Units,Reorder_Point_Units,Supplier_Lead_Time_Days,Days_of_Cover,Stockout_Days_In_Month,Data_Class,Expected_Closing_Stock_From_Accounting,Latest_Inventory_Accounting_Mismatch_Flag
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P001,26115-8,Summer children's girls-Happy,4,80,78,2,0,8,4.73,65,164,21,1.7,0,Modeled inventory history - no forecast columns provided,8,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P002,26115-6,Summer children's girls-turtle,4,34,36,3,0,5,1.88,6,15,5,2.7,0,Modeled inventory history - no forecast columns provided,5,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P003,26115-5,Summer children's girls-Hello kitty Rose & turquoise,216,31,36,0,0,211,2.46,11,28,7,85.8,0,Modeled inventory history - no forecast columns provided,211,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P004,26115-7,Summer children's girls-Hello kitty black&white,76,29,29,1,0,77,1.49,5,12,5,51.7,0,Modeled inventory history - no forecast columns provided,77,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P005,26115-2,Summer children's boys-Black and orange,118,53,52,1,0,120,2.37,15,39,10,50.6,0,Modeled inventory history - no forecast columns provided,120,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P006,26115-1,Summer children's boys-Sonic,186,25,28,1,0,184,1.8,25,63,21,102.2,0,Modeled inventory history - no forecast columns provided,184,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P007,26115-3,Summer children's boys-Black and turquoise,101,32,31,1,0,103,1.41,5,12,5,73.0,0,Modeled inventory history - no forecast columns provided,103,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P008,26115-4,Summer children's boys-SpongeBob,147,73,69,4,0,155,4.23,14,35,5,36.6,0,Modeled inventory history - no forecast columns provided,155,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P009,LEO-WC-P-5404,Boys' summer t-shirt-Aubergine,145,32,32,1,0,146,1.5,5,12,5,97.3,0,Modeled inventory history - no forecast columns provided,146,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P010,LEO-WC-P-5403,Boys' summer t-shirt-olive,164,32,29,0,2,165,1.16,5,11,5,142.2,0,Modeled inventory history - no forecast columns provided,165,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P011,LEO-WC-P-5402,Boys' summer t-shirt-Navy blue,51,18,21,0,0,48,0.82,11,28,21,58.5,0,Modeled inventory history - no forecast columns provided,48,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P012,LEO-WC-P-5401,Boys' summer t-shirt-light beige,253,55,53,0,0,255,2.0,13,33,10,127.5,0,Modeled inventory history - no forecast columns provided,255,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P013,CAT-013,Boys' summer t-shirt-Beige,74,34,31,0,0,77,1.32,12,30,14,58.3,0,Modeled inventory history - no forecast columns provided,77,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P014,CAT-014,Boys' summer t-shirt-Black,151,68,66,3,0,156,2.18,14,36,10,71.6,0,Modeled inventory history - no forecast columns provided,156,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P015,CAT-015,Girls' summer pajamas-Stay cool,113,18,20,0,0,111,0.98,9,23,14,113.3,0,Modeled inventory history - no forecast columns provided,111,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P016,CAT-016,Girls' summer pajamas-Watercolor Floral,165,29,29,2,0,167,1.29,18,45,21,129.5,0,Modeled inventory history - no forecast columns provided,167,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P017,CAT-017,Girls' summer pajamas-flower,126,39,43,1,0,123,1.85,12,30,10,66.5,0,Modeled inventory history - no forecast columns provided,123,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P018,CAT-018,Boys' summer pajamas-Wear your attitude,267,24,23,0,0,268,1.29,6,15,7,207.8,0,Modeled inventory history - no forecast columns provided,268,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P019,CAT-019,Boys' summer pajamas- Seeds OF,3333,79,13,0,0,3399,0.63,5,11,10,5395.2,0,Modeled inventory history - no forecast columns provided,3399,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P020,CAT-020,Boys' summer pajamas-Rock Band,185,17,17,0,1,184,0.8,5,9,5,230.0,0,Modeled inventory history - no forecast columns provided,184,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P021,CAT-021,Girls' summer pajamas-Minnie Mouse,187,45,43,0,0,189,2.21,10,25,7,85.5,0,Modeled inventory history - no forecast columns provided,189,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P022,CAT-022,Girls' summer pajamas-Stitch,218,9,9,0,0,218,0.76,5,10,7,286.8,0,Modeled inventory history - no forecast columns provided,218,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P023,CAT-023,Girls' summer pajamas-Dumbo,3015,60,18,0,0,3057,0.52,5,8,5,5878.8,0,Modeled inventory history - no forecast columns provided,3057,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P024,CAT-024,Boys' summer pajamas-Mickey,118,47,53,4,1,115,2.23,7,18,5,51.6,0,Modeled inventory history - no forecast columns provided,115,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P025,CAT-025,Boys' summer pajamas-Snoopy,37,22,26,0,0,33,0.92,5,10,5,35.9,0,Modeled inventory history - no forecast columns provided,33,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P026,CAT-026,Boys' summer pajamas-Bluey,58,9,10,0,0,57,0.87,5,11,7,65.5,0,Modeled inventory history - no forecast columns provided,57,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P027,CAT-027,Girls' pajamas - I'm Just a girl,176,30,29,2,0,179,1.15,16,40,21,155.7,0,Modeled inventory history - no forecast columns provided,179,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P028,CAT-028,Girls' summer pajamas,189,43,42,0,1,189,1.36,19,48,21,139.0,0,Modeled inventory history - no forecast columns provided,189,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P029,CAT-029,Girls' pajamas-Daylife+kuromi,267,74,78,0,0,263,3.09,28,71,14,85.1,0,Modeled inventory history - no forecast columns provided,263,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P030,CAT-030,Boys' pajamas -Mickey Mouse,138,18,20,2,1,137,1.01,5,12,7,135.6,0,Modeled inventory history - no forecast columns provided,137,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P031,CAT-031,Boys' pajamas -Don't Even!,194,39,38,0,0,195,1.48,20,51,21,131.8,0,Modeled inventory history - no forecast columns provided,195,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P032,CAT-032,Boys' sweatshirt-blue,162,40,38,1,0,165,0.53,5,10,10,311.3,0,Modeled inventory history - no forecast columns provided,165,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P033,CAT-033,Boys' sweatshirt-LEO,156,44,52,2,0,150,0.72,7,17,14,208.3,0,Modeled inventory history - no forecast columns provided,150,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P034,CAT-034,Boys' sweatshirt-black and white,62,17,17,0,0,62,0.34,5,8,10,182.4,0,Modeled inventory history - no forecast columns provided,62,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P035,CAT-035,Girls' sweatshirt-Fuchsia,47,22,21,3,0,51,0.36,5,13,21,141.7,0,Modeled inventory history - no forecast columns provided,51,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P036,CAT-036,Girls' sweatshirt-Tinker Bell,70,12,13,2,0,71,0.2,5,6,5,355.0,0,Modeled inventory history - no forecast columns provided,71,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P037,CAT-037,Girls' sweatshirt-Flower,289,44,42,4,1,294,0.75,5,9,5,392.0,0,Modeled inventory history - no forecast columns provided,294,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P038,CAT-038,Boys' Autumn Pajamas-Mickey Mouse,257,35,36,1,0,257,0.69,5,8,5,372.5,0,Modeled inventory history - no forecast columns provided,257,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P039,CAT-039,Boys' Autumn Pajamas-Spider Man,64,29,27,0,1,65,0.65,5,10,7,100.0,0,Modeled inventory history - no forecast columns provided,65,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P040,CAT-040,Boys' Autumn Pajamas-Loony Tunes,222,15,16,0,0,221,0.22,5,8,14,1004.5,0,Modeled inventory history - no forecast columns provided,221,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P041,CAT-041,Boys' Autumn Pajamas-Jurassic Park,3139,106,15,0,0,3230,0.25,5,6,5,12920.0,0,Modeled inventory history - no forecast columns provided,3230,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P042,CAT-042,Girls' autumn pajamas-Cheeky Charmins,11,21,20,0,0,12,0.29,5,11,21,41.4,0,Modeled inventory history - no forecast columns provided,12,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P043,CAT-043,Girls' autumn pajamas-Snow White,295,23,21,0,0,297,0.43,5,7,5,690.7,0,Modeled inventory history - no forecast columns provided,297,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P044,CAT-044,Girls' autumn pajamas-Ice Cream,267,47,44,3,1,272,0.72,5,9,5,377.8,0,Modeled inventory history - no forecast columns provided,272,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P045,CAT-045,Girls' autumn pajamas-Stitch,229,24,29,0,1,223,0.56,5,13,14,398.2,0,Modeled inventory history - no forecast columns provided,223,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P046,CAT-046,Mustard - طقم تيشيرت وشورت اطفال صيفي,218,32,29,1,0,222,1.36,6,16,7,163.2,0,Modeled inventory history - no forecast columns provided,222,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P047,CAT-047,Mauve - طقم تيشيرت وشورت اطفال صيفي,73,36,33,0,0,76,0.9,5,10,5,84.4,0,Modeled inventory history - no forecast columns provided,76,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P048,CAT-048,Semon - طقم تيشيرت وشورت اطفال صيفي,207,43,41,0,0,209,1.89,6,15,5,110.6,0,Modeled inventory history - no forecast columns provided,209,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P049,CAT-049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,92,27,32,0,0,87,1.47,10,25,10,59.2,0,Modeled inventory history - no forecast columns provided,87,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P050,CAT-050,Yellow - طقم تيشيرت وشورت اطفال صيفي,188,42,42,1,0,189,1.44,13,33,14,131.2,0,Modeled inventory history - no forecast columns provided,189,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P051,CAT-051,Ice cream - بيجامة حريمي صيفي2024,266,81,89,3,1,260,4.29,28,71,10,60.6,0,Modeled inventory history - no forecast columns provided,260,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P052,CAT-052,Teddy bear - بيجامة حريمي صيفي2024,133,11,11,1,0,134,0.53,5,8,5,252.8,0,Modeled inventory history - no forecast columns provided,134,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P053,CAT-053,PINK panther - بيجامة حريمي صيفي2024,234,44,50,3,0,231,1.62,15,38,14,142.6,0,Modeled inventory history - no forecast columns provided,231,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P054,CAT-054,Gazelle - بيجامة حريمي صيفي2024,2887,90,22,0,1,2954,0.84,8,20,14,3516.7,0,Modeled inventory history - no forecast columns provided,2954,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P055,CAT-055,Scooby-Doo - بيجامة حريمي صيفي2024,222,49,48,2,0,225,1.9,12,31,10,118.4,0,Modeled inventory history - no forecast columns provided,225,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P056,CAT-056,BATGIRL - بيجامة حريمي صيفي2024,123,50,54,0,0,119,2.09,10,25,7,56.9,0,Modeled inventory history - no forecast columns provided,119,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P057,CAT-057,Save the planet بيجامة حريمي صيفي - 2024,94,25,27,1,0,93,0.98,5,10,5,94.9,0,Modeled inventory history - no forecast columns provided,93,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P058,CAT-058,OHANA - بيجامة حريمي صيفي 2024,56,25,23,1,0,59,0.93,5,10,5,63.4,0,Modeled inventory history - no forecast columns provided,59,False
+2026-09-01,LOC001,LEO MODA - Sidi Bishr Store,P059,CAT-059,Positive vibes - 2024بيجامة حريمي صيفي,279,68,72,0,0,275,2.62,9,22,5,105.0,0,Modeled inventory history - no forecast columns provided,275,False
+2026-09-01,LOC002,LEO MODA Online Store,P001,26115-8,Summer children's girls-Happy,90,134,141,12,0,95,7.73,50,127,10,12.3,0,Modeled inventory history - no forecast columns provided,95,False
+2026-09-01,LOC002,LEO MODA Online Store,P002,26115-6,Summer children's girls-turtle,0,55,62,6,0,0,3.15,43,109,21,0.0,9,Modeled inventory history - no forecast columns provided,-1,True
+2026-09-01,LOC002,LEO MODA Online Store,P003,26115-5,Summer children's girls-Hello kitty Rose & turquoise,349,79,73,5,1,359,4.07,19,47,7,88.2,0,Modeled inventory history - no forecast columns provided,359,False
+2026-09-01,LOC002,LEO MODA Online Store,P004,26115-7,Summer children's girls-Hello kitty black&white,152,45,54,3,0,146,2.61,17,43,10,55.9,0,Modeled inventory history - no forecast columns provided,146,False
+2026-09-01,LOC002,LEO MODA Online Store,P005,26115-2,Summer children's boys-Black and orange,318,84,82,8,0,328,4.12,27,68,10,79.6,0,Modeled inventory history - no forecast columns provided,328,False
+2026-09-01,LOC002,LEO MODA Online Store,P006,26115-1,Summer children's boys-Sonic,106,56,62,2,0,102,2.97,14,35,7,34.3,0,Modeled inventory history - no forecast columns provided,102,False
+2026-09-01,LOC002,LEO MODA Online Store,P007,26115-3,Summer children's boys-Black and turquoise,191,32,36,3,0,190,2.18,7,18,5,87.2,0,Modeled inventory history - no forecast columns provided,190,False
+2026-09-01,LOC002,LEO MODA Online Store,P008,26115-4,Summer children's boys-SpongeBob,466,127,118,18,0,493,6.3,57,145,14,78.3,0,Modeled inventory history - no forecast columns provided,493,False
+2026-09-01,LOC002,LEO MODA Online Store,P009,LEO-WC-P-5404,Boys' summer t-shirt-Aubergine,280,53,58,2,0,277,2.17,30,76,21,127.6,0,Modeled inventory history - no forecast columns provided,277,False
+2026-09-01,LOC002,LEO MODA Online Store,P010,LEO-WC-P-5403,Boys' summer t-shirt-olive,213,35,34,0,0,214,1.58,22,55,21,135.4,0,Modeled inventory history - no forecast columns provided,214,False
+2026-09-01,LOC002,LEO MODA Online Store,P011,LEO-WC-P-5402,Boys' summer t-shirt-Navy blue,243,23,29,1,0,238,1.34,12,31,14,177.6,0,Modeled inventory history - no forecast columns provided,238,False
+2026-09-01,LOC002,LEO MODA Online Store,P012,LEO-WC-P-5401,Boys' summer t-shirt-light beige,178,64,59,5,0,188,3.29,45,114,21,57.1,0,Modeled inventory history - no forecast columns provided,188,False
+2026-09-01,LOC002,LEO MODA Online Store,P013,CAT-013,Boys' summer t-shirt-Beige,66,44,45,2,1,66,2.35,11,27,7,28.1,0,Modeled inventory history - no forecast columns provided,66,False
+2026-09-01,LOC002,LEO MODA Online Store,P014,CAT-014,Boys' summer t-shirt-Black,333,66,76,13,0,336,3.71,51,129,21,90.6,0,Modeled inventory history - no forecast columns provided,336,False
+2026-09-01,LOC002,LEO MODA Online Store,P015,CAT-015,Girls' summer pajamas-Stay cool,293,29,36,2,1,287,1.69,5,13,5,169.8,0,Modeled inventory history - no forecast columns provided,287,False
+2026-09-01,LOC002,LEO MODA Online Store,P016,CAT-016,Girls' summer pajamas-Watercolor Floral,67,60,59,2,1,69,2.28,7,18,5,30.3,0,Modeled inventory history - no forecast columns provided,69,False
+2026-09-01,LOC002,LEO MODA Online Store,P017,CAT-017,Girls' summer pajamas-flower,234,66,69,6,0,237,3.05,42,106,21,77.7,0,Modeled inventory history - no forecast columns provided,237,False
+2026-09-01,LOC002,LEO MODA Online Store,P018,CAT-018,Boys' summer pajamas-Wear your attitude,186,51,58,6,0,185,1.67,11,28,10,110.8,0,Modeled inventory history - no forecast columns provided,185,False
+2026-09-01,LOC002,LEO MODA Online Store,P019,CAT-019,Boys' summer pajamas- Seeds OF,3235,96,28,0,0,3303,1.41,9,23,10,2342.6,0,Modeled inventory history - no forecast columns provided,3303,False
+2026-09-01,LOC002,LEO MODA Online Store,P020,CAT-020,Boys' summer pajamas-Rock Band,249,33,31,4,0,255,1.41,13,33,14,180.9,0,Modeled inventory history - no forecast columns provided,255,False
+2026-09-01,LOC002,LEO MODA Online Store,P021,CAT-021,Girls' summer pajamas-Minnie Mouse,167,82,98,5,0,156,4.19,38,97,14,37.2,0,Modeled inventory history - no forecast columns provided,156,False
+2026-09-01,LOC002,LEO MODA Online Store,P022,CAT-022,Girls' summer pajamas-Stitch,217,29,35,3,0,214,1.12,15,39,21,191.1,0,Modeled inventory history - no forecast columns provided,214,False
+2026-09-01,LOC002,LEO MODA Online Store,P023,CAT-023,Girls' summer pajamas-Dumbo,3373,138,16,2,0,3497,0.52,5,8,5,6725.0,0,Modeled inventory history - no forecast columns provided,3497,False
+2026-09-01,LOC002,LEO MODA Online Store,P024,CAT-024,Boys' summer pajamas-Mickey,282,73,66,4,0,293,3.0,20,50,10,97.7,0,Modeled inventory history - no forecast columns provided,293,False
+2026-09-01,LOC002,LEO MODA Online Store,P025,CAT-025,Boys' summer pajamas-Snoopy,206,38,46,2,2,198,1.84,25,64,21,107.6,0,Modeled inventory history - no forecast columns provided,198,False
+2026-09-01,LOC002,LEO MODA Online Store,P026,CAT-026,Boys' summer pajamas-Bluey,66,26,24,3,0,71,1.14,16,40,21,62.3,0,Modeled inventory history - no forecast columns provided,71,False
+2026-09-01,LOC002,LEO MODA Online Store,P027,CAT-027,Girls' pajamas - I'm Just a girl,161,32,30,6,0,169,1.61,5,13,5,105.0,0,Modeled inventory history - no forecast columns provided,169,False
+2026-09-01,LOC002,LEO MODA Online Store,P028,CAT-028,Girls' summer pajamas,303,45,45,0,0,303,1.8,8,21,7,168.3,0,Modeled inventory history - no forecast columns provided,303,False
+2026-09-01,LOC002,LEO MODA Online Store,P029,CAT-029,Girls' pajamas-Daylife+kuromi,226,98,100,7,0,231,4.69,64,162,21,49.3,0,Modeled inventory history - no forecast columns provided,231,False
+2026-09-01,LOC002,LEO MODA Online Store,P030,CAT-030,Boys' pajamas -Mickey Mouse,326,31,38,3,1,321,1.77,8,20,7,181.4,0,Modeled inventory history - no forecast columns provided,321,False
+2026-09-01,LOC002,LEO MODA Online Store,P031,CAT-031,Boys' pajamas -Don't Even!,162,62,58,3,0,169,2.39,11,28,7,70.7,0,Modeled inventory history - no forecast columns provided,169,False
+2026-09-01,LOC002,LEO MODA Online Store,P032,CAT-032,Boys' sweatshirt-blue,348,70,70,5,0,353,0.92,6,15,10,383.7,0,Modeled inventory history - no forecast columns provided,353,False
+2026-09-01,LOC002,LEO MODA Online Store,P033,CAT-033,Boys' sweatshirt-LEO,218,52,53,7,0,224,1.06,5,12,7,211.3,0,Modeled inventory history - no forecast columns provided,224,False
+2026-09-01,LOC002,LEO MODA Online Store,P034,CAT-034,Boys' sweatshirt-black and white,177,14,17,0,0,174,0.3,5,6,5,580.0,0,Modeled inventory history - no forecast columns provided,174,False
+2026-09-01,LOC002,LEO MODA Online Store,P035,CAT-035,Girls' sweatshirt-Fuchsia,220,31,29,1,0,223,0.48,5,10,10,464.6,0,Modeled inventory history - no forecast columns provided,223,False
+2026-09-01,LOC002,LEO MODA Online Store,P036,CAT-036,Girls' sweatshirt-Tinker Bell,272,30,33,0,0,269,0.48,7,17,21,560.4,0,Modeled inventory history - no forecast columns provided,269,False
+2026-09-01,LOC002,LEO MODA Online Store,P037,CAT-037,Girls' sweatshirt-Flower,366,89,101,4,1,357,1.57,21,54,21,227.4,0,Modeled inventory history - no forecast columns provided,357,False
+2026-09-01,LOC002,LEO MODA Online Store,P038,CAT-038,Boys' Autumn Pajamas-Mickey Mouse,266,66,66,9,0,275,1.13,5,11,5,243.4,0,Modeled inventory history - no forecast columns provided,275,False
+2026-09-01,LOC002,LEO MODA Online Store,P039,CAT-039,Boys' Autumn Pajamas-Spider Man,116,40,46,8,0,118,0.81,5,11,7,145.7,0,Modeled inventory history - no forecast columns provided,118,False
+2026-09-01,LOC002,LEO MODA Online Store,P040,CAT-040,Boys' Autumn Pajamas-Loony Tunes,312,20,20,0,0,312,0.38,5,9,10,821.1,0,Modeled inventory history - no forecast columns provided,312,False
+2026-09-01,LOC002,LEO MODA Online Store,P041,CAT-041,Boys' Autumn Pajamas-Jurassic Park,3254,126,37,0,0,3343,0.78,11,27,21,4285.9,0,Modeled inventory history - no forecast columns provided,3343,False
+2026-09-01,LOC002,LEO MODA Online Store,P042,CAT-042,Girls' autumn pajamas-Cheeky Charmins,284,27,30,3,0,284,0.43,5,11,14,660.5,0,Modeled inventory history - no forecast columns provided,284,False
+2026-09-01,LOC002,LEO MODA Online Store,P043,CAT-043,Girls' autumn pajamas-Snow White,356,64,58,2,0,364,0.8,5,9,5,455.0,0,Modeled inventory history - no forecast columns provided,364,False
+2026-09-01,LOC002,LEO MODA Online Store,P044,CAT-044,Girls' autumn pajamas-Ice Cream,93,37,40,8,0,98,0.8,7,18,14,122.5,0,Modeled inventory history - no forecast columns provided,98,False
+2026-09-01,LOC002,LEO MODA Online Store,P045,CAT-045,Girls' autumn pajamas-Stitch,153,63,64,1,0,153,0.91,5,11,7,168.1,0,Modeled inventory history - no forecast columns provided,153,False
+2026-09-01,LOC002,LEO MODA Online Store,P046,CAT-046,Mustard - طقم تيشيرت وشورت اطفال صيفي,236,43,41,5,0,243,2.36,11,28,7,103.0,0,Modeled inventory history - no forecast columns provided,243,False
+2026-09-01,LOC002,LEO MODA Online Store,P047,CAT-047,Mauve - طقم تيشيرت وشورت اطفال صيفي,152,25,26,1,0,152,1.35,6,15,7,112.6,0,Modeled inventory history - no forecast columns provided,152,False
+2026-09-01,LOC002,LEO MODA Online Store,P048,CAT-048,Semon - طقم تيشيرت وشورت اطفال صيفي,97,65,71,6,1,96,3.37,15,39,7,28.5,0,Modeled inventory history - no forecast columns provided,96,False
+2026-09-01,LOC002,LEO MODA Online Store,P049,CAT-049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,253,40,37,2,0,258,2.03,18,46,14,127.1,0,Modeled inventory history - no forecast columns provided,258,False
+2026-09-01,LOC002,LEO MODA Online Store,P050,CAT-050,Yellow - طقم تيشيرت وشورت اطفال صيفي,104,54,64,6,0,100,2.25,15,38,10,44.4,0,Modeled inventory history - no forecast columns provided,100,False
+2026-09-01,LOC002,LEO MODA Online Store,P051,CAT-051,Ice cream - بيجامة حريمي صيفي2024,444,136,154,11,0,437,7.43,34,86,7,58.8,0,Modeled inventory history - no forecast columns provided,437,False
+2026-09-01,LOC002,LEO MODA Online Store,P052,CAT-052,Teddy bear - بيجامة حريمي صيفي2024,262,27,25,0,0,264,0.92,8,21,14,287.0,0,Modeled inventory history - no forecast columns provided,264,False
+2026-09-01,LOC002,LEO MODA Online Store,P053,CAT-053,PINK panther - بيجامة حريمي صيفي2024,165,54,67,3,0,155,3.02,27,69,14,51.3,0,Modeled inventory history - no forecast columns provided,155,False
+2026-09-01,LOC002,LEO MODA Online Store,P054,CAT-054,Gazelle - بيجامة حريمي صيفي2024,2998,145,32,4,0,3115,1.46,13,33,14,2133.6,0,Modeled inventory history - no forecast columns provided,3115,False
+2026-09-01,LOC002,LEO MODA Online Store,P055,CAT-055,Scooby-Doo - بيجامة حريمي صيفي2024,194,58,71,8,1,188,3.3,45,114,21,57.0,0,Modeled inventory history - no forecast columns provided,188,False
+2026-09-01,LOC002,LEO MODA Online Store,P056,CAT-056,BATGIRL - بيجامة حريمي صيفي2024,173,73,85,6,0,167,3.43,47,119,21,48.7,0,Modeled inventory history - no forecast columns provided,167,False
+2026-09-01,LOC002,LEO MODA Online Store,P057,CAT-057,Save the planet بيجامة حريمي صيفي - 2024,315,48,44,2,0,321,1.96,18,45,14,163.8,0,Modeled inventory history - no forecast columns provided,321,False
+2026-09-01,LOC002,LEO MODA Online Store,P058,CAT-058,OHANA - بيجامة حريمي صيفي 2024,245,39,41,2,0,245,1.69,11,28,10,145.0,0,Modeled inventory history - no forecast columns provided,245,False
+2026-09-01,LOC002,LEO MODA Online Store,P059,CAT-059,Positive vibes - 2024بيجامة حريمي صيفي,275,68,82,3,0,264,4.04,13,33,5,65.3,0,Modeled inventory history - no forecast columns provided,264,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P001,26115-8,Summer children's girls-Happy,200,2341,2160,120,7,494,94.47,430,1091,7,5.2,0,Modeled inventory history - no forecast columns provided,494,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P002,26115-6,Summer children's girls-turtle,4,504,588,0,3,0,26.91,367,932,21,0.0,11,Modeled inventory history - no forecast columns provided,-83,True
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P003,26115-5,Summer children's girls-Hello kitty Rose & turquoise,0,989,972,0,4,13,42.7,139,352,5,0.3,0,Modeled inventory history - no forecast columns provided,13,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P004,26115-7,Summer children's girls-Hello kitty black&white,0,445,462,0,2,0,26.25,239,606,14,0.0,13,Modeled inventory history - no forecast columns provided,-19,True
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P005,26115-2,Summer children's boys-Black and orange,209,828,894,0,3,140,49.21,672,1705,21,2.8,0,Modeled inventory history - no forecast columns provided,140,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P006,26115-1,Summer children's boys-Sonic,0,519,516,0,1,2,34.08,310,787,14,0.1,0,Modeled inventory history - no forecast columns provided,2,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P007,26115-3,Summer children's boys-Black and turquoise,419,445,438,0,0,426,23.36,76,193,5,18.2,0,Modeled inventory history - no forecast columns provided,426,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P008,26115-4,Summer children's boys-SpongeBob,380,2001,1962,0,6,413,90.13,586,1487,10,4.6,0,Modeled inventory history - no forecast columns provided,413,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P009,LEO-WC-P-5404,Boys' summer t-shirt-Aubergine,196,694,648,0,3,239,22.7,74,188,5,10.5,0,Modeled inventory history - no forecast columns provided,239,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P010,LEO-WC-P-5403,Boys' summer t-shirt-olive,459,497,468,0,2,486,18.68,255,647,21,26.0,0,Modeled inventory history - no forecast columns provided,486,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P011,LEO-WC-P-5402,Boys' summer t-shirt-Navy blue,219,394,456,0,2,155,14.14,46,117,5,11.0,0,Modeled inventory history - no forecast columns provided,155,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P012,LEO-WC-P-5401,Boys' summer t-shirt-light beige,413,911,1056,0,4,264,37.3,170,431,7,7.1,0,Modeled inventory history - no forecast columns provided,264,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P013,CAT-013,Boys' summer t-shirt-Beige,440,713,654,0,0,499,25.0,81,206,5,20.0,0,Modeled inventory history - no forecast columns provided,499,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P014,CAT-014,Boys' summer t-shirt-Black,238,1029,1158,0,5,104,47.11,643,1632,21,2.2,0,Modeled inventory history - no forecast columns provided,104,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P015,CAT-015,Girls' summer pajamas-Stay cool,109,472,474,0,1,106,20.79,135,343,10,5.1,0,Modeled inventory history - no forecast columns provided,106,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P016,CAT-016,Girls' summer pajamas-Watercolor Floral,0,656,606,0,3,47,25.46,116,294,7,1.8,0,Modeled inventory history - no forecast columns provided,47,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P017,CAT-017,Girls' summer pajamas-flower,210,635,756,0,2,87,37.7,515,1307,21,2.3,0,Modeled inventory history - no forecast columns provided,87,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P018,CAT-018,Boys' summer pajamas-Wear your attitude,119,429,510,36,0,74,18.88,258,654,21,3.9,0,Modeled inventory history - no forecast columns provided,74,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P019,CAT-019,Boys' summer pajamas- Seeds OF,3384,308,186,0,0,3506,11.05,101,256,14,317.3,0,Modeled inventory history - no forecast columns provided,3506,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P020,CAT-020,Boys' summer pajamas-Rock Band,328,291,276,0,1,342,15.66,51,129,5,21.8,0,Modeled inventory history - no forecast columns provided,342,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P021,CAT-021,Girls' summer pajamas-Minnie Mouse,186,793,876,0,4,99,40.46,131,333,5,2.4,0,Modeled inventory history - no forecast columns provided,99,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P022,CAT-022,Girls' summer pajamas-Stitch,54,420,378,0,1,95,15.39,100,254,10,6.2,0,Modeled inventory history - no forecast columns provided,95,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P023,CAT-023,Girls' summer pajamas-Dumbo,3696,279,216,30,0,3789,9.08,30,75,5,417.3,0,Modeled inventory history - no forecast columns provided,3789,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P024,CAT-024,Boys' summer pajamas-Mickey,744,751,780,0,2,713,40.99,187,474,7,17.4,0,Modeled inventory history - no forecast columns provided,713,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P025,CAT-025,Boys' summer pajamas-Snoopy,53,346,354,0,1,44,17.76,242,615,21,2.5,0,Modeled inventory history - no forecast columns provided,44,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P026,CAT-026,Boys' summer pajamas-Bluey,288,476,510,0,1,253,13.55,62,157,7,18.7,0,Modeled inventory history - no forecast columns provided,253,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P027,CAT-027,Girls' pajamas - I'm Just a girl,174,533,624,0,1,82,21.58,196,498,14,3.8,0,Modeled inventory history - no forecast columns provided,82,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P028,CAT-028,Girls' summer pajamas,492,594,660,30,2,454,15.53,141,358,14,29.2,0,Modeled inventory history - no forecast columns provided,454,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P029,CAT-029,Girls' pajamas-Daylife+kuromi,973,886,1002,24,5,876,45.92,298,757,10,19.1,0,Modeled inventory history - no forecast columns provided,876,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P030,CAT-030,Boys' pajamas -Mickey Mouse,534,210,234,0,0,510,18.82,122,310,10,27.1,0,Modeled inventory history - no forecast columns provided,510,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P031,CAT-031,Boys' pajamas -Don't Even!,320,666,750,30,4,262,27.37,374,949,21,9.6,0,Modeled inventory history - no forecast columns provided,262,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P032,CAT-032,Boys' sweatshirt-blue,799,599,708,0,3,687,10.72,98,248,14,64.1,0,Modeled inventory history - no forecast columns provided,687,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P033,CAT-033,Boys' sweatshirt-LEO,45,373,372,0,1,45,10.66,49,124,7,4.2,0,Modeled inventory history - no forecast columns provided,45,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P034,CAT-034,Boys' sweatshirt-black and white,613,301,306,0,0,608,5.39,49,124,14,112.8,0,Modeled inventory history - no forecast columns provided,608,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P035,CAT-035,Girls' sweatshirt-Fuchsia,178,313,348,0,0,143,5.13,33,84,10,27.9,0,Modeled inventory history - no forecast columns provided,143,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P036,CAT-036,Girls' sweatshirt-Tinker Bell,220,442,444,18,2,234,6.51,42,107,10,35.9,0,Modeled inventory history - no forecast columns provided,234,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P037,CAT-037,Girls' sweatshirt-Flower,2068,498,552,0,0,2014,12.83,175,444,21,157.0,0,Modeled inventory history - no forecast columns provided,2014,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P038,CAT-038,Boys' Autumn Pajamas-Mickey Mouse,1,688,642,12,3,56,10.59,34,87,5,5.3,0,Modeled inventory history - no forecast columns provided,56,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P039,CAT-039,Boys' Autumn Pajamas-Spider Man,334,551,624,0,3,258,12.5,171,434,21,20.6,0,Modeled inventory history - no forecast columns provided,258,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P040,CAT-040,Boys' Autumn Pajamas-Loony Tunes,624,134,156,0,0,602,4.28,58,148,21,140.7,0,Modeled inventory history - no forecast columns provided,602,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P041,CAT-041,Boys' Autumn Pajamas-Jurassic Park,3249,402,270,0,0,3381,5.13,33,84,10,659.1,0,Modeled inventory history - no forecast columns provided,3381,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P042,CAT-042,Girls' autumn pajamas-Cheeky Charmins,0,435,456,0,1,0,6.78,31,78,7,0.0,5,Modeled inventory history - no forecast columns provided,-22,True
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P043,CAT-043,Girls' autumn pajamas-Snow White,57,491,486,0,1,61,10.26,67,170,10,5.9,0,Modeled inventory history - no forecast columns provided,61,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P044,CAT-044,Girls' autumn pajamas-Ice Cream,29,463,504,0,1,0,8.16,74,188,14,0.0,3,Modeled inventory history - no forecast columns provided,-13,True
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P045,CAT-045,Girls' autumn pajamas-Stitch,159,620,570,0,2,207,9.8,89,226,14,21.1,0,Modeled inventory history - no forecast columns provided,207,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P046,CAT-046,Mustard - طقم تيشيرت وشورت اطفال صيفي,388,740,762,24,4,386,31.71,206,523,10,12.2,0,Modeled inventory history - no forecast columns provided,386,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P047,CAT-047,Mauve - طقم تيشيرت وشورت اطفال صيفي,298,224,270,0,1,251,14.87,135,343,14,16.9,0,Modeled inventory history - no forecast columns provided,251,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P048,CAT-048,Semon - طقم تيشيرت وشورت اطفال صيفي,0,905,1056,0,2,0,44.34,144,366,5,0.0,5,Modeled inventory history - no forecast columns provided,-153,True
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P049,CAT-049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,0,789,942,0,2,0,31.58,144,365,7,0.0,13,Modeled inventory history - no forecast columns provided,-155,True
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P050,CAT-050,Yellow - طقم تيشيرت وشورت اطفال صيفي,295,1167,1050,36,3,445,30.72,280,710,14,14.5,0,Modeled inventory history - no forecast columns provided,445,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P051,CAT-051,Ice cream - بيجامة حريمي صيفي2024,894,1514,1644,0,6,758,68.82,447,1135,10,11.0,0,Modeled inventory history - no forecast columns provided,758,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P052,CAT-052,Teddy bear - بيجامة حريمي صيفي2024,463,125,150,0,0,438,5.33,24,61,7,82.2,0,Modeled inventory history - no forecast columns provided,438,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P053,CAT-053,PINK panther - بيجامة حريمي صيفي2024,164,435,486,0,1,112,32.7,149,378,7,3.4,0,Modeled inventory history - no forecast columns provided,112,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P054,CAT-054,Gazelle - بيجامة حريمي صيفي2024,3469,552,462,30,1,3588,15.0,136,346,14,239.2,0,Modeled inventory history - no forecast columns provided,3588,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P055,CAT-055,Scooby-Doo - بيجامة حريمي صيفي2024,0,1134,1110,54,5,73,37.83,172,437,7,1.9,0,Modeled inventory history - no forecast columns provided,73,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P056,CAT-056,BATGIRL - بيجامة حريمي صيفي2024,1210,756,882,36,4,1116,45.07,293,744,10,24.8,0,Modeled inventory history - no forecast columns provided,1116,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P057,CAT-057,Save the planet بيجامة حريمي صيفي - 2024,326,623,570,0,3,376,20.53,133,338,10,18.3,0,Modeled inventory history - no forecast columns provided,376,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P058,CAT-058,OHANA - بيجامة حريمي صيفي 2024,247,412,468,0,3,188,22.11,302,766,21,8.5,0,Modeled inventory history - no forecast columns provided,188,False
+2026-09-01,LOC003,El-Sharnouby Wholesale Desk,P059,CAT-059,Positive vibes - 2024بيجامة حريمي صيفي,520,1047,948,12,4,627,49.28,320,813,10,12.7,0,Modeled inventory history - no forecast columns provided,627,False

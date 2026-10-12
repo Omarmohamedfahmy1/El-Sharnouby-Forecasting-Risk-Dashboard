@@ -1,0 +1,532 @@
+Product_ID,Product_Name,Location_ID,Location_Name,Channel,Horizon_Days,Estimated_Stockout_Date,Days_Until_Estimated_Stockout,Conditional_Production_Lead_Time_Days,Conditional_Material_Procurement_Lead_Time_Days,Conditional_End_To_End_Lead_Time_Days,Conditional_Production_Start_By_Date,Conditional_Material_Action_By_Date,Production_Action_Status,Material_Action_Status
+P001,Summer children's girls-Happy,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,2026-10-05,5.0,24.0,21.0,45.0,2026-09-11,2026-08-21,At/Before forecast origin,At/Before forecast origin
+P001,Summer children's girls-Happy,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,2026-10-05,5.0,24.0,21.0,45.0,2026-09-11,2026-08-21,At/Before forecast origin,At/Before forecast origin
+P001,Summer children's girls-Happy,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,2026-10-05,5.0,24.0,21.0,45.0,2026-09-11,2026-08-21,At/Before forecast origin,At/Before forecast origin
+P001,Summer children's girls-Happy,LOC002,LEO MODA Online Store,Online,30,2026-11-18,49.0,24.0,21.0,45.0,2026-10-25,2026-10-04,Future planning date,Future planning date
+P001,Summer children's girls-Happy,LOC002,LEO MODA Online Store,Online,60,2026-11-18,49.0,24.0,21.0,45.0,2026-10-25,2026-10-04,Future planning date,Future planning date
+P001,Summer children's girls-Happy,LOC002,LEO MODA Online Store,Online,90,2026-11-18,49.0,24.0,21.0,45.0,2026-10-25,2026-10-04,Future planning date,Future planning date
+P001,Summer children's girls-Happy,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-22,22.0,24.0,21.0,45.0,2026-09-28,2026-09-07,At/Before forecast origin,At/Before forecast origin
+P001,Summer children's girls-Happy,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-22,22.0,24.0,21.0,45.0,2026-09-28,2026-09-07,At/Before forecast origin,At/Before forecast origin
+P001,Summer children's girls-Happy,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-22,22.0,24.0,21.0,45.0,2026-09-28,2026-09-07,At/Before forecast origin,At/Before forecast origin
+P002,Summer children's girls-turtle,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,2026-10-11,11.0,23.0,21.0,44.0,2026-09-18,2026-08-28,At/Before forecast origin,At/Before forecast origin
+P002,Summer children's girls-turtle,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,2026-10-11,11.0,23.0,21.0,44.0,2026-09-18,2026-08-28,At/Before forecast origin,At/Before forecast origin
+P002,Summer children's girls-turtle,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,2026-10-11,11.0,23.0,21.0,44.0,2026-09-18,2026-08-28,At/Before forecast origin,At/Before forecast origin
+P002,Summer children's girls-turtle,LOC002,LEO MODA Online Store,Online,30,2026-10-01,1.0,23.0,21.0,44.0,2026-09-08,2026-08-18,At/Before forecast origin,At/Before forecast origin
+P002,Summer children's girls-turtle,LOC002,LEO MODA Online Store,Online,60,2026-10-01,1.0,23.0,21.0,44.0,2026-09-08,2026-08-18,At/Before forecast origin,At/Before forecast origin
+P002,Summer children's girls-turtle,LOC002,LEO MODA Online Store,Online,90,2026-10-01,1.0,23.0,21.0,44.0,2026-09-08,2026-08-18,At/Before forecast origin,At/Before forecast origin
+P002,Summer children's girls-turtle,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-01,1.0,23.0,21.0,44.0,2026-09-08,2026-08-18,At/Before forecast origin,At/Before forecast origin
+P002,Summer children's girls-turtle,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-01,1.0,23.0,21.0,44.0,2026-09-08,2026-08-18,At/Before forecast origin,At/Before forecast origin
+P002,Summer children's girls-turtle,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-01,1.0,23.0,21.0,44.0,2026-09-08,2026-08-18,At/Before forecast origin,At/Before forecast origin
+P003,Summer children's girls-Hello kitty Rose & turquoise,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,24.4,21.0,45.4,,,No 90-day stockout,No 90-day stockout
+P003,Summer children's girls-Hello kitty Rose & turquoise,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,24.4,21.0,45.4,,,No 90-day stockout,No 90-day stockout
+P003,Summer children's girls-Hello kitty Rose & turquoise,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,24.4,21.0,45.4,,,No 90-day stockout,No 90-day stockout
+P003,Summer children's girls-Hello kitty Rose & turquoise,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,24.4,21.0,45.4,,,No 90-day stockout,No 90-day stockout
+P003,Summer children's girls-Hello kitty Rose & turquoise,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,24.4,21.0,45.4,,,No 90-day stockout,No 90-day stockout
+P003,Summer children's girls-Hello kitty Rose & turquoise,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,24.4,21.0,45.4,,,No 90-day stockout,No 90-day stockout
+P003,Summer children's girls-Hello kitty Rose & turquoise,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-03,3.0,24.4,21.0,45.4,2026-09-08,2026-08-18,At/Before forecast origin,At/Before forecast origin
+P003,Summer children's girls-Hello kitty Rose & turquoise,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-03,3.0,24.4,21.0,45.4,2026-09-08,2026-08-18,At/Before forecast origin,At/Before forecast origin
+P003,Summer children's girls-Hello kitty Rose & turquoise,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-02,2.0,24.4,21.0,45.4,2026-09-07,2026-08-17,At/Before forecast origin,At/Before forecast origin
+P004,Summer children's girls-Hello kitty black&white,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,22.200000000000003,22.0,44.2,,,No 90-day stockout,No 90-day stockout
+P004,Summer children's girls-Hello kitty black&white,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,22.200000000000003,22.0,44.2,,,No 90-day stockout,No 90-day stockout
+P004,Summer children's girls-Hello kitty black&white,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,22.200000000000003,22.0,44.2,,,No 90-day stockout,No 90-day stockout
+P004,Summer children's girls-Hello kitty black&white,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,22.200000000000003,22.0,44.2,,,No 90-day stockout,No 90-day stockout
+P004,Summer children's girls-Hello kitty black&white,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,22.200000000000003,22.0,44.2,,,No 90-day stockout,No 90-day stockout
+P004,Summer children's girls-Hello kitty black&white,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,22.200000000000003,22.0,44.2,,,No 90-day stockout,No 90-day stockout
+P004,Summer children's girls-Hello kitty black&white,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-01,1.0,22.200000000000003,22.0,44.2,2026-09-08,2026-08-17,At/Before forecast origin,At/Before forecast origin
+P004,Summer children's girls-Hello kitty black&white,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-01,1.0,22.200000000000003,22.0,44.2,2026-09-08,2026-08-17,At/Before forecast origin,At/Before forecast origin
+P004,Summer children's girls-Hello kitty black&white,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-01,1.0,22.200000000000003,22.0,44.2,2026-09-08,2026-08-17,At/Before forecast origin,At/Before forecast origin
+P005,Summer children's boys-Black and orange,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P005,Summer children's boys-Black and orange,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P005,Summer children's boys-Black and orange,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P005,Summer children's boys-Black and orange,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P005,Summer children's boys-Black and orange,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P005,Summer children's boys-Black and orange,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P005,Summer children's boys-Black and orange,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-19,19.0,24.0,22.0,46.0,2026-09-25,2026-09-03,At/Before forecast origin,At/Before forecast origin
+P005,Summer children's boys-Black and orange,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-19,19.0,24.0,22.0,46.0,2026-09-25,2026-09-03,At/Before forecast origin,At/Before forecast origin
+P005,Summer children's boys-Black and orange,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-19,19.0,24.0,22.0,46.0,2026-09-25,2026-09-03,At/Before forecast origin,At/Before forecast origin
+P006,Summer children's boys-Sonic,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P006,Summer children's boys-Sonic,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P006,Summer children's boys-Sonic,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P006,Summer children's boys-Sonic,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P006,Summer children's boys-Sonic,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P006,Summer children's boys-Sonic,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P006,Summer children's boys-Sonic,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-01,1.0,24.0,21.0,45.0,2026-09-07,2026-08-17,At/Before forecast origin,At/Before forecast origin
+P006,Summer children's boys-Sonic,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-01,1.0,24.0,21.0,45.0,2026-09-07,2026-08-17,At/Before forecast origin,At/Before forecast origin
+P006,Summer children's boys-Sonic,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-01,1.0,24.0,21.0,45.0,2026-09-07,2026-08-17,At/Before forecast origin,At/Before forecast origin
+P007,Summer children's boys-Black and turquoise,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,22.3,21.0,43.3,,,No 90-day stockout,No 90-day stockout
+P007,Summer children's boys-Black and turquoise,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,22.3,21.0,43.3,,,No 90-day stockout,No 90-day stockout
+P007,Summer children's boys-Black and turquoise,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,22.3,21.0,43.3,,,No 90-day stockout,No 90-day stockout
+P007,Summer children's boys-Black and turquoise,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,22.3,21.0,43.3,,,No 90-day stockout,No 90-day stockout
+P007,Summer children's boys-Black and turquoise,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,22.3,21.0,43.3,,,No 90-day stockout,No 90-day stockout
+P007,Summer children's boys-Black and turquoise,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,22.3,21.0,43.3,,,No 90-day stockout,No 90-day stockout
+P007,Summer children's boys-Black and turquoise,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-11-08,39.0,22.3,21.0,43.3,2026-10-16,2026-09-25,Future planning date,At/Before forecast origin
+P007,Summer children's boys-Black and turquoise,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-11-13,44.0,22.3,21.0,43.3,2026-10-21,2026-09-30,Future planning date,At/Before forecast origin
+P007,Summer children's boys-Black and turquoise,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-11-13,44.0,22.3,21.0,43.3,2026-10-21,2026-09-30,Future planning date,At/Before forecast origin
+P008,Summer children's boys-SpongeBob,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P008,Summer children's boys-SpongeBob,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P008,Summer children's boys-SpongeBob,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P008,Summer children's boys-SpongeBob,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P008,Summer children's boys-SpongeBob,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P008,Summer children's boys-SpongeBob,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P008,Summer children's boys-SpongeBob,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-22,22.0,24.0,21.0,45.0,2026-09-28,2026-09-07,At/Before forecast origin,At/Before forecast origin
+P008,Summer children's boys-SpongeBob,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-10,10.0,24.0,21.0,45.0,2026-09-16,2026-08-26,At/Before forecast origin,At/Before forecast origin
+P008,Summer children's boys-SpongeBob,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-22,22.0,24.0,21.0,45.0,2026-09-28,2026-09-07,At/Before forecast origin,At/Before forecast origin
+P009,Boys' summer t-shirt-Aubergine,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P009,Boys' summer t-shirt-Aubergine,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P009,Boys' summer t-shirt-Aubergine,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P009,Boys' summer t-shirt-Aubergine,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P009,Boys' summer t-shirt-Aubergine,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P009,Boys' summer t-shirt-Aubergine,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P009,Boys' summer t-shirt-Aubergine,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-22,22.0,23.0,21.0,44.0,2026-09-29,2026-09-08,At/Before forecast origin,At/Before forecast origin
+P009,Boys' summer t-shirt-Aubergine,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-22,22.0,23.0,21.0,44.0,2026-09-29,2026-09-08,At/Before forecast origin,At/Before forecast origin
+P009,Boys' summer t-shirt-Aubergine,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-14,14.0,23.0,21.0,44.0,2026-09-21,2026-08-31,At/Before forecast origin,At/Before forecast origin
+P010,Boys' summer t-shirt-olive,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P010,Boys' summer t-shirt-olive,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P010,Boys' summer t-shirt-olive,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P010,Boys' summer t-shirt-olive,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P010,Boys' summer t-shirt-olive,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P010,Boys' summer t-shirt-olive,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P010,Boys' summer t-shirt-olive,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-12-10,71.0,23.0,21.0,44.0,2026-11-17,2026-10-27,Future planning date,Future planning date
+P010,Boys' summer t-shirt-olive,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-12-10,71.0,23.0,21.0,44.0,2026-11-17,2026-10-27,Future planning date,Future planning date
+P010,Boys' summer t-shirt-olive,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-12-10,71.0,23.0,21.0,44.0,2026-11-17,2026-10-27,Future planning date,Future planning date
+P011,Boys' summer t-shirt-Navy blue,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,22.7,21.0,43.7,,,No 90-day stockout,No 90-day stockout
+P011,Boys' summer t-shirt-Navy blue,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,22.7,21.0,43.7,,,No 90-day stockout,No 90-day stockout
+P011,Boys' summer t-shirt-Navy blue,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,22.7,21.0,43.7,,,No 90-day stockout,No 90-day stockout
+P011,Boys' summer t-shirt-Navy blue,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,22.7,21.0,43.7,,,No 90-day stockout,No 90-day stockout
+P011,Boys' summer t-shirt-Navy blue,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,22.7,21.0,43.7,,,No 90-day stockout,No 90-day stockout
+P011,Boys' summer t-shirt-Navy blue,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,22.7,21.0,43.7,,,No 90-day stockout,No 90-day stockout
+P011,Boys' summer t-shirt-Navy blue,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-28,28.0,22.7,21.0,43.7,2026-10-05,2026-09-14,Future planning date,At/Before forecast origin
+P011,Boys' summer t-shirt-Navy blue,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-28,28.0,22.7,21.0,43.7,2026-10-05,2026-09-14,Future planning date,At/Before forecast origin
+P011,Boys' summer t-shirt-Navy blue,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-28,28.0,22.7,21.0,43.7,2026-10-05,2026-09-14,Future planning date,At/Before forecast origin
+P012,Boys' summer t-shirt-light beige,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,22.0,21.0,43.0,,,No 90-day stockout,No 90-day stockout
+P012,Boys' summer t-shirt-light beige,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,22.0,21.0,43.0,,,No 90-day stockout,No 90-day stockout
+P012,Boys' summer t-shirt-light beige,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,22.0,21.0,43.0,,,No 90-day stockout,No 90-day stockout
+P012,Boys' summer t-shirt-light beige,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,22.0,21.0,43.0,,,No 90-day stockout,No 90-day stockout
+P012,Boys' summer t-shirt-light beige,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,22.0,21.0,43.0,,,No 90-day stockout,No 90-day stockout
+P012,Boys' summer t-shirt-light beige,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,22.0,21.0,43.0,,,No 90-day stockout,No 90-day stockout
+P012,Boys' summer t-shirt-light beige,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-12,12.0,22.0,21.0,43.0,2026-09-20,2026-08-30,At/Before forecast origin,At/Before forecast origin
+P012,Boys' summer t-shirt-light beige,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-12,12.0,22.0,21.0,43.0,2026-09-20,2026-08-30,At/Before forecast origin,At/Before forecast origin
+P012,Boys' summer t-shirt-light beige,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-11-06,37.0,22.0,21.0,43.0,2026-10-15,2026-09-24,Future planning date,At/Before forecast origin
+P013,Boys' summer t-shirt-Beige,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,23.1,22.0,45.1,,,No 90-day stockout,No 90-day stockout
+P013,Boys' summer t-shirt-Beige,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,23.1,22.0,45.1,,,No 90-day stockout,No 90-day stockout
+P013,Boys' summer t-shirt-Beige,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,23.1,22.0,45.1,,,No 90-day stockout,No 90-day stockout
+P013,Boys' summer t-shirt-Beige,LOC002,LEO MODA Online Store,Online,30,2026-12-24,85.0,23.1,22.0,45.1,2026-11-30,2026-11-08,Future planning date,Future planning date
+P013,Boys' summer t-shirt-Beige,LOC002,LEO MODA Online Store,Online,60,2026-12-24,85.0,23.1,22.0,45.1,2026-11-30,2026-11-08,Future planning date,Future planning date
+P013,Boys' summer t-shirt-Beige,LOC002,LEO MODA Online Store,Online,90,2026-12-24,85.0,23.1,22.0,45.1,2026-11-30,2026-11-08,Future planning date,Future planning date
+P013,Boys' summer t-shirt-Beige,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-11-22,53.0,23.1,22.0,45.1,2026-10-29,2026-10-07,Future planning date,Future planning date
+P013,Boys' summer t-shirt-Beige,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-11-22,53.0,23.1,22.0,45.1,2026-10-29,2026-10-07,Future planning date,Future planning date
+P013,Boys' summer t-shirt-Beige,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-11-22,53.0,23.1,22.0,45.1,2026-10-29,2026-10-07,Future planning date,Future planning date
+P014,Boys' summer t-shirt-Black,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,22.0,22.0,44.0,,,No 90-day stockout,No 90-day stockout
+P014,Boys' summer t-shirt-Black,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,22.0,22.0,44.0,,,No 90-day stockout,No 90-day stockout
+P014,Boys' summer t-shirt-Black,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,22.0,22.0,44.0,,,No 90-day stockout,No 90-day stockout
+P014,Boys' summer t-shirt-Black,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,22.0,22.0,44.0,,,No 90-day stockout,No 90-day stockout
+P014,Boys' summer t-shirt-Black,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,22.0,22.0,44.0,,,No 90-day stockout,No 90-day stockout
+P014,Boys' summer t-shirt-Black,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,22.0,22.0,44.0,,,No 90-day stockout,No 90-day stockout
+P014,Boys' summer t-shirt-Black,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-09,9.0,22.0,22.0,44.0,2026-09-17,2026-08-26,At/Before forecast origin,At/Before forecast origin
+P014,Boys' summer t-shirt-Black,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-09,9.0,22.0,22.0,44.0,2026-09-17,2026-08-26,At/Before forecast origin,At/Before forecast origin
+P014,Boys' summer t-shirt-Black,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-09,9.0,22.0,22.0,44.0,2026-09-17,2026-08-26,At/Before forecast origin,At/Before forecast origin
+P015,Girls' summer pajamas-Stay cool,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P015,Girls' summer pajamas-Stay cool,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P015,Girls' summer pajamas-Stay cool,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P015,Girls' summer pajamas-Stay cool,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P015,Girls' summer pajamas-Stay cool,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P015,Girls' summer pajamas-Stay cool,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P015,Girls' summer pajamas-Stay cool,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-08,8.0,24.0,22.0,46.0,2026-09-14,2026-08-23,At/Before forecast origin,At/Before forecast origin
+P015,Girls' summer pajamas-Stay cool,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-08,8.0,24.0,22.0,46.0,2026-09-14,2026-08-23,At/Before forecast origin,At/Before forecast origin
+P015,Girls' summer pajamas-Stay cool,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-10,10.0,24.0,22.0,46.0,2026-09-16,2026-08-25,At/Before forecast origin,At/Before forecast origin
+P016,Girls' summer pajamas-Watercolor Floral,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P016,Girls' summer pajamas-Watercolor Floral,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P016,Girls' summer pajamas-Watercolor Floral,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P016,Girls' summer pajamas-Watercolor Floral,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P016,Girls' summer pajamas-Watercolor Floral,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P016,Girls' summer pajamas-Watercolor Floral,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P016,Girls' summer pajamas-Watercolor Floral,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-21,21.0,24.0,21.0,45.0,2026-09-27,2026-09-06,At/Before forecast origin,At/Before forecast origin
+P016,Girls' summer pajamas-Watercolor Floral,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-21,21.0,24.0,21.0,45.0,2026-09-27,2026-09-06,At/Before forecast origin,At/Before forecast origin
+P016,Girls' summer pajamas-Watercolor Floral,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-04,4.0,24.0,21.0,45.0,2026-09-10,2026-08-20,At/Before forecast origin,At/Before forecast origin
+P017,Girls' summer pajamas-flower,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P017,Girls' summer pajamas-flower,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P017,Girls' summer pajamas-flower,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P017,Girls' summer pajamas-flower,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P017,Girls' summer pajamas-flower,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P017,Girls' summer pajamas-flower,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P017,Girls' summer pajamas-flower,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-07,7.0,24.0,21.0,45.0,2026-09-13,2026-08-23,At/Before forecast origin,At/Before forecast origin
+P017,Girls' summer pajamas-flower,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-06,6.0,24.0,21.0,45.0,2026-09-12,2026-08-22,At/Before forecast origin,At/Before forecast origin
+P017,Girls' summer pajamas-flower,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-06,6.0,24.0,21.0,45.0,2026-09-12,2026-08-22,At/Before forecast origin,At/Before forecast origin
+P018,Boys' summer pajamas-Wear your attitude,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P018,Boys' summer pajamas-Wear your attitude,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P018,Boys' summer pajamas-Wear your attitude,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P018,Boys' summer pajamas-Wear your attitude,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P018,Boys' summer pajamas-Wear your attitude,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P018,Boys' summer pajamas-Wear your attitude,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P018,Boys' summer pajamas-Wear your attitude,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-05,5.0,23.0,21.0,44.0,2026-09-12,2026-08-22,At/Before forecast origin,At/Before forecast origin
+P018,Boys' summer pajamas-Wear your attitude,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-05,5.0,23.0,21.0,44.0,2026-09-12,2026-08-22,At/Before forecast origin,At/Before forecast origin
+P018,Boys' summer pajamas-Wear your attitude,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-05,5.0,23.0,21.0,44.0,2026-09-12,2026-08-22,At/Before forecast origin,At/Before forecast origin
+P019,Boys' summer pajamas- Seeds OF,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P019,Boys' summer pajamas- Seeds OF,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P019,Boys' summer pajamas- Seeds OF,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P019,Boys' summer pajamas- Seeds OF,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P019,Boys' summer pajamas- Seeds OF,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P019,Boys' summer pajamas- Seeds OF,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P019,Boys' summer pajamas- Seeds OF,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P019,Boys' summer pajamas- Seeds OF,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P019,Boys' summer pajamas- Seeds OF,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P020,Boys' summer pajamas-Rock Band,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,20.3,22.0,42.3,,,No 90-day stockout,No 90-day stockout
+P020,Boys' summer pajamas-Rock Band,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,20.3,22.0,42.3,,,No 90-day stockout,No 90-day stockout
+P020,Boys' summer pajamas-Rock Band,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,20.3,22.0,42.3,,,No 90-day stockout,No 90-day stockout
+P020,Boys' summer pajamas-Rock Band,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,20.3,22.0,42.3,,,No 90-day stockout,No 90-day stockout
+P020,Boys' summer pajamas-Rock Band,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,20.3,22.0,42.3,,,No 90-day stockout,No 90-day stockout
+P020,Boys' summer pajamas-Rock Band,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,20.3,22.0,42.3,,,No 90-day stockout,No 90-day stockout
+P020,Boys' summer pajamas-Rock Band,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,Not within 90-day forecast,,20.3,22.0,42.3,,,No 90-day stockout,No 90-day stockout
+P020,Boys' summer pajamas-Rock Band,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-11-01,32.0,20.3,22.0,42.3,2026-10-11,2026-09-19,Future planning date,At/Before forecast origin
+P020,Boys' summer pajamas-Rock Band,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-11-01,32.0,20.3,22.0,42.3,2026-10-11,2026-09-19,Future planning date,At/Before forecast origin
+P021,Girls' summer pajamas-Minnie Mouse,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P021,Girls' summer pajamas-Minnie Mouse,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P021,Girls' summer pajamas-Minnie Mouse,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P021,Girls' summer pajamas-Minnie Mouse,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P021,Girls' summer pajamas-Minnie Mouse,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P021,Girls' summer pajamas-Minnie Mouse,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P021,Girls' summer pajamas-Minnie Mouse,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-03,3.0,23.0,21.0,44.0,2026-09-10,2026-08-20,At/Before forecast origin,At/Before forecast origin
+P021,Girls' summer pajamas-Minnie Mouse,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-04,4.0,23.0,21.0,44.0,2026-09-11,2026-08-21,At/Before forecast origin,At/Before forecast origin
+P021,Girls' summer pajamas-Minnie Mouse,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-04,4.0,23.0,21.0,44.0,2026-09-11,2026-08-21,At/Before forecast origin,At/Before forecast origin
+P022,Girls' summer pajamas-Stitch,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,21.0,21.0,42.0,,,No 90-day stockout,No 90-day stockout
+P022,Girls' summer pajamas-Stitch,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,21.0,21.0,42.0,,,No 90-day stockout,No 90-day stockout
+P022,Girls' summer pajamas-Stitch,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,21.0,21.0,42.0,,,No 90-day stockout,No 90-day stockout
+P022,Girls' summer pajamas-Stitch,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,21.0,21.0,42.0,,,No 90-day stockout,No 90-day stockout
+P022,Girls' summer pajamas-Stitch,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,21.0,21.0,42.0,,,No 90-day stockout,No 90-day stockout
+P022,Girls' summer pajamas-Stitch,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,21.0,21.0,42.0,,,No 90-day stockout,No 90-day stockout
+P022,Girls' summer pajamas-Stitch,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-10,10.0,21.0,21.0,42.0,2026-09-19,2026-08-29,At/Before forecast origin,At/Before forecast origin
+P022,Girls' summer pajamas-Stitch,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-12,12.0,21.0,21.0,42.0,2026-09-21,2026-08-31,At/Before forecast origin,At/Before forecast origin
+P022,Girls' summer pajamas-Stitch,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-10,10.0,21.0,21.0,42.0,2026-09-19,2026-08-29,At/Before forecast origin,At/Before forecast origin
+P023,Girls' summer pajamas-Dumbo,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,25.000000000000004,21.0,46.0,,,No 90-day stockout,No 90-day stockout
+P023,Girls' summer pajamas-Dumbo,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,25.000000000000004,21.0,46.0,,,No 90-day stockout,No 90-day stockout
+P023,Girls' summer pajamas-Dumbo,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,25.000000000000004,21.0,46.0,,,No 90-day stockout,No 90-day stockout
+P023,Girls' summer pajamas-Dumbo,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,25.000000000000004,21.0,46.0,,,No 90-day stockout,No 90-day stockout
+P023,Girls' summer pajamas-Dumbo,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,25.000000000000004,21.0,46.0,,,No 90-day stockout,No 90-day stockout
+P023,Girls' summer pajamas-Dumbo,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,25.000000000000004,21.0,46.0,,,No 90-day stockout,No 90-day stockout
+P023,Girls' summer pajamas-Dumbo,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,Not within 90-day forecast,,25.000000000000004,21.0,46.0,,,No 90-day stockout,No 90-day stockout
+P023,Girls' summer pajamas-Dumbo,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,Not within 90-day forecast,,25.000000000000004,21.0,46.0,,,No 90-day stockout,No 90-day stockout
+P023,Girls' summer pajamas-Dumbo,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,Not within 90-day forecast,,25.000000000000004,21.0,46.0,,,No 90-day stockout,No 90-day stockout
+P024,Boys' summer pajamas-Mickey,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P024,Boys' summer pajamas-Mickey,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P024,Boys' summer pajamas-Mickey,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P024,Boys' summer pajamas-Mickey,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P024,Boys' summer pajamas-Mickey,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P024,Boys' summer pajamas-Mickey,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P024,Boys' summer pajamas-Mickey,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-11-04,35.0,24.0,21.0,45.0,2026-10-11,2026-09-20,Future planning date,At/Before forecast origin
+P024,Boys' summer pajamas-Mickey,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-11-20,51.0,24.0,21.0,45.0,2026-10-27,2026-10-06,Future planning date,Future planning date
+P024,Boys' summer pajamas-Mickey,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-11-04,35.0,24.0,21.0,45.0,2026-10-11,2026-09-20,Future planning date,At/Before forecast origin
+P025,Boys' summer pajamas-Snoopy,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,2026-12-14,75.0,24.0,21.0,45.0,2026-11-20,2026-10-30,Future planning date,Future planning date
+P025,Boys' summer pajamas-Snoopy,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,2026-12-14,75.0,24.0,21.0,45.0,2026-11-20,2026-10-30,Future planning date,Future planning date
+P025,Boys' summer pajamas-Snoopy,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,2026-11-04,35.0,24.0,21.0,45.0,2026-10-11,2026-09-20,Future planning date,At/Before forecast origin
+P025,Boys' summer pajamas-Snoopy,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P025,Boys' summer pajamas-Snoopy,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P025,Boys' summer pajamas-Snoopy,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P025,Boys' summer pajamas-Snoopy,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-21,21.0,24.0,21.0,45.0,2026-09-27,2026-09-06,At/Before forecast origin,At/Before forecast origin
+P025,Boys' summer pajamas-Snoopy,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-21,21.0,24.0,21.0,45.0,2026-09-27,2026-09-06,At/Before forecast origin,At/Before forecast origin
+P025,Boys' summer pajamas-Snoopy,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-21,21.0,24.0,21.0,45.0,2026-09-27,2026-09-06,At/Before forecast origin,At/Before forecast origin
+P026,Boys' summer pajamas-Bluey,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P026,Boys' summer pajamas-Bluey,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P026,Boys' summer pajamas-Bluey,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P026,Boys' summer pajamas-Bluey,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P026,Boys' summer pajamas-Bluey,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P026,Boys' summer pajamas-Bluey,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P026,Boys' summer pajamas-Bluey,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-11-10,41.0,23.0,21.0,44.0,2026-10-18,2026-09-27,Future planning date,At/Before forecast origin
+P026,Boys' summer pajamas-Bluey,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-11-10,41.0,23.0,21.0,44.0,2026-10-18,2026-09-27,Future planning date,At/Before forecast origin
+P026,Boys' summer pajamas-Bluey,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-11-10,41.0,23.0,21.0,44.0,2026-10-18,2026-09-27,Future planning date,At/Before forecast origin
+P027,Girls' pajamas - I'm Just a girl,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P027,Girls' pajamas - I'm Just a girl,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P027,Girls' pajamas - I'm Just a girl,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P027,Girls' pajamas - I'm Just a girl,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P027,Girls' pajamas - I'm Just a girl,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P027,Girls' pajamas - I'm Just a girl,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P027,Girls' pajamas - I'm Just a girl,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-10,10.0,24.0,21.0,45.0,2026-09-16,2026-08-26,At/Before forecast origin,At/Before forecast origin
+P027,Girls' pajamas - I'm Just a girl,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-10,10.0,24.0,21.0,45.0,2026-09-16,2026-08-26,At/Before forecast origin,At/Before forecast origin
+P027,Girls' pajamas - I'm Just a girl,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-10,10.0,24.0,21.0,45.0,2026-09-16,2026-08-26,At/Before forecast origin,At/Before forecast origin
+P028,Girls' summer pajamas,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,24.4,22.0,46.4,,,No 90-day stockout,No 90-day stockout
+P028,Girls' summer pajamas,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,24.4,22.0,46.4,,,No 90-day stockout,No 90-day stockout
+P028,Girls' summer pajamas,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,24.4,22.0,46.4,,,No 90-day stockout,No 90-day stockout
+P028,Girls' summer pajamas,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,24.4,22.0,46.4,,,No 90-day stockout,No 90-day stockout
+P028,Girls' summer pajamas,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,24.4,22.0,46.4,,,No 90-day stockout,No 90-day stockout
+P028,Girls' summer pajamas,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,24.4,22.0,46.4,,,No 90-day stockout,No 90-day stockout
+P028,Girls' summer pajamas,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-11-23,54.0,24.4,22.0,46.4,2026-10-29,2026-10-07,Future planning date,Future planning date
+P028,Girls' summer pajamas,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-11-23,54.0,24.4,22.0,46.4,2026-10-29,2026-10-07,Future planning date,Future planning date
+P028,Girls' summer pajamas,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-11-23,54.0,24.4,22.0,46.4,2026-10-29,2026-10-07,Future planning date,Future planning date
+P029,Girls' pajamas-Daylife+kuromi,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,22.8,21.0,43.8,,,No 90-day stockout,No 90-day stockout
+P029,Girls' pajamas-Daylife+kuromi,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,22.8,21.0,43.8,,,No 90-day stockout,No 90-day stockout
+P029,Girls' pajamas-Daylife+kuromi,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,22.8,21.0,43.8,,,No 90-day stockout,No 90-day stockout
+P029,Girls' pajamas-Daylife+kuromi,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,22.8,21.0,43.8,,,No 90-day stockout,No 90-day stockout
+P029,Girls' pajamas-Daylife+kuromi,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,22.8,21.0,43.8,,,No 90-day stockout,No 90-day stockout
+P029,Girls' pajamas-Daylife+kuromi,LOC002,LEO MODA Online Store,Online,90,2026-12-08,69.0,22.8,21.0,43.8,2026-11-15,2026-10-25,Future planning date,Future planning date
+P029,Girls' pajamas-Daylife+kuromi,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-11-03,34.0,22.8,21.0,43.8,2026-10-11,2026-09-20,Future planning date,At/Before forecast origin
+P029,Girls' pajamas-Daylife+kuromi,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-11-02,33.0,22.8,21.0,43.8,2026-10-10,2026-09-19,Future planning date,At/Before forecast origin
+P029,Girls' pajamas-Daylife+kuromi,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-11-02,33.0,22.8,21.0,43.8,2026-10-10,2026-09-19,Future planning date,At/Before forecast origin
+P030,Boys' pajamas -Mickey Mouse,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P030,Boys' pajamas -Mickey Mouse,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P030,Boys' pajamas -Mickey Mouse,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P030,Boys' pajamas -Mickey Mouse,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P030,Boys' pajamas -Mickey Mouse,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P030,Boys' pajamas -Mickey Mouse,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P030,Boys' pajamas -Mickey Mouse,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-11-20,51.0,24.0,21.0,45.0,2026-10-27,2026-10-06,Future planning date,Future planning date
+P030,Boys' pajamas -Mickey Mouse,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-12-04,65.0,24.0,21.0,45.0,2026-11-10,2026-10-20,Future planning date,Future planning date
+P030,Boys' pajamas -Mickey Mouse,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-11-20,51.0,24.0,21.0,45.0,2026-10-27,2026-10-06,Future planning date,Future planning date
+P031,Boys' pajamas -Don't Even!,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,20.8,21.0,41.8,,,No 90-day stockout,No 90-day stockout
+P031,Boys' pajamas -Don't Even!,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,20.8,21.0,41.8,,,No 90-day stockout,No 90-day stockout
+P031,Boys' pajamas -Don't Even!,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,20.8,21.0,41.8,,,No 90-day stockout,No 90-day stockout
+P031,Boys' pajamas -Don't Even!,LOC002,LEO MODA Online Store,Online,30,2026-12-25,86.0,20.8,21.0,41.8,2026-12-04,2026-11-13,Future planning date,Future planning date
+P031,Boys' pajamas -Don't Even!,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,20.8,21.0,41.8,,,No 90-day stockout,No 90-day stockout
+P031,Boys' pajamas -Don't Even!,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,20.8,21.0,41.8,,,No 90-day stockout,No 90-day stockout
+P031,Boys' pajamas -Don't Even!,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-11-09,40.0,20.8,21.0,41.8,2026-10-19,2026-09-28,Future planning date,At/Before forecast origin
+P031,Boys' pajamas -Don't Even!,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-11-09,40.0,20.8,21.0,41.8,2026-10-19,2026-09-28,Future planning date,At/Before forecast origin
+P031,Boys' pajamas -Don't Even!,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-15,15.0,20.8,21.0,41.8,2026-09-24,2026-09-03,At/Before forecast origin,At/Before forecast origin
+P032,Boys' sweatshirt-blue,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,2026-11-17,48.0,23.40000000000001,21.0,44.400000000000006,2026-10-24,2026-10-03,Future planning date,Future planning date
+P032,Boys' sweatshirt-blue,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,2026-11-17,48.0,23.40000000000001,21.0,44.400000000000006,2026-10-24,2026-10-03,Future planning date,Future planning date
+P032,Boys' sweatshirt-blue,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,2026-11-17,48.0,23.40000000000001,21.0,44.400000000000006,2026-10-24,2026-10-03,Future planning date,Future planning date
+P032,Boys' sweatshirt-blue,LOC002,LEO MODA Online Store,Online,30,2026-12-18,79.0,23.40000000000001,21.0,44.400000000000006,2026-11-24,2026-11-03,Future planning date,Future planning date
+P032,Boys' sweatshirt-blue,LOC002,LEO MODA Online Store,Online,60,2026-12-18,79.0,23.40000000000001,21.0,44.400000000000006,2026-11-24,2026-11-03,Future planning date,Future planning date
+P032,Boys' sweatshirt-blue,LOC002,LEO MODA Online Store,Online,90,2026-12-18,79.0,23.40000000000001,21.0,44.400000000000006,2026-11-24,2026-11-03,Future planning date,Future planning date
+P032,Boys' sweatshirt-blue,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-14,14.0,23.40000000000001,21.0,44.400000000000006,2026-09-20,2026-08-30,At/Before forecast origin,At/Before forecast origin
+P032,Boys' sweatshirt-blue,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-14,14.0,23.40000000000001,21.0,44.400000000000006,2026-09-20,2026-08-30,At/Before forecast origin,At/Before forecast origin
+P032,Boys' sweatshirt-blue,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-14,14.0,23.40000000000001,21.0,44.400000000000006,2026-09-20,2026-08-30,At/Before forecast origin,At/Before forecast origin
+P033,Boys' sweatshirt-LEO,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,2026-11-15,46.0,22.0,21.0,43.0,2026-10-24,2026-10-03,Future planning date,Future planning date
+P033,Boys' sweatshirt-LEO,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,2026-11-15,46.0,22.0,21.0,43.0,2026-10-24,2026-10-03,Future planning date,Future planning date
+P033,Boys' sweatshirt-LEO,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,2026-11-15,46.0,22.0,21.0,43.0,2026-10-24,2026-10-03,Future planning date,Future planning date
+P033,Boys' sweatshirt-LEO,LOC002,LEO MODA Online Store,Online,30,2026-11-17,48.0,22.0,21.0,43.0,2026-10-26,2026-10-05,Future planning date,Future planning date
+P033,Boys' sweatshirt-LEO,LOC002,LEO MODA Online Store,Online,60,2026-11-17,48.0,22.0,21.0,43.0,2026-10-26,2026-10-05,Future planning date,Future planning date
+P033,Boys' sweatshirt-LEO,LOC002,LEO MODA Online Store,Online,90,2026-11-17,48.0,22.0,21.0,43.0,2026-10-26,2026-10-05,Future planning date,Future planning date
+P033,Boys' sweatshirt-LEO,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-01,1.0,22.0,21.0,43.0,2026-09-09,2026-08-19,At/Before forecast origin,At/Before forecast origin
+P033,Boys' sweatshirt-LEO,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-02,2.0,22.0,21.0,43.0,2026-09-10,2026-08-20,At/Before forecast origin,At/Before forecast origin
+P033,Boys' sweatshirt-LEO,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-01,1.0,22.0,21.0,43.0,2026-09-09,2026-08-19,At/Before forecast origin,At/Before forecast origin
+P034,Boys' sweatshirt-black and white,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,2026-11-05,36.0,21.0,21.0,42.0,2026-10-15,2026-09-24,Future planning date,At/Before forecast origin
+P034,Boys' sweatshirt-black and white,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,2026-11-05,36.0,21.0,21.0,42.0,2026-10-15,2026-09-24,Future planning date,At/Before forecast origin
+P034,Boys' sweatshirt-black and white,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,2026-11-05,36.0,21.0,21.0,42.0,2026-10-15,2026-09-24,Future planning date,At/Before forecast origin
+P034,Boys' sweatshirt-black and white,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,21.0,21.0,42.0,,,No 90-day stockout,No 90-day stockout
+P034,Boys' sweatshirt-black and white,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,21.0,21.0,42.0,,,No 90-day stockout,No 90-day stockout
+P034,Boys' sweatshirt-black and white,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,21.0,21.0,42.0,,,No 90-day stockout,No 90-day stockout
+P034,Boys' sweatshirt-black and white,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-27,27.0,21.0,21.0,42.0,2026-10-06,2026-09-15,Future planning date,At/Before forecast origin
+P034,Boys' sweatshirt-black and white,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-27,27.0,21.0,21.0,42.0,2026-10-06,2026-09-15,Future planning date,At/Before forecast origin
+P034,Boys' sweatshirt-black and white,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-27,27.0,21.0,21.0,42.0,2026-10-06,2026-09-15,Future planning date,At/Before forecast origin
+P035,Girls' sweatshirt-Fuchsia,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,2026-11-05,36.0,24.0,21.0,45.0,2026-10-12,2026-09-21,Future planning date,At/Before forecast origin
+P035,Girls' sweatshirt-Fuchsia,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,2026-11-05,36.0,24.0,21.0,45.0,2026-10-12,2026-09-21,Future planning date,At/Before forecast origin
+P035,Girls' sweatshirt-Fuchsia,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,2026-11-05,36.0,24.0,21.0,45.0,2026-10-12,2026-09-21,Future planning date,At/Before forecast origin
+P035,Girls' sweatshirt-Fuchsia,LOC002,LEO MODA Online Store,Online,30,2026-12-26,87.0,24.0,21.0,45.0,2026-12-02,2026-11-11,Future planning date,Future planning date
+P035,Girls' sweatshirt-Fuchsia,LOC002,LEO MODA Online Store,Online,60,2026-12-26,87.0,24.0,21.0,45.0,2026-12-02,2026-11-11,Future planning date,Future planning date
+P035,Girls' sweatshirt-Fuchsia,LOC002,LEO MODA Online Store,Online,90,2026-12-26,87.0,24.0,21.0,45.0,2026-12-02,2026-11-11,Future planning date,Future planning date
+P035,Girls' sweatshirt-Fuchsia,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-06,6.0,24.0,21.0,45.0,2026-09-12,2026-08-22,At/Before forecast origin,At/Before forecast origin
+P035,Girls' sweatshirt-Fuchsia,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-06,6.0,24.0,21.0,45.0,2026-09-12,2026-08-22,At/Before forecast origin,At/Before forecast origin
+P035,Girls' sweatshirt-Fuchsia,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-06,6.0,24.0,21.0,45.0,2026-09-12,2026-08-22,At/Before forecast origin,At/Before forecast origin
+P036,Girls' sweatshirt-Tinker Bell,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,2026-11-15,46.0,23.6,22.0,45.6,2026-10-22,2026-09-30,Future planning date,At/Before forecast origin
+P036,Girls' sweatshirt-Tinker Bell,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,2026-11-15,46.0,23.6,22.0,45.6,2026-10-22,2026-09-30,Future planning date,At/Before forecast origin
+P036,Girls' sweatshirt-Tinker Bell,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,2026-11-15,46.0,23.6,22.0,45.6,2026-10-22,2026-09-30,Future planning date,At/Before forecast origin
+P036,Girls' sweatshirt-Tinker Bell,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,23.6,22.0,45.6,,,No 90-day stockout,No 90-day stockout
+P036,Girls' sweatshirt-Tinker Bell,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,23.6,22.0,45.6,,,No 90-day stockout,No 90-day stockout
+P036,Girls' sweatshirt-Tinker Bell,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,23.6,22.0,45.6,,,No 90-day stockout,No 90-day stockout
+P036,Girls' sweatshirt-Tinker Bell,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-09,9.0,23.6,22.0,45.6,2026-09-15,2026-08-24,At/Before forecast origin,At/Before forecast origin
+P036,Girls' sweatshirt-Tinker Bell,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-09,9.0,23.6,22.0,45.6,2026-09-15,2026-08-24,At/Before forecast origin,At/Before forecast origin
+P036,Girls' sweatshirt-Tinker Bell,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-09,9.0,23.6,22.0,45.6,2026-09-15,2026-08-24,At/Before forecast origin,At/Before forecast origin
+P037,Girls' sweatshirt-Flower,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,2026-12-05,66.0,24.0,21.0,45.0,2026-11-11,2026-10-21,Future planning date,Future planning date
+P037,Girls' sweatshirt-Flower,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,2026-12-01,62.0,24.0,21.0,45.0,2026-11-07,2026-10-17,Future planning date,Future planning date
+P037,Girls' sweatshirt-Flower,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,2026-12-05,66.0,24.0,21.0,45.0,2026-11-11,2026-10-21,Future planning date,Future planning date
+P037,Girls' sweatshirt-Flower,LOC002,LEO MODA Online Store,Online,30,2026-12-01,62.0,24.0,21.0,45.0,2026-11-07,2026-10-17,Future planning date,Future planning date
+P037,Girls' sweatshirt-Flower,LOC002,LEO MODA Online Store,Online,60,2026-12-01,62.0,24.0,21.0,45.0,2026-11-07,2026-10-17,Future planning date,Future planning date
+P037,Girls' sweatshirt-Flower,LOC002,LEO MODA Online Store,Online,90,2026-12-01,62.0,24.0,21.0,45.0,2026-11-07,2026-10-17,Future planning date,Future planning date
+P037,Girls' sweatshirt-Flower,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-23,23.0,24.0,21.0,45.0,2026-09-29,2026-09-08,At/Before forecast origin,At/Before forecast origin
+P037,Girls' sweatshirt-Flower,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-23,23.0,24.0,21.0,45.0,2026-09-29,2026-09-08,At/Before forecast origin,At/Before forecast origin
+P037,Girls' sweatshirt-Flower,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-23,23.0,24.0,21.0,45.0,2026-09-29,2026-09-08,At/Before forecast origin,At/Before forecast origin
+P038,Boys' Autumn Pajamas-Mickey Mouse,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,2026-12-07,68.0,23.5,21.0,44.5,2026-11-13,2026-10-23,Future planning date,Future planning date
+P038,Boys' Autumn Pajamas-Mickey Mouse,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,2026-12-07,68.0,23.5,21.0,44.5,2026-11-13,2026-10-23,Future planning date,Future planning date
+P038,Boys' Autumn Pajamas-Mickey Mouse,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,2026-12-07,68.0,23.5,21.0,44.5,2026-11-13,2026-10-23,Future planning date,Future planning date
+P038,Boys' Autumn Pajamas-Mickey Mouse,LOC002,LEO MODA Online Store,Online,30,2026-11-29,60.0,23.5,21.0,44.5,2026-11-05,2026-10-15,Future planning date,Future planning date
+P038,Boys' Autumn Pajamas-Mickey Mouse,LOC002,LEO MODA Online Store,Online,60,2026-11-29,60.0,23.5,21.0,44.5,2026-11-05,2026-10-15,Future planning date,Future planning date
+P038,Boys' Autumn Pajamas-Mickey Mouse,LOC002,LEO MODA Online Store,Online,90,2026-11-29,60.0,23.5,21.0,44.5,2026-11-05,2026-10-15,Future planning date,Future planning date
+P038,Boys' Autumn Pajamas-Mickey Mouse,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-05,5.0,23.5,21.0,44.5,2026-09-11,2026-08-21,At/Before forecast origin,At/Before forecast origin
+P038,Boys' Autumn Pajamas-Mickey Mouse,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-05,5.0,23.5,21.0,44.5,2026-09-11,2026-08-21,At/Before forecast origin,At/Before forecast origin
+P038,Boys' Autumn Pajamas-Mickey Mouse,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-05,5.0,23.5,21.0,44.5,2026-09-11,2026-08-21,At/Before forecast origin,At/Before forecast origin
+P039,Boys' Autumn Pajamas-Spider Man,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,2026-10-21,21.0,23.0,22.0,45.0,2026-09-28,2026-09-06,At/Before forecast origin,At/Before forecast origin
+P039,Boys' Autumn Pajamas-Spider Man,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,2026-10-21,21.0,23.0,22.0,45.0,2026-09-28,2026-09-06,At/Before forecast origin,At/Before forecast origin
+P039,Boys' Autumn Pajamas-Spider Man,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,2026-10-21,21.0,23.0,22.0,45.0,2026-09-28,2026-09-06,At/Before forecast origin,At/Before forecast origin
+P039,Boys' Autumn Pajamas-Spider Man,LOC002,LEO MODA Online Store,Online,30,2026-11-05,36.0,23.0,22.0,45.0,2026-10-13,2026-09-21,Future planning date,At/Before forecast origin
+P039,Boys' Autumn Pajamas-Spider Man,LOC002,LEO MODA Online Store,Online,60,2026-11-05,36.0,23.0,22.0,45.0,2026-10-13,2026-09-21,Future planning date,At/Before forecast origin
+P039,Boys' Autumn Pajamas-Spider Man,LOC002,LEO MODA Online Store,Online,90,2026-11-05,36.0,23.0,22.0,45.0,2026-10-13,2026-09-21,Future planning date,At/Before forecast origin
+P039,Boys' Autumn Pajamas-Spider Man,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-09,9.0,23.0,22.0,45.0,2026-09-16,2026-08-25,At/Before forecast origin,At/Before forecast origin
+P039,Boys' Autumn Pajamas-Spider Man,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-09,9.0,23.0,22.0,45.0,2026-09-16,2026-08-25,At/Before forecast origin,At/Before forecast origin
+P039,Boys' Autumn Pajamas-Spider Man,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-09,9.0,23.0,22.0,45.0,2026-09-16,2026-08-25,At/Before forecast origin,At/Before forecast origin
+P040,Boys' Autumn Pajamas-Loony Tunes,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P040,Boys' Autumn Pajamas-Loony Tunes,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P040,Boys' Autumn Pajamas-Loony Tunes,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P040,Boys' Autumn Pajamas-Loony Tunes,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P040,Boys' Autumn Pajamas-Loony Tunes,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P040,Boys' Autumn Pajamas-Loony Tunes,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P040,Boys' Autumn Pajamas-Loony Tunes,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-22,22.0,23.0,21.0,44.0,2026-09-29,2026-09-08,At/Before forecast origin,At/Before forecast origin
+P040,Boys' Autumn Pajamas-Loony Tunes,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-22,22.0,23.0,21.0,44.0,2026-09-29,2026-09-08,At/Before forecast origin,At/Before forecast origin
+P040,Boys' Autumn Pajamas-Loony Tunes,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-22,22.0,23.0,21.0,44.0,2026-09-29,2026-09-08,At/Before forecast origin,At/Before forecast origin
+P041,Boys' Autumn Pajamas-Jurassic Park,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,19.0,21.0,40.0,,,No 90-day stockout,No 90-day stockout
+P041,Boys' Autumn Pajamas-Jurassic Park,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,19.0,21.0,40.0,,,No 90-day stockout,No 90-day stockout
+P041,Boys' Autumn Pajamas-Jurassic Park,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,19.0,21.0,40.0,,,No 90-day stockout,No 90-day stockout
+P041,Boys' Autumn Pajamas-Jurassic Park,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,19.0,21.0,40.0,,,No 90-day stockout,No 90-day stockout
+P041,Boys' Autumn Pajamas-Jurassic Park,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,19.0,21.0,40.0,,,No 90-day stockout,No 90-day stockout
+P041,Boys' Autumn Pajamas-Jurassic Park,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,19.0,21.0,40.0,,,No 90-day stockout,No 90-day stockout
+P041,Boys' Autumn Pajamas-Jurassic Park,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,Not within 90-day forecast,,19.0,21.0,40.0,,,No 90-day stockout,No 90-day stockout
+P041,Boys' Autumn Pajamas-Jurassic Park,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,Not within 90-day forecast,,19.0,21.0,40.0,,,No 90-day stockout,No 90-day stockout
+P041,Boys' Autumn Pajamas-Jurassic Park,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,Not within 90-day forecast,,19.0,21.0,40.0,,,No 90-day stockout,No 90-day stockout
+P042,Girls' autumn pajamas-Cheeky Charmins,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,2026-10-07,7.0,22.0,21.0,43.0,2026-09-15,2026-08-25,At/Before forecast origin,At/Before forecast origin
+P042,Girls' autumn pajamas-Cheeky Charmins,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,2026-10-07,7.0,22.0,21.0,43.0,2026-09-15,2026-08-25,At/Before forecast origin,At/Before forecast origin
+P042,Girls' autumn pajamas-Cheeky Charmins,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,2026-10-07,7.0,22.0,21.0,43.0,2026-09-15,2026-08-25,At/Before forecast origin,At/Before forecast origin
+P042,Girls' autumn pajamas-Cheeky Charmins,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,22.0,21.0,43.0,,,No 90-day stockout,No 90-day stockout
+P042,Girls' autumn pajamas-Cheeky Charmins,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,22.0,21.0,43.0,,,No 90-day stockout,No 90-day stockout
+P042,Girls' autumn pajamas-Cheeky Charmins,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,22.0,21.0,43.0,,,No 90-day stockout,No 90-day stockout
+P042,Girls' autumn pajamas-Cheeky Charmins,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-01,1.0,22.0,21.0,43.0,2026-09-09,2026-08-19,At/Before forecast origin,At/Before forecast origin
+P042,Girls' autumn pajamas-Cheeky Charmins,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-01,1.0,22.0,21.0,43.0,2026-09-09,2026-08-19,At/Before forecast origin,At/Before forecast origin
+P042,Girls' autumn pajamas-Cheeky Charmins,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-01,1.0,22.0,21.0,43.0,2026-09-09,2026-08-19,At/Before forecast origin,At/Before forecast origin
+P043,Girls' autumn pajamas-Snow White,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,22.9,21.0,43.9,,,No 90-day stockout,No 90-day stockout
+P043,Girls' autumn pajamas-Snow White,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,2026-12-27,88.0,22.9,21.0,43.9,2026-12-04,2026-11-13,Future planning date,Future planning date
+P043,Girls' autumn pajamas-Snow White,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,2026-12-27,88.0,22.9,21.0,43.9,2026-12-04,2026-11-13,Future planning date,Future planning date
+P043,Girls' autumn pajamas-Snow White,LOC002,LEO MODA Online Store,Online,30,2026-12-26,87.0,22.9,21.0,43.9,2026-12-03,2026-11-12,Future planning date,Future planning date
+P043,Girls' autumn pajamas-Snow White,LOC002,LEO MODA Online Store,Online,60,2026-12-26,87.0,22.9,21.0,43.9,2026-12-03,2026-11-12,Future planning date,Future planning date
+P043,Girls' autumn pajamas-Snow White,LOC002,LEO MODA Online Store,Online,90,2026-12-26,87.0,22.9,21.0,43.9,2026-12-03,2026-11-12,Future planning date,Future planning date
+P043,Girls' autumn pajamas-Snow White,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-02,2.0,22.9,21.0,43.9,2026-09-09,2026-08-19,At/Before forecast origin,At/Before forecast origin
+P043,Girls' autumn pajamas-Snow White,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-02,2.0,22.9,21.0,43.9,2026-09-09,2026-08-19,At/Before forecast origin,At/Before forecast origin
+P043,Girls' autumn pajamas-Snow White,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-02,2.0,22.9,21.0,43.9,2026-09-09,2026-08-19,At/Before forecast origin,At/Before forecast origin
+P044,Girls' autumn pajamas-Ice Cream,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,2026-12-20,81.0,24.0,21.0,45.0,2026-11-26,2026-11-05,Future planning date,Future planning date
+P044,Girls' autumn pajamas-Ice Cream,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,2026-12-20,81.0,24.0,21.0,45.0,2026-11-26,2026-11-05,Future planning date,Future planning date
+P044,Girls' autumn pajamas-Ice Cream,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,2026-12-29,90.0,24.0,21.0,45.0,2026-12-05,2026-11-14,Future planning date,Future planning date
+P044,Girls' autumn pajamas-Ice Cream,LOC002,LEO MODA Online Store,Online,30,2026-11-06,37.0,24.0,21.0,45.0,2026-10-13,2026-09-22,Future planning date,At/Before forecast origin
+P044,Girls' autumn pajamas-Ice Cream,LOC002,LEO MODA Online Store,Online,60,2026-11-06,37.0,24.0,21.0,45.0,2026-10-13,2026-09-22,Future planning date,At/Before forecast origin
+P044,Girls' autumn pajamas-Ice Cream,LOC002,LEO MODA Online Store,Online,90,2026-11-06,37.0,24.0,21.0,45.0,2026-10-13,2026-09-22,Future planning date,At/Before forecast origin
+P044,Girls' autumn pajamas-Ice Cream,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-01,1.0,24.0,21.0,45.0,2026-09-07,2026-08-17,At/Before forecast origin,At/Before forecast origin
+P044,Girls' autumn pajamas-Ice Cream,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-01,1.0,24.0,21.0,45.0,2026-09-07,2026-08-17,At/Before forecast origin,At/Before forecast origin
+P044,Girls' autumn pajamas-Ice Cream,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-01,1.0,24.0,21.0,45.0,2026-09-07,2026-08-17,At/Before forecast origin,At/Before forecast origin
+P045,Girls' autumn pajamas-Stitch,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,2026-12-11,72.0,22.300000000000004,21.0,43.300000000000004,2026-11-18,2026-10-28,Future planning date,Future planning date
+P045,Girls' autumn pajamas-Stitch,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,2026-12-11,72.0,22.300000000000004,21.0,43.300000000000004,2026-11-18,2026-10-28,Future planning date,Future planning date
+P045,Girls' autumn pajamas-Stitch,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,2026-12-11,72.0,22.300000000000004,21.0,43.300000000000004,2026-11-18,2026-10-28,Future planning date,Future planning date
+P045,Girls' autumn pajamas-Stitch,LOC002,LEO MODA Online Store,Online,30,2026-11-08,39.0,22.300000000000004,21.0,43.300000000000004,2026-10-16,2026-09-25,Future planning date,At/Before forecast origin
+P045,Girls' autumn pajamas-Stitch,LOC002,LEO MODA Online Store,Online,60,2026-11-08,39.0,22.300000000000004,21.0,43.300000000000004,2026-10-16,2026-09-25,Future planning date,At/Before forecast origin
+P045,Girls' autumn pajamas-Stitch,LOC002,LEO MODA Online Store,Online,90,2026-11-08,39.0,22.300000000000004,21.0,43.300000000000004,2026-10-16,2026-09-25,Future planning date,At/Before forecast origin
+P045,Girls' autumn pajamas-Stitch,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-06,6.0,22.300000000000004,21.0,43.300000000000004,2026-09-13,2026-08-23,At/Before forecast origin,At/Before forecast origin
+P045,Girls' autumn pajamas-Stitch,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-07,7.0,22.300000000000004,21.0,43.300000000000004,2026-09-14,2026-08-24,At/Before forecast origin,At/Before forecast origin
+P045,Girls' autumn pajamas-Stitch,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-06,6.0,22.300000000000004,21.0,43.300000000000004,2026-09-13,2026-08-23,At/Before forecast origin,At/Before forecast origin
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,23.2,21.0,44.2,,,No 90-day stockout,No 90-day stockout
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,23.2,21.0,44.2,,,No 90-day stockout,No 90-day stockout
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,23.2,21.0,44.2,,,No 90-day stockout,No 90-day stockout
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,23.2,21.0,44.2,,,No 90-day stockout,No 90-day stockout
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,23.2,21.0,44.2,,,No 90-day stockout,No 90-day stockout
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,23.2,21.0,44.2,,,No 90-day stockout,No 90-day stockout
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-23,23.0,23.2,21.0,44.2,2026-09-29,2026-09-08,At/Before forecast origin,At/Before forecast origin
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-31,31.0,23.2,21.0,44.2,2026-10-07,2026-09-16,Future planning date,At/Before forecast origin
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-31,31.0,23.2,21.0,44.2,2026-10-07,2026-09-16,Future planning date,At/Before forecast origin
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,22.0,22.0,44.0,,,No 90-day stockout,No 90-day stockout
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,22.0,22.0,44.0,,,No 90-day stockout,No 90-day stockout
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,22.0,22.0,44.0,,,No 90-day stockout,No 90-day stockout
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,22.0,22.0,44.0,,,No 90-day stockout,No 90-day stockout
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,22.0,22.0,44.0,,,No 90-day stockout,No 90-day stockout
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,22.0,22.0,44.0,,,No 90-day stockout,No 90-day stockout
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-11-11,42.0,22.0,22.0,44.0,2026-10-20,2026-09-28,Future planning date,At/Before forecast origin
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-24,24.0,22.0,22.0,44.0,2026-10-02,2026-09-10,Future planning date,At/Before forecast origin
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-26,26.0,22.0,22.0,44.0,2026-10-04,2026-09-12,Future planning date,At/Before forecast origin
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,22.800000000000004,22.0,44.800000000000004,,,No 90-day stockout,No 90-day stockout
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,22.800000000000004,22.0,44.800000000000004,,,No 90-day stockout,No 90-day stockout
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,22.800000000000004,22.0,44.800000000000004,,,No 90-day stockout,No 90-day stockout
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,30,2026-12-20,81.0,22.800000000000004,22.0,44.800000000000004,2026-11-27,2026-11-05,Future planning date,Future planning date
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,60,2026-12-20,81.0,22.800000000000004,22.0,44.800000000000004,2026-11-27,2026-11-05,Future planning date,Future planning date
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,90,2026-12-20,81.0,22.800000000000004,22.0,44.800000000000004,2026-11-27,2026-11-05,Future planning date,Future planning date
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-01,1.0,22.800000000000004,22.0,44.800000000000004,2026-09-08,2026-08-17,At/Before forecast origin,At/Before forecast origin
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-01,1.0,22.800000000000004,22.0,44.800000000000004,2026-09-08,2026-08-17,At/Before forecast origin,At/Before forecast origin
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-01,1.0,22.800000000000004,22.0,44.800000000000004,2026-09-08,2026-08-17,At/Before forecast origin,At/Before forecast origin
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,22.300000000000004,21.0,43.300000000000004,,,No 90-day stockout,No 90-day stockout
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,22.300000000000004,21.0,43.300000000000004,,,No 90-day stockout,No 90-day stockout
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,22.300000000000004,21.0,43.300000000000004,,,No 90-day stockout,No 90-day stockout
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,22.300000000000004,21.0,43.300000000000004,,,No 90-day stockout,No 90-day stockout
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,22.300000000000004,21.0,43.300000000000004,,,No 90-day stockout,No 90-day stockout
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,22.300000000000004,21.0,43.300000000000004,,,No 90-day stockout,No 90-day stockout
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-01,1.0,22.300000000000004,21.0,43.300000000000004,2026-09-08,2026-08-18,At/Before forecast origin,At/Before forecast origin
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-01,1.0,22.300000000000004,21.0,43.300000000000004,2026-09-08,2026-08-18,At/Before forecast origin,At/Before forecast origin
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-01,1.0,22.300000000000004,21.0,43.300000000000004,2026-09-08,2026-08-18,At/Before forecast origin,At/Before forecast origin
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,24.0,22.0,46.0,,,No 90-day stockout,No 90-day stockout
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-11-28,59.0,24.0,22.0,46.0,2026-11-04,2026-10-13,Future planning date,Future planning date
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-11-28,59.0,24.0,22.0,46.0,2026-11-04,2026-10-13,Future planning date,Future planning date
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-11-28,59.0,24.0,22.0,46.0,2026-11-04,2026-10-13,Future planning date,Future planning date
+P051,Ice cream - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,23.40000000000001,22.0,45.400000000000006,,,No 90-day stockout,No 90-day stockout
+P051,Ice cream - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,23.40000000000001,22.0,45.400000000000006,,,No 90-day stockout,No 90-day stockout
+P051,Ice cream - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,23.40000000000001,22.0,45.400000000000006,,,No 90-day stockout,No 90-day stockout
+P051,Ice cream - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,23.40000000000001,22.0,45.400000000000006,,,No 90-day stockout,No 90-day stockout
+P051,Ice cream - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,23.40000000000001,22.0,45.400000000000006,,,No 90-day stockout,No 90-day stockout
+P051,Ice cream - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,23.40000000000001,22.0,45.400000000000006,,,No 90-day stockout,No 90-day stockout
+P051,Ice cream - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-27,27.0,23.40000000000001,22.0,45.400000000000006,2026-10-03,2026-09-11,Future planning date,At/Before forecast origin
+P051,Ice cream - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-27,27.0,23.40000000000001,22.0,45.400000000000006,2026-10-03,2026-09-11,Future planning date,At/Before forecast origin
+P051,Ice cream - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-27,27.0,23.40000000000001,22.0,45.400000000000006,2026-10-03,2026-09-11,Future planning date,At/Before forecast origin
+P052,Teddy bear - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,22.1,21.0,43.1,,,No 90-day stockout,No 90-day stockout
+P052,Teddy bear - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,22.1,21.0,43.1,,,No 90-day stockout,No 90-day stockout
+P052,Teddy bear - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,22.1,21.0,43.1,,,No 90-day stockout,No 90-day stockout
+P052,Teddy bear - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,22.1,21.0,43.1,,,No 90-day stockout,No 90-day stockout
+P052,Teddy bear - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,22.1,21.0,43.1,,,No 90-day stockout,No 90-day stockout
+P052,Teddy bear - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,22.1,21.0,43.1,,,No 90-day stockout,No 90-day stockout
+P052,Teddy bear - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-12-18,79.0,22.1,21.0,43.1,2026-11-25,2026-11-04,Future planning date,Future planning date
+P052,Teddy bear - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-12-18,79.0,22.1,21.0,43.1,2026-11-25,2026-11-04,Future planning date,Future planning date
+P052,Teddy bear - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-12-18,79.0,22.1,21.0,43.1,2026-11-25,2026-11-04,Future planning date,Future planning date
+P053,PINK panther - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,26.0,21.0,47.0,,,No 90-day stockout,No 90-day stockout
+P053,PINK panther - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,26.0,21.0,47.0,,,No 90-day stockout,No 90-day stockout
+P053,PINK panther - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,26.0,21.0,47.0,,,No 90-day stockout,No 90-day stockout
+P053,PINK panther - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,26.0,21.0,47.0,,,No 90-day stockout,No 90-day stockout
+P053,PINK panther - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,26.0,21.0,47.0,,,No 90-day stockout,No 90-day stockout
+P053,PINK panther - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,26.0,21.0,47.0,,,No 90-day stockout,No 90-day stockout
+P053,PINK panther - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-14,14.0,26.0,21.0,47.0,2026-09-18,2026-08-28,At/Before forecast origin,At/Before forecast origin
+P053,PINK panther - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-14,14.0,26.0,21.0,47.0,2026-09-18,2026-08-28,At/Before forecast origin,At/Before forecast origin
+P053,PINK panther - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-09,9.0,26.0,21.0,47.0,2026-09-13,2026-08-23,At/Before forecast origin,At/Before forecast origin
+P054,Gazelle - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P054,Gazelle - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P054,Gazelle - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P054,Gazelle - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P054,Gazelle - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P054,Gazelle - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P054,Gazelle - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P054,Gazelle - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P054,Gazelle - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,22.0,22.0,44.0,,,No 90-day stockout,No 90-day stockout
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,22.0,22.0,44.0,,,No 90-day stockout,No 90-day stockout
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,22.0,22.0,44.0,,,No 90-day stockout,No 90-day stockout
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,22.0,22.0,44.0,,,No 90-day stockout,No 90-day stockout
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,22.0,22.0,44.0,,,No 90-day stockout,No 90-day stockout
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,22.0,22.0,44.0,,,No 90-day stockout,No 90-day stockout
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-10-17,17.0,22.0,22.0,44.0,2026-09-25,2026-09-03,At/Before forecast origin,At/Before forecast origin
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-17,17.0,22.0,22.0,44.0,2026-09-25,2026-09-03,At/Before forecast origin,At/Before forecast origin
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-17,17.0,22.0,22.0,44.0,2026-09-25,2026-09-03,At/Before forecast origin,At/Before forecast origin
+P056,BATGIRL - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,25.4,22.0,47.4,,,No 90-day stockout,No 90-day stockout
+P056,BATGIRL - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,2026-12-22,83.0,25.4,22.0,47.4,2026-11-26,2026-11-04,Future planning date,Future planning date
+P056,BATGIRL - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,2026-12-22,83.0,25.4,22.0,47.4,2026-11-26,2026-11-04,Future planning date,Future planning date
+P056,BATGIRL - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,30,2026-12-14,75.0,25.4,22.0,47.4,2026-11-18,2026-10-27,Future planning date,Future planning date
+P056,BATGIRL - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,25.4,22.0,47.4,,,No 90-day stockout,No 90-day stockout
+P056,BATGIRL - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,25.4,22.0,47.4,,,No 90-day stockout,No 90-day stockout
+P056,BATGIRL - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-12-24,85.0,25.4,22.0,47.4,2026-11-28,2026-11-06,Future planning date,Future planning date
+P056,BATGIRL - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-12-02,63.0,25.4,22.0,47.4,2026-11-06,2026-10-15,Future planning date,Future planning date
+P056,BATGIRL - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-12-02,63.0,25.4,22.0,47.4,2026-11-06,2026-10-15,Future planning date,Future planning date
+P057,Save the planet بيجامة حريمي صيفي - 2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,22.0,21.0,43.0,,,No 90-day stockout,No 90-day stockout
+P057,Save the planet بيجامة حريمي صيفي - 2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,22.0,21.0,43.0,,,No 90-day stockout,No 90-day stockout
+P057,Save the planet بيجامة حريمي صيفي - 2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,22.0,21.0,43.0,,,No 90-day stockout,No 90-day stockout
+P057,Save the planet بيجامة حريمي صيفي - 2024,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,22.0,21.0,43.0,,,No 90-day stockout,No 90-day stockout
+P057,Save the planet بيجامة حريمي صيفي - 2024,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,22.0,21.0,43.0,,,No 90-day stockout,No 90-day stockout
+P057,Save the planet بيجامة حريمي صيفي - 2024,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,22.0,21.0,43.0,,,No 90-day stockout,No 90-day stockout
+P057,Save the planet بيجامة حريمي صيفي - 2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-12-03,64.0,22.0,21.0,43.0,2026-11-11,2026-10-21,Future planning date,Future planning date
+P057,Save the planet بيجامة حريمي صيفي - 2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-12-03,64.0,22.0,21.0,43.0,2026-11-11,2026-10-21,Future planning date,Future planning date
+P057,Save the planet بيجامة حريمي صيفي - 2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-12-03,64.0,22.0,21.0,43.0,2026-11-11,2026-10-21,Future planning date,Future planning date
+P058,OHANA - بيجامة حريمي صيفي 2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P058,OHANA - بيجامة حريمي صيفي 2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P058,OHANA - بيجامة حريمي صيفي 2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P058,OHANA - بيجامة حريمي صيفي 2024,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P058,OHANA - بيجامة حريمي صيفي 2024,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P058,OHANA - بيجامة حريمي صيفي 2024,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,23.0,21.0,44.0,,,No 90-day stockout,No 90-day stockout
+P058,OHANA - بيجامة حريمي صيفي 2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-11-06,37.0,23.0,21.0,44.0,2026-10-14,2026-09-23,Future planning date,At/Before forecast origin
+P058,OHANA - بيجامة حريمي صيفي 2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-11-06,37.0,23.0,21.0,44.0,2026-10-14,2026-09-23,Future planning date,At/Before forecast origin
+P058,OHANA - بيجامة حريمي صيفي 2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-16,16.0,23.0,21.0,44.0,2026-09-23,2026-09-02,At/Before forecast origin,At/Before forecast origin
+P059,Positive vibes - 2024بيجامة حريمي صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,30,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P059,Positive vibes - 2024بيجامة حريمي صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,60,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P059,Positive vibes - 2024بيجامة حريمي صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,90,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P059,Positive vibes - 2024بيجامة حريمي صيفي,LOC002,LEO MODA Online Store,Online,30,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P059,Positive vibes - 2024بيجامة حريمي صيفي,LOC002,LEO MODA Online Store,Online,60,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P059,Positive vibes - 2024بيجامة حريمي صيفي,LOC002,LEO MODA Online Store,Online,90,Not within 90-day forecast,,24.0,21.0,45.0,,,No 90-day stockout,No 90-day stockout
+P059,Positive vibes - 2024بيجامة حريمي صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,30,2026-11-05,36.0,24.0,21.0,45.0,2026-10-12,2026-09-21,Future planning date,At/Before forecast origin
+P059,Positive vibes - 2024بيجامة حريمي صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,60,2026-10-31,31.0,24.0,21.0,45.0,2026-10-07,2026-09-16,Future planning date,At/Before forecast origin
+P059,Positive vibes - 2024بيجامة حريمي صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,90,2026-10-31,31.0,24.0,21.0,45.0,2026-10-07,2026-09-16,Future planning date,At/Before forecast origin

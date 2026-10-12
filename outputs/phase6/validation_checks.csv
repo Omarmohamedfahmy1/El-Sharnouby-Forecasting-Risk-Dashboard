@@ -1,0 +1,28 @@
+check,passed,detail
+phase5_required_columns_present,True,missing=[]
+phase5_source_531_rows,True,rows=531
+phase5_source_177_product_location_pairs,True,pairs=177
+phase5_source_horizons_30_60_90,True,"horizons=[30, 60, 90]"
+phase5_replenishment_non_negative,True,min=0.0
+phase5_product_id_complete,True,missing_product_id=0
+phase5_no_duplicate_product_location_horizon,True,duplicates=0
+all_59_products_represented_in_product_planning,True,products=59; rows=177
+all_30_60_90_horizons_represented,True,"horizons=[30, 60, 90]"
+location_replenishment_output_preserves_phase5_rows,True,rows=531; pairs=177
+no_negative_replenishment_quantities,True,location_min=0.000000
+required_per_unit_numeric_and_non_negative,True,min=0.010000; missing=0
+bom_units_present,True,missing_units=0
+material_lead_time_present_descriptive_only,True,missing=0
+no_negative_material_requirements,True,product_min=0.000000
+no_incompatible_unit_aggregation,True,materials_with_multiple_units=0
+replenishment_products_have_bom_or_flagged,True,missing_bom_flags=0
+all_bom_material_ids_resolve_to_materials,True,unresolved=[]
+no_duplicate_product_material_bom_rows,True,duplicates=0
+product_material_equals_location_material_sum,True,max_abs_diff=0.000000000001
+cumulative_product_requirement_60_ge_30,True,checked all products
+cumulative_product_requirement_90_ge_60,True,checked all products
+incremental_replenishment_non_negative,True,checked product incremental buckets
+incremental_material_requirements_non_negative,True,checked product-material incremental buckets
+no_raw_material_stock_invented,True,forbidden_columns_present=[]
+no_purchase_quantity_fabricated,True,Phase 6 outputs contain gross requirements only
+no_external_data_used,True,"Used accepted Phase 5 output plus provided Product_BOM.csv, Materials.csv, and Product_Master.csv"

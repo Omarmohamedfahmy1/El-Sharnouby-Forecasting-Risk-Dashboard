@@ -1,0 +1,178 @@
+Product_ID,Product_Name,Product_Family,Horizon_Days,Production_Equivalent_Replenishment_Qty,Locations_Requiring_Replenishment_Count,High_Risk_Locations_Count,Requires_Replenishment
+P001,Summer children's girls-Happy,Pajamas/Homewear,30,812.0000000000001,3,2,True
+P001,Summer children's girls-Happy,Pajamas/Homewear,60,1767.0,3,3,True
+P001,Summer children's girls-Happy,Pajamas/Homewear,90,2918.9999999999995,3,3,True
+P002,Summer children's girls-turtle,Pajamas/Homewear,30,812.34735268952,3,3,True
+P002,Summer children's girls-turtle,Pajamas/Homewear,60,1189.141059783199,3,3,True
+P002,Summer children's girls-turtle,Pajamas/Homewear,90,1664.2097013469217,3,3,True
+P003,Summer children's girls-Hello kitty Rose & turquoise,Pajamas/Homewear,30,224.57142857142856,1,1,True
+P003,Summer children's girls-Hello kitty Rose & turquoise,Pajamas/Homewear,60,674.5714285714284,1,1,True
+P003,Summer children's girls-Hello kitty Rose & turquoise,Pajamas/Homewear,90,1512.469385813762,1,1,True
+P004,Summer children's girls-Hello kitty black&white,Pajamas/Homewear,30,533.8571428571429,1,1,True
+P004,Summer children's girls-Hello kitty black&white,Pajamas/Homewear,60,966.7142857142856,1,1,True
+P004,Summer children's girls-Hello kitty black&white,Pajamas/Homewear,90,1308.7142857142856,1,1,True
+P005,Summer children's boys-Black and orange,Pajamas/Homewear,30,934.8571428571428,1,1,True
+P005,Summer children's boys-Black and orange,Pajamas/Homewear,60,1228.857142857143,1,1,True
+P005,Summer children's boys-Black and orange,Pajamas/Homewear,90,1947.1428571428569,1,1,True
+P006,Summer children's boys-Sonic,Pajamas/Homewear,30,582.2857142857143,1,1,True
+P006,Summer children's boys-Sonic,Pajamas/Homewear,60,769.1428571428571,1,1,True
+P006,Summer children's boys-Sonic,Pajamas/Homewear,90,1105.142857142857,1,1,True
+P007,Summer children's boys-Black and turquoise,Pajamas/Homewear,30,0.0,0,0,False
+P007,Summer children's boys-Black and turquoise,Pajamas/Homewear,60,174.57142857142867,1,1,True
+P007,Summer children's boys-Black and turquoise,Pajamas/Homewear,90,396.5714285714287,1,1,True
+P008,Summer children's boys-SpongeBob,Pajamas/Homewear,30,869.0,1,1,True
+P008,Summer children's boys-SpongeBob,Pajamas/Homewear,60,2200.8172911009024,1,1,True
+P008,Summer children's boys-SpongeBob,Pajamas/Homewear,90,2868.7142857142853,1,1,True
+P009,Boys' summer t-shirt-Aubergine,T-Shirts,30,143.5714285714285,1,1,True
+P009,Boys' summer t-shirt-Aubergine,T-Shirts,60,674.1428571428571,1,1,True
+P009,Boys' summer t-shirt-Aubergine,T-Shirts,90,1415.212380492139,1,1,True
+P010,Boys' summer t-shirt-olive,T-Shirts,30,0.0,0,0,False
+P010,Boys' summer t-shirt-olive,T-Shirts,60,9.85714285714289,1,0,True
+P010,Boys' summer t-shirt-olive,T-Shirts,90,453.8571428571429,1,1,True
+P011,Boys' summer t-shirt-Navy blue,T-Shirts,30,59.85714285714283,1,1,True
+P011,Boys' summer t-shirt-Navy blue,T-Shirts,60,262.1428571428572,1,1,True
+P011,Boys' summer t-shirt-Navy blue,T-Shirts,90,458.4285714285713,1,1,True
+P012,Boys' summer t-shirt-light beige,T-Shirts,30,531.7380681427511,1,1,True
+P012,Boys' summer t-shirt-light beige,T-Shirts,60,1095.8050550257617,1,1,True
+P012,Boys' summer t-shirt-light beige,T-Shirts,90,1095.8050550257617,1,1,True
+P013,Boys' summer t-shirt-Beige,T-Shirts,30,0.0,0,0,False
+P013,Boys' summer t-shirt-Beige,T-Shirts,60,81.71428571428567,1,1,True
+P013,Boys' summer t-shirt-Beige,T-Shirts,90,528.8571428571428,2,2,True
+P014,Boys' summer t-shirt-Black,T-Shirts,30,1063.5714285714284,1,1,True
+P014,Boys' summer t-shirt-Black,T-Shirts,60,1406.428571428571,1,1,True
+P014,Boys' summer t-shirt-Black,T-Shirts,90,2301.2857142857138,1,1,True
+P015,Girls' summer pajamas-Stay cool,Pajamas/Homewear,30,434.1306679894128,1,1,True
+P015,Girls' summer pajamas-Stay cool,Pajamas/Homewear,60,752.9346248632714,1,1,True
+P015,Girls' summer pajamas-Stay cool,Pajamas/Homewear,90,891.2857142857143,1,1,True
+P016,Girls' summer pajamas-Watercolor Floral,Pajamas/Homewear,30,195.8571428571429,1,1,True
+P016,Girls' summer pajamas-Watercolor Floral,Pajamas/Homewear,60,551.5714285714287,1,1,True
+P016,Girls' summer pajamas-Watercolor Floral,Pajamas/Homewear,90,1218.5920310980546,1,1,True
+P017,Girls' summer pajamas-flower,Pajamas/Homewear,30,935.8224358641932,1,1,True
+P017,Girls' summer pajamas-flower,Pajamas/Homewear,60,1206.285714285714,1,1,True
+P017,Girls' summer pajamas-flower,Pajamas/Homewear,90,1811.428571428572,1,1,True
+P018,Boys' summer pajamas-Wear your attitude,Pajamas/Homewear,30,369.1428571428571,1,1,True
+P018,Boys' summer pajamas-Wear your attitude,Pajamas/Homewear,60,592.0,1,1,True
+P018,Boys' summer pajamas-Wear your attitude,Pajamas/Homewear,90,1346.494317344691,1,1,True
+P019,Boys' summer pajamas- Seeds OF,Pajamas/Homewear,30,0.0,0,0,False
+P019,Boys' summer pajamas- Seeds OF,Pajamas/Homewear,60,0.0,0,0,False
+P019,Boys' summer pajamas- Seeds OF,Pajamas/Homewear,90,0.0,0,0,False
+P020,Boys' summer pajamas-Rock Band,Pajamas/Homewear,30,0.0,0,0,False
+P020,Boys' summer pajamas-Rock Band,Pajamas/Homewear,60,386.0419239698365,1,1,True
+P020,Boys' summer pajamas-Rock Band,Pajamas/Homewear,90,706.1871818705054,1,1,True
+P021,Girls' summer pajamas-Minnie Mouse,Pajamas/Homewear,30,671.4285714285712,1,1,True
+P021,Girls' summer pajamas-Minnie Mouse,Pajamas/Homewear,60,1435.0390856811916,1,1,True
+P021,Girls' summer pajamas-Minnie Mouse,Pajamas/Homewear,90,2119.876309296737,1,1,True
+P022,Girls' summer pajamas-Stitch,Pajamas/Homewear,30,309.6818981167131,1,1,True
+P022,Girls' summer pajamas-Stitch,Pajamas/Homewear,60,407.0,1,1,True
+P022,Girls' summer pajamas-Stitch,Pajamas/Homewear,90,872.9036317530142,1,1,True
+P023,Girls' summer pajamas-Dumbo,Pajamas/Homewear,30,0.0,0,0,False
+P023,Girls' summer pajamas-Dumbo,Pajamas/Homewear,60,0.0,0,0,False
+P023,Girls' summer pajamas-Dumbo,Pajamas/Homewear,90,0.0,0,0,False
+P024,Boys' summer pajamas-Mickey,Pajamas/Homewear,30,113.34741800702876,1,0,True
+P024,Boys' summer pajamas-Mickey,Pajamas/Homewear,60,306.2857142857142,1,1,True
+P024,Boys' summer pajamas-Mickey,Pajamas/Homewear,90,1227.6810851949758,1,1,True
+P025,Boys' summer pajamas-Snoopy,Pajamas/Homewear,30,300.0,1,1,True
+P025,Boys' summer pajamas-Snoopy,Pajamas/Homewear,60,474.0,1,1,True
+P025,Boys' summer pajamas-Snoopy,Pajamas/Homewear,90,734.9275859413434,2,2,True
+P026,Boys' summer pajamas-Bluey,Pajamas/Homewear,30,0.0,0,0,False
+P026,Boys' summer pajamas-Bluey,Pajamas/Homewear,60,211.85714285714283,1,1,True
+P026,Boys' summer pajamas-Bluey,Pajamas/Homewear,90,373.8571428571429,1,1,True
+P027,Girls' pajamas - I'm Just a girl,Pajamas/Homewear,30,378.8571428571429,1,1,True
+P027,Girls' pajamas - I'm Just a girl,Pajamas/Homewear,60,544.2857142857143,1,1,True
+P027,Girls' pajamas - I'm Just a girl,Pajamas/Homewear,90,796.2857142857144,1,1,True
+P028,Girls' summer pajamas,Pajamas/Homewear,30,0.0,0,0,False
+P028,Girls' summer pajamas,Pajamas/Homewear,60,265.57142857142856,1,1,True
+P028,Girls' summer pajamas,Pajamas/Homewear,90,706.9999999999998,1,1,True
+P029,Girls' pajamas-Daylife+kuromi,Pajamas/Homewear,30,205.4285714285716,1,0,True
+P029,Girls' pajamas-Daylife+kuromi,Pajamas/Homewear,60,1013.6758479259852,1,1,True
+P029,Girls' pajamas-Daylife+kuromi,Pajamas/Homewear,90,2184.935194345102,2,2,True
+P030,Boys' pajamas -Mickey Mouse,Pajamas/Homewear,30,0.0,0,0,False
+P030,Boys' pajamas -Mickey Mouse,Pajamas/Homewear,60,89.42857142857133,1,0,True
+P030,Boys' pajamas -Mickey Mouse,Pajamas/Homewear,90,538.2860683758527,1,1,True
+P031,Boys' pajamas -Don't Even!,Pajamas/Homewear,30,328.0,1,0,True
+P031,Boys' pajamas -Don't Even!,Pajamas/Homewear,60,563.7142857142858,1,1,True
+P031,Boys' pajamas -Don't Even!,Pajamas/Homewear,90,1386.6114591872524,1,1,True
+P032,Boys' sweatshirt-blue,Sweatshirts,30,860.4285714285716,1,1,True
+P032,Boys' sweatshirt-blue,Sweatshirts,60,2837.857142857142,2,2,True
+P032,Boys' sweatshirt-blue,Sweatshirts,90,5768.428571428572,3,3,True
+P033,Boys' sweatshirt-LEO,Sweatshirts,30,1972.857142857143,1,1,True
+P033,Boys' sweatshirt-LEO,Sweatshirts,60,2718.1447597899687,3,3,True
+P033,Boys' sweatshirt-LEO,Sweatshirts,90,7205.142857142857,3,3,True
+P034,Boys' sweatshirt-black and white,Sweatshirts,30,192.71428571428555,1,1,True
+P034,Boys' sweatshirt-black and white,Sweatshirts,60,1167.8571428571422,2,2,True
+P034,Boys' sweatshirt-black and white,Sweatshirts,90,1926.428571428572,2,2,True
+P035,Girls' sweatshirt-Fuchsia,Sweatshirts,30,598.8571428571427,1,1,True
+P035,Girls' sweatshirt-Fuchsia,Sweatshirts,60,1634.8571428571436,2,2,True
+P035,Girls' sweatshirt-Fuchsia,Sweatshirts,90,3249.857142857143,3,3,True
+P036,Girls' sweatshirt-Tinker Bell,Sweatshirts,30,800.5714285714284,1,1,True
+P036,Girls' sweatshirt-Tinker Bell,Sweatshirts,60,1820.5714285714287,2,2,True
+P036,Girls' sweatshirt-Tinker Bell,Sweatshirts,90,2932.7142857142862,2,2,True
+P037,Girls' sweatshirt-Flower,Sweatshirts,30,806.1428571428564,1,1,True
+P037,Girls' sweatshirt-Flower,Sweatshirts,60,4483.142857142859,2,1,True
+P037,Girls' sweatshirt-Flower,Sweatshirts,90,8318.857142857145,3,3,True
+P038,Boys' Autumn Pajamas-Mickey Mouse,Pajamas/Homewear,30,1449.714285714285,1,1,True
+P038,Boys' Autumn Pajamas-Mickey Mouse,Pajamas/Homewear,60,3331.4285714285706,2,2,True
+P038,Boys' Autumn Pajamas-Mickey Mouse,Pajamas/Homewear,90,6856.857142857143,3,3,True
+P039,Boys' Autumn Pajamas-Spider Man,Pajamas/Homewear,30,1639.7142857142862,2,2,True
+P039,Boys' Autumn Pajamas-Spider Man,Pajamas/Homewear,60,3644.142857142857,3,3,True
+P039,Boys' Autumn Pajamas-Spider Man,Pajamas/Homewear,90,6424.999999999999,3,3,True
+P040,Boys' Autumn Pajamas-Loony Tunes,Pajamas/Homewear,30,300.2857142857141,1,1,True
+P040,Boys' Autumn Pajamas-Loony Tunes,Pajamas/Homewear,60,1427.428571428571,1,1,True
+P040,Boys' Autumn Pajamas-Loony Tunes,Pajamas/Homewear,90,2550.2857142857147,1,1,True
+P041,Boys' Autumn Pajamas-Jurassic Park,Pajamas/Homewear,30,0.0,0,0,False
+P041,Boys' Autumn Pajamas-Jurassic Park,Pajamas/Homewear,60,0.0,0,0,False
+P041,Boys' Autumn Pajamas-Jurassic Park,Pajamas/Homewear,90,0.0,0,0,False
+P042,Girls' autumn pajamas-Cheeky Charmins,Pajamas/Homewear,30,767.9001192047948,2,2,True
+P042,Girls' autumn pajamas-Cheeky Charmins,Pajamas/Homewear,60,1504.8571428571431,2,2,True
+P042,Girls' autumn pajamas-Cheeky Charmins,Pajamas/Homewear,90,2372.8571428571427,2,2,True
+P043,Girls' autumn pajamas-Snow White,Pajamas/Homewear,30,1400.3493880426258,1,1,True
+P043,Girls' autumn pajamas-Snow White,Pajamas/Homewear,60,3149.1428571428573,1,1,True
+P043,Girls' autumn pajamas-Snow White,Pajamas/Homewear,90,5799.000000000001,3,3,True
+P044,Girls' autumn pajamas-Ice Cream,Pajamas/Homewear,30,1383.186932005823,1,1,True
+P044,Girls' autumn pajamas-Ice Cream,Pajamas/Homewear,60,3192.6683141664193,2,2,True
+P044,Girls' autumn pajamas-Ice Cream,Pajamas/Homewear,90,5536.428571428572,3,3,True
+P045,Girls' autumn pajamas-Stitch,Pajamas/Homewear,30,1149.7142857142862,1,1,True
+P045,Girls' autumn pajamas-Stitch,Pajamas/Homewear,60,2774.3842995962573,2,2,True
+P045,Girls' autumn pajamas-Stitch,Pajamas/Homewear,90,5755.857142857143,3,3,True
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,326.65880704889946,1,1,True
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,561.4285714285716,1,1,True
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,1386.857142857143,1,1,True
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,6.571428571428555,1,0,True
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,538.7634436913445,1,1,True
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,820.8185723841796,1,1,True
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,621.4285714285713,1,1,True
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,914.5714285714284,1,1,True
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,1647.5714285714287,2,2,True
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,616.4997215867826,1,1,True
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,1123.6146357402863,1,1,True
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,1691.5247571360342,1,1,True
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,69.85714285714289,1,0,True
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,309.8571428571429,1,1,True
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,667.2857142857142,1,1,True
+P051,Ice cream - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,633.5714285714284,1,1,True
+P051,Ice cream - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,1430.714285714285,1,1,True
+P051,Ice cream - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,3043.8571428571427,1,1,True
+P052,Teddy bear - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,0.0,0,0,False
+P052,Teddy bear - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,0.0,0,0,False
+P052,Teddy bear - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,73.71428571428567,1,1,True
+P053,PINK panther - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,368.71428571428567,1,1,True
+P053,PINK panther - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,773.2857142857141,1,1,True
+P053,PINK panther - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,1345.8262199721676,1,1,True
+P054,Gazelle - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,0.0,0,0,False
+P054,Gazelle - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,0.0,0,0,False
+P054,Gazelle - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,0.0,0,0,False
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,289.28571428571433,1,1,True
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,668.9999999999999,1,1,True
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,1286.142857142857,1,1,True
+P056,BATGIRL - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,0.0,0,0,False
+P056,BATGIRL - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,238.79877451395964,1,0,True
+P056,BATGIRL - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,870.2829537389769,2,2,True
+P057,Save the planet بيجامة حريمي صيفي - 2024,Pajamas/Homewear,30,0.0,0,0,False
+P057,Save the planet بيجامة حريمي صيفي - 2024,Pajamas/Homewear,60,102.42857142857144,1,0,True
+P057,Save the planet بيجامة حريمي صيفي - 2024,Pajamas/Homewear,90,272.1428571428572,1,1,True
+P058,OHANA - بيجامة حريمي صيفي 2024,Pajamas/Homewear,30,264.0,1,0,True
+P058,OHANA - بيجامة حريمي صيفي 2024,Pajamas/Homewear,60,473.9999999999999,1,1,True
+P058,OHANA - بيجامة حريمي صيفي 2024,Pajamas/Homewear,90,1198.8483808298529,1,1,True
+P059,Positive vibes - 2024بيجامة حريمي صيفي,Pajamas/Homewear,30,173.0,1,0,True
+P059,Positive vibes - 2024بيجامة حريمي صيفي,Pajamas/Homewear,60,1123.5220534459731,1,1,True
+P059,Positive vibes - 2024بيجامة حريمي صيفي,Pajamas/Homewear,90,1958.842027124413,1,1,True

@@ -1,0 +1,18 @@
+check,passed,detail
+required_folders_exist,True,Missing folders: 
+required_source_files_exist,True,Missing source files: 
+required_accepted_output_files_exist,True,Missing accepted outputs: 
+readme_exists,True,README.md
+readme_run_review_instructions_exist,True,Missing README snippets: 
+requirements_file_exists,True,requirements.txt
+requirements_are_minimal_for_delivery_runtime,True,missing=[]; unexpected=[]
+required_packages_importable_in_current_environment,True,Unavailable packages: 
+final_notebook_exists,True,notebooks/el_sharnouby_end_to_end_analysis.ipynb
+final_notebook_saved_state_ready,True,"{'total_cells': 33, 'code_cells': 15, 'cells_with_ids': 33, 'unique_ids': 33, 'code_cells_with_execution_counts': 15, 'saved_outputs': 48, 'saved_error_outputs': 0, 'saved_table_outputs': 34, 'saved_chart_outputs': 12}"
+delivery_python_sources_compile,True,Failures: 
+dashboard_import_and_data_load,True,final_decision_rows=531
+dashboard_streamlit_startup_smoke,True,HTTP status=200; port=50826.
+no_external_data_or_api_artifact_paths,True,Suspicious paths: 
+no_external_data_access_in_delivery_artifacts,True,Hits: 
+no_model_retraining_or_forecast_regeneration_in_delivery_artifacts,True,Hits: 
+phase1_to_phase11_accepted_outputs_unchanged_during_validation,True,Changed files: 

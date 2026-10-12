@@ -1,0 +1,18 @@
+check,passed,detail
+all_po_rows_handled,True,raw_rows=3600; enriched_rows=3600
+all_po_ids_preserved,True,raw_unique_po=3600; enriched_unique_po=3600
+supplier_ids_resolve_or_are_flagged,True,unresolved_supplier_rows=0
+material_ids_resolve_or_are_flagged,True,unresolved_material_rows=0
+negative_actual_lead_times_not_accepted_silently,True,negative_actual_lead_rows=0
+negative_promised_lead_times_not_accepted_silently,True,negative_promised_lead_rows=0
+impossible_date_ordering_flagged,True,impossible_date_rows=0
+rates_within_0_1,True,Acceptance_Rate=True; Rejection_Rate=True; On_Time_Numeric=True
+material_requirement_horizons_30_60_90,True,"horizons=[30, 60, 90]"
+phase6_requirement_rows_preserved,True,phase6_rows=30; joined_rows=30
+no_cumulative_horizons_summed,True,"Each material keeps separate 30, 60, and 90-day rows."
+phase6_gross_requirements_unchanged,True,max_abs_horizon_total_difference=0.000000000000
+no_raw_material_stock_invented,True,forbidden_columns_present=[]
+no_net_shortage_calculated,True,forbidden_columns_present=[]
+no_purchase_quantity_calculated,True,forbidden_columns_present=[]
+no_supplier_future_availability_assumed,True,forbidden_columns_present=[]
+no_external_data_used,True,"Inputs limited to provided Purchase_Orders.csv, Suppliers.csv, Materials.csv, Data_Dictionary.csv, and accepted Phase 6 material requirements."

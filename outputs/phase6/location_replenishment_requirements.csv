@@ -1,0 +1,532 @@
+Product_ID,Product_Name,Location_ID,Location_Name,Channel,Product_Family,Horizon_Days,Forecast_Demand_Raw,Available_Stock,Safety_Stock_Units,Expected_Shortage_Units,Recommended_Replenishment_Qty,Inventory_Risk,Estimated_Stockout_Date
+P001,Summer children's girls-Happy,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,59.85714285714285,8,65,51.85714285714285,116.85714285714286,High,2026-10-05
+P001,Summer children's girls-Happy,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,123.85714285714288,8,65,115.85714285714288,180.8571428571429,High,2026-10-05
+P001,Summer children's girls-Happy,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,181.4285714285714,8,65,173.4285714285714,238.4285714285714,High,2026-10-05
+P001,Summer children's girls-Happy,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,50.71428571428572,95,50,0.0,5.714285714285722,Medium,2026-11-18
+P001,Summer children's girls-Happy,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,117.14285714285712,95,50,22.14285714285711,72.14285714285711,High,2026-11-18
+P001,Summer children's girls-Happy,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,198.42857142857144,95,50,103.42857142857142,153.42857142857142,High,2026-11-18
+P001,Summer children's girls-Happy,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,753.4285714285717,494,430,259.4285714285717,689.4285714285716,High,2026-10-22
+P001,Summer children's girls-Happy,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,1578.0,494,430,1084.0,1514.0,High,2026-10-22
+P001,Summer children's girls-Happy,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,2591.142857142857,494,430,2097.142857142857,2527.142857142857,High,2026-10-22
+P002,Summer children's girls-turtle,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,26.14285714285715,5,6,21.14285714285715,27.142857142857157,High,2026-10-11
+P002,Summer children's girls-turtle,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,41.57142857142858,5,6,36.57142857142858,42.57142857142858,High,2026-10-11
+P002,Summer children's girls-turtle,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,59.71428571428572,5,6,54.71428571428572,60.71428571428572,High,2026-10-11
+P002,Summer children's girls-turtle,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,13.857142857142852,0,43,13.857142857142852,56.85714285714285,High,2026-10-01
+P002,Summer children's girls-turtle,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,27.14285714285714,0,43,27.14285714285714,70.14285714285714,High,2026-10-01
+P002,Summer children's girls-turtle,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,154.63827277549314,0,43,154.63827277549314,197.63827277549316,High,2026-10-01
+P002,Summer children's girls-turtle,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,361.34735268952,0,367,361.34735268952,728.34735268952,High,2026-10-01
+P002,Summer children's girls-turtle,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,709.4267740689131,0,367,709.4267740689131,1076.4267740689131,High,2026-10-01
+P002,Summer children's girls-turtle,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,1038.857142857143,0,367,1038.857142857143,1405.857142857143,High,2026-10-01
+P003,Summer children's girls-Hello kitty Rose & turquoise,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,25.42857142857143,211,11,0.0,0.0,Low,Not within 90-day forecast
+P003,Summer children's girls-Hello kitty Rose & turquoise,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,53.142857142857125,211,11,0.0,0.0,Low,Not within 90-day forecast
+P003,Summer children's girls-Hello kitty Rose & turquoise,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,97.57142857142856,211,11,0.0,0.0,Low,Not within 90-day forecast
+P003,Summer children's girls-Hello kitty Rose & turquoise,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,12.714285714285714,359,19,0.0,0.0,Low,Not within 90-day forecast
+P003,Summer children's girls-Hello kitty Rose & turquoise,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,35.71428571428571,359,19,0.0,0.0,Low,Not within 90-day forecast
+P003,Summer children's girls-Hello kitty Rose & turquoise,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,61.42857142857142,359,19,0.0,0.0,Low,Not within 90-day forecast
+P003,Summer children's girls-Hello kitty Rose & turquoise,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,98.57142857142856,13,139,85.57142857142857,224.57142857142856,High,2026-10-03
+P003,Summer children's girls-Hello kitty Rose & turquoise,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,548.5714285714284,13,139,535.5714285714284,674.5714285714284,High,2026-10-03
+P003,Summer children's girls-Hello kitty Rose & turquoise,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,1386.469385813762,13,139,1373.469385813762,1512.469385813762,High,2026-10-02
+P004,Summer children's girls-Hello kitty black&white,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,20.000000000000004,77,5,0.0,0.0,Low,Not within 90-day forecast
+P004,Summer children's girls-Hello kitty black&white,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,53.42857142857143,77,5,0.0,0.0,Low,Not within 90-day forecast
+P004,Summer children's girls-Hello kitty black&white,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,68.14285714285714,77,5,0.0,0.0,Low,Not within 90-day forecast
+P004,Summer children's girls-Hello kitty black&white,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,17.571428571428566,146,17,0.0,0.0,Low,Not within 90-day forecast
+P004,Summer children's girls-Hello kitty black&white,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,33.14285714285714,146,17,0.0,0.0,Low,Not within 90-day forecast
+P004,Summer children's girls-Hello kitty black&white,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,50.57142857142857,146,17,0.0,0.0,Low,Not within 90-day forecast
+P004,Summer children's girls-Hello kitty black&white,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,294.85714285714295,0,239,294.85714285714295,533.8571428571429,High,2026-10-01
+P004,Summer children's girls-Hello kitty black&white,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,727.7142857142857,0,239,727.7142857142857,966.7142857142856,High,2026-10-01
+P004,Summer children's girls-Hello kitty black&white,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,1069.7142857142856,0,239,1069.7142857142856,1308.7142857142856,High,2026-10-01
+P005,Summer children's boys-Black and orange,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,29.285714285714292,120,15,0.0,0.0,Low,Not within 90-day forecast
+P005,Summer children's boys-Black and orange,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,57.42857142857143,120,15,0.0,0.0,Low,Not within 90-day forecast
+P005,Summer children's boys-Black and orange,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,82.14285714285714,120,15,0.0,0.0,Low,Not within 90-day forecast
+P005,Summer children's boys-Black and orange,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,103.08052807560796,328,27,0.0,0.0,Low,Not within 90-day forecast
+P005,Summer children's boys-Black and orange,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,103.08052807560796,328,27,0.0,0.0,Low,Not within 90-day forecast
+P005,Summer children's boys-Black and orange,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,112.42857142857144,328,27,0.0,0.0,Low,Not within 90-day forecast
+P005,Summer children's boys-Black and orange,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,402.8571428571429,140,672,262.8571428571429,934.8571428571428,High,2026-10-19
+P005,Summer children's boys-Black and orange,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,696.8571428571429,140,672,556.8571428571429,1228.857142857143,High,2026-10-19
+P005,Summer children's boys-Black and orange,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,1415.142857142857,140,672,1275.142857142857,1947.1428571428569,High,2026-10-19
+P006,Summer children's boys-Sonic,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,26.857142857142858,184,25,0.0,0.0,Low,Not within 90-day forecast
+P006,Summer children's boys-Sonic,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,48.85714285714285,184,25,0.0,0.0,Low,Not within 90-day forecast
+P006,Summer children's boys-Sonic,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,65.71428571428572,184,25,0.0,0.0,Low,Not within 90-day forecast
+P006,Summer children's boys-Sonic,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,26.0,102,14,0.0,0.0,Low,Not within 90-day forecast
+P006,Summer children's boys-Sonic,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,46.285714285714285,102,14,0.0,0.0,Low,Not within 90-day forecast
+P006,Summer children's boys-Sonic,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,63.42857142857143,102,14,0.0,0.0,Low,Not within 90-day forecast
+P006,Summer children's boys-Sonic,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,274.28571428571433,2,310,272.28571428571433,582.2857142857143,High,2026-10-01
+P006,Summer children's boys-Sonic,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,461.14285714285705,2,310,459.14285714285705,769.1428571428571,High,2026-10-01
+P006,Summer children's boys-Sonic,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,797.1428571428572,2,310,795.1428571428572,1105.142857142857,High,2026-10-01
+P007,Summer children's boys-Black and turquoise,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,6.857142857142858,103,5,0.0,0.0,Low,Not within 90-day forecast
+P007,Summer children's boys-Black and turquoise,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,24.14285714285713,103,5,0.0,0.0,Low,Not within 90-day forecast
+P007,Summer children's boys-Black and turquoise,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,41.42857142857143,103,5,0.0,0.0,Low,Not within 90-day forecast
+P007,Summer children's boys-Black and turquoise,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,13.285714285714286,190,7,0.0,0.0,Low,Not within 90-day forecast
+P007,Summer children's boys-Black and turquoise,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,22.285714285714285,190,7,0.0,0.0,Low,Not within 90-day forecast
+P007,Summer children's boys-Black and turquoise,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,32.14285714285714,190,7,0.0,0.0,Low,Not within 90-day forecast
+P007,Summer children's boys-Black and turquoise,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,334.00496533299605,426,76,0.0,0.0,Low,2026-11-08
+P007,Summer children's boys-Black and turquoise,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,524.5714285714287,426,76,98.57142857142868,174.57142857142867,High,2026-11-13
+P007,Summer children's boys-Black and turquoise,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,746.5714285714287,426,76,320.57142857142867,396.5714285714287,High,2026-11-13
+P008,Summer children's boys-SpongeBob,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,37.42857142857142,155,14,0.0,0.0,Low,Not within 90-day forecast
+P008,Summer children's boys-SpongeBob,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,76.14285714285714,155,14,0.0,0.0,Low,Not within 90-day forecast
+P008,Summer children's boys-SpongeBob,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,120.85714285714286,155,14,0.0,0.0,Low,Not within 90-day forecast
+P008,Summer children's boys-SpongeBob,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,53.28571428571428,493,57,0.0,0.0,Low,Not within 90-day forecast
+P008,Summer children's boys-SpongeBob,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,94.42857142857142,493,57,0.0,0.0,Low,Not within 90-day forecast
+P008,Summer children's boys-SpongeBob,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,165.42857142857144,493,57,0.0,0.0,Low,Not within 90-day forecast
+P008,Summer children's boys-SpongeBob,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,696.0,413,586,283.0,869.0,High,2026-10-22
+P008,Summer children's boys-SpongeBob,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,2027.8172911009024,413,586,1614.8172911009024,2200.8172911009024,High,2026-10-10
+P008,Summer children's boys-SpongeBob,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,2695.7142857142853,413,586,2282.7142857142853,2868.7142857142853,High,2026-10-22
+P009,Boys' summer t-shirt-Aubergine,LOC001,LEO MODA - Sidi Bishr Store,Retail,T-Shirts,30,13.714285714285715,146,5,0.0,0.0,Low,Not within 90-day forecast
+P009,Boys' summer t-shirt-Aubergine,LOC001,LEO MODA - Sidi Bishr Store,Retail,T-Shirts,60,45.57142857142857,146,5,0.0,0.0,Low,Not within 90-day forecast
+P009,Boys' summer t-shirt-Aubergine,LOC001,LEO MODA - Sidi Bishr Store,Retail,T-Shirts,90,68.28571428571429,146,5,0.0,0.0,Low,Not within 90-day forecast
+P009,Boys' summer t-shirt-Aubergine,LOC002,LEO MODA Online Store,Online,T-Shirts,30,18.428571428571438,277,30,0.0,0.0,Low,Not within 90-day forecast
+P009,Boys' summer t-shirt-Aubergine,LOC002,LEO MODA Online Store,Online,T-Shirts,60,38.57142857142857,277,30,0.0,0.0,Low,Not within 90-day forecast
+P009,Boys' summer t-shirt-Aubergine,LOC002,LEO MODA Online Store,Online,T-Shirts,90,71.28571428571428,277,30,0.0,0.0,Low,Not within 90-day forecast
+P009,Boys' summer t-shirt-Aubergine,LOC003,El-Sharnouby Wholesale Desk,Wholesale,T-Shirts,30,308.5714285714285,239,74,69.5714285714285,143.5714285714285,High,2026-10-22
+P009,Boys' summer t-shirt-Aubergine,LOC003,El-Sharnouby Wholesale Desk,Wholesale,T-Shirts,60,839.1428571428571,239,74,600.1428571428571,674.1428571428571,High,2026-10-22
+P009,Boys' summer t-shirt-Aubergine,LOC003,El-Sharnouby Wholesale Desk,Wholesale,T-Shirts,90,1580.212380492139,239,74,1341.212380492139,1415.212380492139,High,2026-10-14
+P010,Boys' summer t-shirt-olive,LOC001,LEO MODA - Sidi Bishr Store,Retail,T-Shirts,30,10.999999999999998,165,5,0.0,0.0,Low,Not within 90-day forecast
+P010,Boys' summer t-shirt-olive,LOC001,LEO MODA - Sidi Bishr Store,Retail,T-Shirts,60,27.000000000000007,165,5,0.0,0.0,Low,Not within 90-day forecast
+P010,Boys' summer t-shirt-olive,LOC001,LEO MODA - Sidi Bishr Store,Retail,T-Shirts,90,48.2857142857143,165,5,0.0,0.0,Low,Not within 90-day forecast
+P010,Boys' summer t-shirt-olive,LOC002,LEO MODA Online Store,Online,T-Shirts,30,13.857142857142858,214,22,0.0,0.0,Low,Not within 90-day forecast
+P010,Boys' summer t-shirt-olive,LOC002,LEO MODA Online Store,Online,T-Shirts,60,30.85714285714286,214,22,0.0,0.0,Low,Not within 90-day forecast
+P010,Boys' summer t-shirt-olive,LOC002,LEO MODA Online Store,Online,T-Shirts,90,47.42857142857143,214,22,0.0,0.0,Low,Not within 90-day forecast
+P010,Boys' summer t-shirt-olive,LOC003,El-Sharnouby Wholesale Desk,Wholesale,T-Shirts,30,174.85714285714286,486,255,0.0,0.0,Medium,2026-12-10
+P010,Boys' summer t-shirt-olive,LOC003,El-Sharnouby Wholesale Desk,Wholesale,T-Shirts,60,240.8571428571429,486,255,0.0,9.85714285714289,Medium,2026-12-10
+P010,Boys' summer t-shirt-olive,LOC003,El-Sharnouby Wholesale Desk,Wholesale,T-Shirts,90,684.8571428571429,486,255,198.8571428571429,453.8571428571429,High,2026-12-10
+P011,Boys' summer t-shirt-Navy blue,LOC001,LEO MODA - Sidi Bishr Store,Retail,T-Shirts,30,9.571428571428577,48,11,0.0,0.0,Low,Not within 90-day forecast
+P011,Boys' summer t-shirt-Navy blue,LOC001,LEO MODA - Sidi Bishr Store,Retail,T-Shirts,60,16.14285714285714,48,11,0.0,0.0,Low,Not within 90-day forecast
+P011,Boys' summer t-shirt-Navy blue,LOC001,LEO MODA - Sidi Bishr Store,Retail,T-Shirts,90,34.28571428571428,48,11,0.0,0.0,Low,Not within 90-day forecast
+P011,Boys' summer t-shirt-Navy blue,LOC002,LEO MODA Online Store,Online,T-Shirts,30,8.714285714285715,238,12,0.0,0.0,Low,Not within 90-day forecast
+P011,Boys' summer t-shirt-Navy blue,LOC002,LEO MODA Online Store,Online,T-Shirts,60,18.57142857142857,238,12,0.0,0.0,Low,Not within 90-day forecast
+P011,Boys' summer t-shirt-Navy blue,LOC002,LEO MODA Online Store,Online,T-Shirts,90,41.85714285714286,238,12,0.0,0.0,Low,Not within 90-day forecast
+P011,Boys' summer t-shirt-Navy blue,LOC003,El-Sharnouby Wholesale Desk,Wholesale,T-Shirts,30,168.85714285714283,155,46,13.857142857142833,59.85714285714283,High,2026-10-28
+P011,Boys' summer t-shirt-Navy blue,LOC003,El-Sharnouby Wholesale Desk,Wholesale,T-Shirts,60,371.1428571428572,155,46,216.1428571428572,262.1428571428572,High,2026-10-28
+P011,Boys' summer t-shirt-Navy blue,LOC003,El-Sharnouby Wholesale Desk,Wholesale,T-Shirts,90,567.4285714285713,155,46,412.4285714285713,458.4285714285713,High,2026-10-28
+P012,Boys' summer t-shirt-light beige,LOC001,LEO MODA - Sidi Bishr Store,Retail,T-Shirts,30,41.67216406942547,255,13,0.0,0.0,Low,Not within 90-day forecast
+P012,Boys' summer t-shirt-light beige,LOC001,LEO MODA - Sidi Bishr Store,Retail,T-Shirts,60,80.95349413980335,255,13,0.0,0.0,Low,Not within 90-day forecast
+P012,Boys' summer t-shirt-light beige,LOC001,LEO MODA - Sidi Bishr Store,Retail,T-Shirts,90,123.2154740706318,255,13,0.0,0.0,Low,Not within 90-day forecast
+P012,Boys' summer t-shirt-light beige,LOC002,LEO MODA Online Store,Online,T-Shirts,30,26.000000000000004,188,45,0.0,0.0,Low,Not within 90-day forecast
+P012,Boys' summer t-shirt-light beige,LOC002,LEO MODA Online Store,Online,T-Shirts,60,59.0,188,45,0.0,0.0,Low,Not within 90-day forecast
+P012,Boys' summer t-shirt-light beige,LOC002,LEO MODA Online Store,Online,T-Shirts,90,88.85714285714286,188,45,0.0,0.0,Low,Not within 90-day forecast
+P012,Boys' summer t-shirt-light beige,LOC003,El-Sharnouby Wholesale Desk,Wholesale,T-Shirts,30,625.7380681427511,264,170,361.7380681427511,531.7380681427511,High,2026-10-12
+P012,Boys' summer t-shirt-light beige,LOC003,El-Sharnouby Wholesale Desk,Wholesale,T-Shirts,60,1189.8050550257617,264,170,925.8050550257616,1095.8050550257617,High,2026-10-12
+P012,Boys' summer t-shirt-light beige,LOC003,El-Sharnouby Wholesale Desk,Wholesale,T-Shirts,90,1189.8050550257617,264,170,925.8050550257616,1095.8050550257617,High,2026-11-06
+P013,Boys' summer t-shirt-Beige,LOC001,LEO MODA - Sidi Bishr Store,Retail,T-Shirts,30,17.71428571428571,77,12,0.0,0.0,Low,Not within 90-day forecast
+P013,Boys' summer t-shirt-Beige,LOC001,LEO MODA - Sidi Bishr Store,Retail,T-Shirts,60,33.0,77,12,0.0,0.0,Low,Not within 90-day forecast
+P013,Boys' summer t-shirt-Beige,LOC001,LEO MODA - Sidi Bishr Store,Retail,T-Shirts,90,60.85714285714286,77,12,0.0,0.0,Low,Not within 90-day forecast
+P013,Boys' summer t-shirt-Beige,LOC002,LEO MODA Online Store,Online,T-Shirts,30,20.71428571428572,66,11,0.0,0.0,Low,2026-12-24
+P013,Boys' summer t-shirt-Beige,LOC002,LEO MODA Online Store,Online,T-Shirts,60,43.85714285714286,66,11,0.0,0.0,Low,2026-12-24
+P013,Boys' summer t-shirt-Beige,LOC002,LEO MODA Online Store,Online,T-Shirts,90,71.85714285714286,66,11,5.857142857142861,16.85714285714286,High,2026-12-24
+P013,Boys' summer t-shirt-Beige,LOC003,El-Sharnouby Wholesale Desk,Wholesale,T-Shirts,30,318.8571428571429,499,81,0.0,0.0,Low,2026-11-22
+P013,Boys' summer t-shirt-Beige,LOC003,El-Sharnouby Wholesale Desk,Wholesale,T-Shirts,60,499.71428571428567,499,81,0.7142857142856656,81.71428571428567,High,2026-11-22
+P013,Boys' summer t-shirt-Beige,LOC003,El-Sharnouby Wholesale Desk,Wholesale,T-Shirts,90,930.0,499,81,430.9999999999999,511.9999999999999,High,2026-11-22
+P014,Boys' summer t-shirt-Black,LOC001,LEO MODA - Sidi Bishr Store,Retail,T-Shirts,30,25.14285714285713,156,14,0.0,0.0,Low,Not within 90-day forecast
+P014,Boys' summer t-shirt-Black,LOC001,LEO MODA - Sidi Bishr Store,Retail,T-Shirts,60,58.000000000000014,156,14,0.0,0.0,Low,Not within 90-day forecast
+P014,Boys' summer t-shirt-Black,LOC001,LEO MODA - Sidi Bishr Store,Retail,T-Shirts,90,101.57142857142858,156,14,0.0,0.0,Low,Not within 90-day forecast
+P014,Boys' summer t-shirt-Black,LOC002,LEO MODA Online Store,Online,T-Shirts,30,24.14285714285715,336,51,0.0,0.0,Low,Not within 90-day forecast
+P014,Boys' summer t-shirt-Black,LOC002,LEO MODA Online Store,Online,T-Shirts,60,57.57142857142857,336,51,0.0,0.0,Low,Not within 90-day forecast
+P014,Boys' summer t-shirt-Black,LOC002,LEO MODA Online Store,Online,T-Shirts,90,192.3996109655305,336,51,0.0,0.0,Low,Not within 90-day forecast
+P014,Boys' summer t-shirt-Black,LOC003,El-Sharnouby Wholesale Desk,Wholesale,T-Shirts,30,524.5714285714286,104,643,420.57142857142856,1063.5714285714284,High,2026-10-09
+P014,Boys' summer t-shirt-Black,LOC003,El-Sharnouby Wholesale Desk,Wholesale,T-Shirts,60,867.4285714285713,104,643,763.4285714285713,1406.428571428571,High,2026-10-09
+P014,Boys' summer t-shirt-Black,LOC003,El-Sharnouby Wholesale Desk,Wholesale,T-Shirts,90,1762.285714285714,104,643,1658.285714285714,2301.2857142857138,High,2026-10-09
+P015,Girls' summer pajamas-Stay cool,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,10.428571428571423,111,9,0.0,0.0,Low,Not within 90-day forecast
+P015,Girls' summer pajamas-Stay cool,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,23.85714285714285,111,9,0.0,0.0,Low,Not within 90-day forecast
+P015,Girls' summer pajamas-Stay cool,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,34.71428571428572,111,9,0.0,0.0,Low,Not within 90-day forecast
+P015,Girls' summer pajamas-Stay cool,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,19.28571428571429,287,5,0.0,0.0,Low,Not within 90-day forecast
+P015,Girls' summer pajamas-Stay cool,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,31.714285714285708,287,5,0.0,0.0,Low,Not within 90-day forecast
+P015,Girls' summer pajamas-Stay cool,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,55.71428571428571,287,5,0.0,0.0,Low,Not within 90-day forecast
+P015,Girls' summer pajamas-Stay cool,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,405.13066798941287,106,135,299.13066798941287,434.1306679894128,High,2026-10-08
+P015,Girls' summer pajamas-Stay cool,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,723.9346248632714,106,135,617.9346248632714,752.9346248632714,High,2026-10-08
+P015,Girls' summer pajamas-Stay cool,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,862.2857142857143,106,135,756.2857142857143,891.2857142857143,High,2026-10-10
+P016,Girls' summer pajamas-Watercolor Floral,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,12.142857142857142,167,18,0.0,0.0,Low,Not within 90-day forecast
+P016,Girls' summer pajamas-Watercolor Floral,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,29.14285714285714,167,18,0.0,0.0,Low,Not within 90-day forecast
+P016,Girls' summer pajamas-Watercolor Floral,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,49.42857142857143,167,18,0.0,0.0,Low,Not within 90-day forecast
+P016,Girls' summer pajamas-Watercolor Floral,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,11.28571428571429,69,7,0.0,0.0,Low,Not within 90-day forecast
+P016,Girls' summer pajamas-Watercolor Floral,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,29.85714285714285,69,7,0.0,0.0,Low,Not within 90-day forecast
+P016,Girls' summer pajamas-Watercolor Floral,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,54.42857142857143,69,7,0.0,0.0,Low,Not within 90-day forecast
+P016,Girls' summer pajamas-Watercolor Floral,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,126.85714285714288,47,116,79.85714285714289,195.8571428571429,High,2026-10-21
+P016,Girls' summer pajamas-Watercolor Floral,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,482.5714285714287,47,116,435.5714285714287,551.5714285714287,High,2026-10-21
+P016,Girls' summer pajamas-Watercolor Floral,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,1149.5920310980546,47,116,1102.5920310980546,1218.5920310980546,High,2026-10-04
+P017,Girls' summer pajamas-flower,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,23.428571428571438,123,12,0.0,0.0,Low,Not within 90-day forecast
+P017,Girls' summer pajamas-flower,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,39.57142857142857,123,12,0.0,0.0,Low,Not within 90-day forecast
+P017,Girls' summer pajamas-flower,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,65.28571428571429,123,12,0.0,0.0,Low,Not within 90-day forecast
+P017,Girls' summer pajamas-flower,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,20.714285714285715,237,42,0.0,0.0,Low,Not within 90-day forecast
+P017,Girls' summer pajamas-flower,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,33.714285714285715,237,42,0.0,0.0,Low,Not within 90-day forecast
+P017,Girls' summer pajamas-flower,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,77.2857142857143,237,42,0.0,0.0,Low,Not within 90-day forecast
+P017,Girls' summer pajamas-flower,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,507.8224358641933,87,515,420.8224358641933,935.8224358641932,High,2026-10-07
+P017,Girls' summer pajamas-flower,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,778.285714285714,87,515,691.285714285714,1206.285714285714,High,2026-10-06
+P017,Girls' summer pajamas-flower,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,1383.4285714285716,87,515,1296.4285714285716,1811.428571428572,High,2026-10-06
+P018,Boys' summer pajamas-Wear your attitude,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,16.999999999999996,268,6,0.0,0.0,Low,Not within 90-day forecast
+P018,Boys' summer pajamas-Wear your attitude,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,25.85714285714285,268,6,0.0,0.0,Low,Not within 90-day forecast
+P018,Boys' summer pajamas-Wear your attitude,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,48.99999999999999,268,6,0.0,0.0,Low,Not within 90-day forecast
+P018,Boys' summer pajamas-Wear your attitude,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,11.999999999999996,185,11,0.0,0.0,Low,Not within 90-day forecast
+P018,Boys' summer pajamas-Wear your attitude,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,34.428571428571416,185,11,0.0,0.0,Low,Not within 90-day forecast
+P018,Boys' summer pajamas-Wear your attitude,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,57.28571428571429,185,11,0.0,0.0,Low,Not within 90-day forecast
+P018,Boys' summer pajamas-Wear your attitude,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,185.14285714285708,74,258,111.14285714285708,369.1428571428571,High,2026-10-05
+P018,Boys' summer pajamas-Wear your attitude,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,408.00000000000006,74,258,334.00000000000006,592.0,High,2026-10-05
+P018,Boys' summer pajamas-Wear your attitude,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,1162.494317344691,74,258,1088.494317344691,1346.494317344691,High,2026-10-05
+P019,Boys' summer pajamas- Seeds OF,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,7.142857142857142,3399,5,0.0,0.0,Low,Not within 90-day forecast
+P019,Boys' summer pajamas- Seeds OF,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,12.14285714285714,3399,5,0.0,0.0,Low,Not within 90-day forecast
+P019,Boys' summer pajamas- Seeds OF,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,21.57142857142857,3399,5,0.0,0.0,Low,Not within 90-day forecast
+P019,Boys' summer pajamas- Seeds OF,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,12.85714285714286,3303,9,0.0,0.0,Low,Not within 90-day forecast
+P019,Boys' summer pajamas- Seeds OF,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,23.57142857142857,3303,9,0.0,0.0,Low,Not within 90-day forecast
+P019,Boys' summer pajamas- Seeds OF,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,34.71428571428571,3303,9,0.0,0.0,Low,Not within 90-day forecast
+P019,Boys' summer pajamas- Seeds OF,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,406.2857142857142,3506,101,0.0,0.0,Low,Not within 90-day forecast
+P019,Boys' summer pajamas- Seeds OF,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,584.5538543148605,3506,101,0.0,0.0,Low,Not within 90-day forecast
+P019,Boys' summer pajamas- Seeds OF,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,887.5291599621817,3506,101,0.0,0.0,Low,Not within 90-day forecast
+P020,Boys' summer pajamas-Rock Band,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,4.999999999999999,184,5,0.0,0.0,Low,Not within 90-day forecast
+P020,Boys' summer pajamas-Rock Band,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,20.57142857142857,184,5,0.0,0.0,Low,Not within 90-day forecast
+P020,Boys' summer pajamas-Rock Band,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,39.42857142857143,184,5,0.0,0.0,Low,Not within 90-day forecast
+P020,Boys' summer pajamas-Rock Band,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,27.90553037988961,255,13,0.0,0.0,Low,Not within 90-day forecast
+P020,Boys' summer pajamas-Rock Band,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,27.90553037988961,255,13,0.0,0.0,Low,Not within 90-day forecast
+P020,Boys' summer pajamas-Rock Band,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,71.46942758149187,255,13,0.0,0.0,Low,Not within 90-day forecast
+P020,Boys' summer pajamas-Rock Band,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,135.0083812819321,342,51,0.0,0.0,Low,Not within 90-day forecast
+P020,Boys' summer pajamas-Rock Band,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,677.0419239698365,342,51,335.0419239698365,386.0419239698365,High,2026-11-01
+P020,Boys' summer pajamas-Rock Band,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,997.1871818705052,342,51,655.1871818705052,706.1871818705054,High,2026-11-01
+P021,Girls' summer pajamas-Minnie Mouse,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,22.428571428571427,189,10,0.0,0.0,Low,Not within 90-day forecast
+P021,Girls' summer pajamas-Minnie Mouse,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,52.0,189,10,0.0,0.0,Low,Not within 90-day forecast
+P021,Girls' summer pajamas-Minnie Mouse,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,100.0,189,10,0.0,0.0,Low,Not within 90-day forecast
+P021,Girls' summer pajamas-Minnie Mouse,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,25.71428571428572,156,38,0.0,0.0,Low,Not within 90-day forecast
+P021,Girls' summer pajamas-Minnie Mouse,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,64.85714285714283,156,38,0.0,0.0,Low,Not within 90-day forecast
+P021,Girls' summer pajamas-Minnie Mouse,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,100.71428571428572,156,38,0.0,0.0,Low,Not within 90-day forecast
+P021,Girls' summer pajamas-Minnie Mouse,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,639.4285714285712,99,131,540.4285714285712,671.4285714285712,High,2026-10-03
+P021,Girls' summer pajamas-Minnie Mouse,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,1403.0390856811916,99,131,1304.0390856811916,1435.0390856811916,High,2026-10-04
+P021,Girls' summer pajamas-Minnie Mouse,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,2087.876309296737,99,131,1988.876309296737,2119.876309296737,High,2026-10-04
+P022,Girls' summer pajamas-Stitch,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,8.857142857142856,218,5,0.0,0.0,Low,Not within 90-day forecast
+P022,Girls' summer pajamas-Stitch,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,12.285714285714285,218,5,0.0,0.0,Low,Not within 90-day forecast
+P022,Girls' summer pajamas-Stitch,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,62.405212501307375,218,5,0.0,0.0,Low,Not within 90-day forecast
+P022,Girls' summer pajamas-Stitch,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,4.428571428571428,214,15,0.0,0.0,Low,Not within 90-day forecast
+P022,Girls' summer pajamas-Stitch,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,15.000000000000002,214,15,0.0,0.0,Low,Not within 90-day forecast
+P022,Girls' summer pajamas-Stitch,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,31.428571428571427,214,15,0.0,0.0,Low,Not within 90-day forecast
+P022,Girls' summer pajamas-Stitch,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,304.6818981167131,95,100,209.6818981167131,309.6818981167131,High,2026-10-10
+P022,Girls' summer pajamas-Stitch,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,402.0,95,100,306.99999999999994,407.0,High,2026-10-12
+P022,Girls' summer pajamas-Stitch,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,867.9036317530142,95,100,772.9036317530142,872.9036317530142,High,2026-10-10
+P023,Girls' summer pajamas-Dumbo,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,12.306805888616566,3057,5,0.0,0.0,Low,Not within 90-day forecast
+P023,Girls' summer pajamas-Dumbo,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,24.61361177723312,3057,5,0.0,0.0,Low,Not within 90-day forecast
+P023,Girls' summer pajamas-Dumbo,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,27.57142857142857,3057,5,0.0,0.0,Low,Not within 90-day forecast
+P023,Girls' summer pajamas-Dumbo,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,6.000000000000002,3497,5,0.0,0.0,Low,Not within 90-day forecast
+P023,Girls' summer pajamas-Dumbo,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,12.285714285714285,3497,5,0.0,0.0,Low,Not within 90-day forecast
+P023,Girls' summer pajamas-Dumbo,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,19.714285714285715,3497,5,0.0,0.0,Low,Not within 90-day forecast
+P023,Girls' summer pajamas-Dumbo,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,97.7142857142857,3789,30,0.0,0.0,Low,Not within 90-day forecast
+P023,Girls' summer pajamas-Dumbo,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,240.00000000000009,3789,30,0.0,0.0,Low,Not within 90-day forecast
+P023,Girls' summer pajamas-Dumbo,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,359.99999999999994,3789,30,0.0,0.0,Low,Not within 90-day forecast
+P024,Boys' summer pajamas-Mickey,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,20.14285714285713,115,7,0.0,0.0,Low,Not within 90-day forecast
+P024,Boys' summer pajamas-Mickey,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,44.00000000000001,115,7,0.0,0.0,Low,Not within 90-day forecast
+P024,Boys' summer pajamas-Mickey,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,88.28571428571428,115,7,0.0,0.0,Low,Not within 90-day forecast
+P024,Boys' summer pajamas-Mickey,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,16.999999999999996,293,20,0.0,0.0,Low,Not within 90-day forecast
+P024,Boys' summer pajamas-Mickey,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,43.428571428571416,293,20,0.0,0.0,Low,Not within 90-day forecast
+P024,Boys' summer pajamas-Mickey,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,84.14285714285714,293,20,0.0,0.0,Low,Not within 90-day forecast
+P024,Boys' summer pajamas-Mickey,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,639.3474180070288,713,187,0.0,113.34741800702876,Medium,2026-11-04
+P024,Boys' summer pajamas-Mickey,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,832.2857142857142,713,187,119.28571428571422,306.2857142857142,High,2026-11-20
+P024,Boys' summer pajamas-Mickey,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,1753.6810851949758,713,187,1040.6810851949758,1227.6810851949758,High,2026-11-04
+P025,Boys' summer pajamas-Snoopy,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,12.28571428571428,33,5,0.0,0.0,Low,2026-12-14
+P025,Boys' summer pajamas-Snoopy,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,24.714285714285715,33,5,0.0,0.0,Low,2026-12-14
+P025,Boys' summer pajamas-Snoopy,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,77.21330022705774,33,5,44.21330022705774,49.21330022705774,High,2026-11-04
+P025,Boys' summer pajamas-Snoopy,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,7.999999999999998,198,25,0.0,0.0,Low,Not within 90-day forecast
+P025,Boys' summer pajamas-Snoopy,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,21.14285714285713,198,25,0.0,0.0,Low,Not within 90-day forecast
+P025,Boys' summer pajamas-Snoopy,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,35.42857142857143,198,25,0.0,0.0,Low,Not within 90-day forecast
+P025,Boys' summer pajamas-Snoopy,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,102.0,44,242,58.0,300.0,High,2026-10-21
+P025,Boys' summer pajamas-Snoopy,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,276.0,44,242,232.0,474.0,High,2026-10-21
+P025,Boys' summer pajamas-Snoopy,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,487.71428571428567,44,242,443.71428571428567,685.7142857142857,High,2026-10-21
+P026,Boys' summer pajamas-Bluey,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,6.142857142857142,57,5,0.0,0.0,Low,Not within 90-day forecast
+P026,Boys' summer pajamas-Bluey,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,12.714285714285715,57,5,0.0,0.0,Low,Not within 90-day forecast
+P026,Boys' summer pajamas-Bluey,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,27.85714285714285,57,5,0.0,0.0,Low,Not within 90-day forecast
+P026,Boys' summer pajamas-Bluey,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,8.285714285714285,71,16,0.0,0.0,Low,Not within 90-day forecast
+P026,Boys' summer pajamas-Bluey,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,24.85714285714285,71,16,0.0,0.0,Low,Not within 90-day forecast
+P026,Boys' summer pajamas-Bluey,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,41.85714285714285,71,16,0.0,0.0,Low,Not within 90-day forecast
+P026,Boys' summer pajamas-Bluey,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,174.85714285714286,253,62,0.0,0.0,Low,2026-11-10
+P026,Boys' summer pajamas-Bluey,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,402.8571428571428,253,62,149.85714285714283,211.85714285714283,High,2026-11-10
+P026,Boys' summer pajamas-Bluey,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,564.8571428571429,253,62,311.8571428571429,373.8571428571429,High,2026-11-10
+P027,Girls' pajamas - I'm Just a girl,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,6.285714285714286,179,16,0.0,0.0,Low,Not within 90-day forecast
+P027,Girls' pajamas - I'm Just a girl,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,15.28571428571428,179,16,0.0,0.0,Low,Not within 90-day forecast
+P027,Girls' pajamas - I'm Just a girl,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,34.14285714285714,179,16,0.0,0.0,Low,Not within 90-day forecast
+P027,Girls' pajamas - I'm Just a girl,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,15.714285714285712,169,5,0.0,0.0,Low,Not within 90-day forecast
+P027,Girls' pajamas - I'm Just a girl,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,24.85714285714285,169,5,0.0,0.0,Low,Not within 90-day forecast
+P027,Girls' pajamas - I'm Just a girl,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,41.285714285714285,169,5,0.0,0.0,Low,Not within 90-day forecast
+P027,Girls' pajamas - I'm Just a girl,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,264.8571428571429,82,196,182.8571428571429,378.8571428571429,High,2026-10-10
+P027,Girls' pajamas - I'm Just a girl,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,430.28571428571433,82,196,348.28571428571433,544.2857142857143,High,2026-10-10
+P027,Girls' pajamas - I'm Just a girl,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,682.2857142857144,82,196,600.2857142857144,796.2857142857144,High,2026-10-10
+P028,Girls' summer pajamas,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,15.999999999999998,189,19,0.0,0.0,Low,Not within 90-day forecast
+P028,Girls' summer pajamas,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,31.142857142857142,189,19,0.0,0.0,Low,Not within 90-day forecast
+P028,Girls' summer pajamas,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,57.14285714285714,189,19,0.0,0.0,Low,Not within 90-day forecast
+P028,Girls' summer pajamas,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,19.571428571428577,303,8,0.0,0.0,Low,Not within 90-day forecast
+P028,Girls' summer pajamas,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,25.71428571428571,303,8,0.0,0.0,Low,Not within 90-day forecast
+P028,Girls' summer pajamas,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,59.71428571428572,303,8,0.0,0.0,Low,Not within 90-day forecast
+P028,Girls' summer pajamas,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,265.7142857142857,454,141,0.0,0.0,Low,2026-11-23
+P028,Girls' summer pajamas,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,578.5714285714286,454,141,124.57142857142856,265.57142857142856,High,2026-11-23
+P028,Girls' summer pajamas,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,1019.9999999999998,454,141,565.9999999999998,706.9999999999998,High,2026-11-23
+P029,Girls' pajamas-Daylife+kuromi,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,35.142857142857146,263,28,0.0,0.0,Low,Not within 90-day forecast
+P029,Girls' pajamas-Daylife+kuromi,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,77.57142857142858,263,28,0.0,0.0,Low,Not within 90-day forecast
+P029,Girls' pajamas-Daylife+kuromi,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,123.85714285714285,263,28,0.0,0.0,Low,Not within 90-day forecast
+P029,Girls' pajamas-Daylife+kuromi,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,34.42857142857142,231,64,0.0,0.0,Low,Not within 90-day forecast
+P029,Girls' pajamas-Daylife+kuromi,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,66.0,231,64,0.0,0.0,Low,Not within 90-day forecast
+P029,Girls' pajamas-Daylife+kuromi,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,301.5178275481178,231,64,70.5178275481178,134.5178275481178,High,2026-12-08
+P029,Girls' pajamas-Daylife+kuromi,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,783.4285714285717,876,298,0.0,205.4285714285716,Medium,2026-11-03
+P029,Girls' pajamas-Daylife+kuromi,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,1591.6758479259852,876,298,715.6758479259852,1013.6758479259852,High,2026-11-02
+P029,Girls' pajamas-Daylife+kuromi,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,2628.4173667969844,876,298,1752.4173667969844,2050.4173667969844,High,2026-11-02
+P030,Boys' pajamas -Mickey Mouse,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,14.57142857142857,137,5,0.0,0.0,Low,Not within 90-day forecast
+P030,Boys' pajamas -Mickey Mouse,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,31.714285714285715,137,5,0.0,0.0,Low,Not within 90-day forecast
+P030,Boys' pajamas -Mickey Mouse,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,45.85714285714285,137,5,0.0,0.0,Low,Not within 90-day forecast
+P030,Boys' pajamas -Mickey Mouse,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,14.28571428571428,321,8,0.0,0.0,Low,Not within 90-day forecast
+P030,Boys' pajamas -Mickey Mouse,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,31.714285714285715,321,8,0.0,0.0,Low,Not within 90-day forecast
+P030,Boys' pajamas -Mickey Mouse,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,49.28571428571428,321,8,0.0,0.0,Low,Not within 90-day forecast
+P030,Boys' pajamas -Mickey Mouse,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,285.4171407212754,510,122,0.0,0.0,Low,2026-11-20
+P030,Boys' pajamas -Mickey Mouse,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,477.4285714285713,510,122,0.0,89.42857142857133,Medium,2026-12-04
+P030,Boys' pajamas -Mickey Mouse,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,926.2860683758528,510,122,416.2860683758527,538.2860683758527,High,2026-11-20
+P031,Boys' pajamas -Don't Even!,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,9.285714285714286,195,20,0.0,0.0,Low,Not within 90-day forecast
+P031,Boys' pajamas -Don't Even!,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,28.14285714285714,195,20,0.0,0.0,Low,Not within 90-day forecast
+P031,Boys' pajamas -Don't Even!,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,67.42857142857142,195,20,0.0,0.0,Low,Not within 90-day forecast
+P031,Boys' pajamas -Don't Even!,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,61.25989807580554,169,11,0.0,0.0,Low,2026-12-25
+P031,Boys' pajamas -Don't Even!,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,61.25989807580554,169,11,0.0,0.0,Low,Not within 90-day forecast
+P031,Boys' pajamas -Don't Even!,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,75.85714285714283,169,11,0.0,0.0,Low,Not within 90-day forecast
+P031,Boys' pajamas -Don't Even!,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,216.00000000000003,262,374,0.0,328.0,Medium,2026-11-09
+P031,Boys' pajamas -Don't Even!,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,451.7142857142858,262,374,189.71428571428575,563.7142857142858,High,2026-11-09
+P031,Boys' pajamas -Don't Even!,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,1274.6114591872524,262,374,1012.6114591872524,1386.6114591872524,High,2026-10-15
+P032,Boys' sweatshirt-blue,LOC001,LEO MODA - Sidi Bishr Store,Retail,Sweatshirts,30,94.42857142857142,165,5,0.0,0.0,Low,2026-11-17
+P032,Boys' sweatshirt-blue,LOC001,LEO MODA - Sidi Bishr Store,Retail,Sweatshirts,60,209.7142857142857,165,5,44.71428571428567,49.71428571428567,High,2026-11-17
+P032,Boys' sweatshirt-blue,LOC001,LEO MODA - Sidi Bishr Store,Retail,Sweatshirts,90,362.1428571428571,165,5,197.1428571428571,202.1428571428571,High,2026-11-17
+P032,Boys' sweatshirt-blue,LOC002,LEO MODA Online Store,Online,Sweatshirts,30,107.4285714285714,353,6,0.0,0.0,Low,2026-12-18
+P032,Boys' sweatshirt-blue,LOC002,LEO MODA Online Store,Online,Sweatshirts,60,219.8571428571429,353,6,0.0,0.0,Low,2026-12-18
+P032,Boys' sweatshirt-blue,LOC002,LEO MODA Online Store,Online,Sweatshirts,90,411.4285714285714,353,6,58.42857142857139,64.42857142857139,High,2026-12-18
+P032,Boys' sweatshirt-blue,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Sweatshirts,30,1449.4285714285716,687,98,762.4285714285716,860.4285714285716,High,2026-10-14
+P032,Boys' sweatshirt-blue,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Sweatshirts,60,3377.1428571428564,687,98,2690.1428571428564,2788.1428571428564,High,2026-10-14
+P032,Boys' sweatshirt-blue,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Sweatshirts,90,6090.857142857143,687,98,5403.857142857143,5501.857142857143,High,2026-10-14
+P033,Boys' sweatshirt-LEO,LOC001,LEO MODA - Sidi Bishr Store,Retail,Sweatshirts,30,90.57142857142856,150,7,0.0,0.0,Low,2026-11-15
+P033,Boys' sweatshirt-LEO,LOC001,LEO MODA - Sidi Bishr Store,Retail,Sweatshirts,60,208.4285714285714,150,7,58.42857142857139,65.42857142857139,High,2026-11-15
+P033,Boys' sweatshirt-LEO,LOC001,LEO MODA - Sidi Bishr Store,Retail,Sweatshirts,90,362.7142857142858,150,7,212.71428571428575,219.71428571428575,High,2026-11-15
+P033,Boys' sweatshirt-LEO,LOC002,LEO MODA Online Store,Online,Sweatshirts,30,136.7142857142857,224,5,0.0,0.0,Low,2026-11-17
+P033,Boys' sweatshirt-LEO,LOC002,LEO MODA Online Store,Online,Sweatshirts,60,297.14285714285705,224,5,73.14285714285705,78.14285714285705,High,2026-11-17
+P033,Boys' sweatshirt-LEO,LOC002,LEO MODA Online Store,Online,Sweatshirts,90,475.2857142857143,224,5,251.28571428571428,256.2857142857143,High,2026-11-17
+P033,Boys' sweatshirt-LEO,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Sweatshirts,30,1968.857142857143,45,49,1923.857142857143,1972.857142857143,High,2026-10-01
+P033,Boys' sweatshirt-LEO,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Sweatshirts,60,2570.5733312185403,45,49,2525.5733312185403,2574.5733312185403,High,2026-10-02
+P033,Boys' sweatshirt-LEO,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Sweatshirts,90,6725.142857142857,45,49,6680.142857142857,6729.142857142857,High,2026-10-01
+P034,Boys' sweatshirt-black and white,LOC001,LEO MODA - Sidi Bishr Store,Retail,Sweatshirts,30,53.28571428571426,62,5,0.0,0.0,Low,2026-11-05
+P034,Boys' sweatshirt-black and white,LOC001,LEO MODA - Sidi Bishr Store,Retail,Sweatshirts,60,114.99999999999996,62,5,52.99999999999996,57.99999999999996,High,2026-11-05
+P034,Boys' sweatshirt-black and white,LOC001,LEO MODA - Sidi Bishr Store,Retail,Sweatshirts,90,185.28571428571425,62,5,123.28571428571423,128.28571428571425,High,2026-11-05
+P034,Boys' sweatshirt-black and white,LOC002,LEO MODA Online Store,Online,Sweatshirts,30,32.57142857142857,174,5,0.0,0.0,Low,Not within 90-day forecast
+P034,Boys' sweatshirt-black and white,LOC002,LEO MODA Online Store,Online,Sweatshirts,60,90.14285714285712,174,5,0.0,0.0,Low,Not within 90-day forecast
+P034,Boys' sweatshirt-black and white,LOC002,LEO MODA Online Store,Online,Sweatshirts,90,150.7142857142857,174,5,0.0,0.0,Low,Not within 90-day forecast
+P034,Boys' sweatshirt-black and white,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Sweatshirts,30,751.7142857142856,608,49,143.71428571428555,192.71428571428555,High,2026-10-27
+P034,Boys' sweatshirt-black and white,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Sweatshirts,60,1668.8571428571422,608,49,1060.8571428571422,1109.8571428571422,High,2026-10-27
+P034,Boys' sweatshirt-black and white,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Sweatshirts,90,2357.142857142858,608,49,1749.1428571428578,1798.1428571428578,High,2026-10-27
+P035,Girls' sweatshirt-Fuchsia,LOC001,LEO MODA - Sidi Bishr Store,Retail,Sweatshirts,30,43.142857142857146,51,5,0.0,0.0,Low,2026-11-05
+P035,Girls' sweatshirt-Fuchsia,LOC001,LEO MODA - Sidi Bishr Store,Retail,Sweatshirts,60,112.57142857142856,51,5,61.57142857142856,66.57142857142856,High,2026-11-05
+P035,Girls' sweatshirt-Fuchsia,LOC001,LEO MODA - Sidi Bishr Store,Retail,Sweatshirts,90,195.57142857142856,51,5,144.57142857142856,149.57142857142856,High,2026-11-05
+P035,Girls' sweatshirt-Fuchsia,LOC002,LEO MODA Online Store,Online,Sweatshirts,30,51.428571428571416,223,5,0.0,0.0,Low,2026-12-26
+P035,Girls' sweatshirt-Fuchsia,LOC002,LEO MODA Online Store,Online,Sweatshirts,60,124.57142857142854,223,5,0.0,0.0,Low,2026-12-26
+P035,Girls' sweatshirt-Fuchsia,LOC002,LEO MODA Online Store,Online,Sweatshirts,90,237.1428571428571,223,5,14.14285714285711,19.14285714285711,High,2026-12-26
+P035,Girls' sweatshirt-Fuchsia,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Sweatshirts,30,708.8571428571427,143,33,565.8571428571427,598.8571428571427,High,2026-10-06
+P035,Girls' sweatshirt-Fuchsia,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Sweatshirts,60,1678.285714285715,143,33,1535.285714285715,1568.285714285715,High,2026-10-06
+P035,Girls' sweatshirt-Fuchsia,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Sweatshirts,90,3191.1428571428573,143,33,3048.1428571428573,3081.1428571428573,High,2026-10-06
+P036,Girls' sweatshirt-Tinker Bell,LOC001,LEO MODA - Sidi Bishr Store,Retail,Sweatshirts,30,42.7142857142857,71,5,0.0,0.0,Low,2026-11-15
+P036,Girls' sweatshirt-Tinker Bell,LOC001,LEO MODA - Sidi Bishr Store,Retail,Sweatshirts,60,96.85714285714286,71,5,25.85714285714286,30.85714285714286,High,2026-11-15
+P036,Girls' sweatshirt-Tinker Bell,LOC001,LEO MODA - Sidi Bishr Store,Retail,Sweatshirts,90,160.7142857142857,71,5,89.71428571428567,94.71428571428568,High,2026-11-15
+P036,Girls' sweatshirt-Tinker Bell,LOC002,LEO MODA Online Store,Online,Sweatshirts,30,41.85714285714286,269,7,0.0,0.0,Low,Not within 90-day forecast
+P036,Girls' sweatshirt-Tinker Bell,LOC002,LEO MODA Online Store,Online,Sweatshirts,60,107.85714285714286,269,7,0.0,0.0,Low,Not within 90-day forecast
+P036,Girls' sweatshirt-Tinker Bell,LOC002,LEO MODA Online Store,Online,Sweatshirts,90,189.28571428571436,269,7,0.0,0.0,Low,Not within 90-day forecast
+P036,Girls' sweatshirt-Tinker Bell,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Sweatshirts,30,992.5714285714286,234,42,758.5714285714286,800.5714285714284,High,2026-10-09
+P036,Girls' sweatshirt-Tinker Bell,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Sweatshirts,60,1981.7142857142856,234,42,1747.7142857142858,1789.7142857142858,High,2026-10-09
+P036,Girls' sweatshirt-Tinker Bell,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Sweatshirts,90,3030.0000000000005,234,42,2796.0000000000005,2838.0000000000005,High,2026-10-09
+P037,Girls' sweatshirt-Flower,LOC001,LEO MODA - Sidi Bishr Store,Retail,Sweatshirts,30,103.4285714285714,294,5,0.0,0.0,Low,2026-12-05
+P037,Girls' sweatshirt-Flower,LOC001,LEO MODA - Sidi Bishr Store,Retail,Sweatshirts,60,288.5893320273808,294,5,0.0,0.0,Low,2026-12-01
+P037,Girls' sweatshirt-Flower,LOC001,LEO MODA - Sidi Bishr Store,Retail,Sweatshirts,90,449.71428571428567,294,5,155.7142857142857,160.7142857142857,High,2026-12-05
+P037,Girls' sweatshirt-Flower,LOC002,LEO MODA Online Store,Online,Sweatshirts,30,156.8571428571429,357,21,0.0,0.0,Low,2026-12-01
+P037,Girls' sweatshirt-Flower,LOC002,LEO MODA Online Store,Online,Sweatshirts,60,345.28571428571445,357,21,0.0,9.285714285714448,Medium,2026-12-01
+P037,Girls' sweatshirt-Flower,LOC002,LEO MODA Online Store,Online,Sweatshirts,90,600.2857142857143,357,21,243.28571428571436,264.28571428571433,High,2026-12-01
+P037,Girls' sweatshirt-Flower,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Sweatshirts,30,2645.1428571428564,2014,175,631.1428571428564,806.1428571428564,High,2026-10-23
+P037,Girls' sweatshirt-Flower,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Sweatshirts,60,6312.857142857144,2014,175,4298.857142857144,4473.857142857144,High,2026-10-23
+P037,Girls' sweatshirt-Flower,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Sweatshirts,90,9732.857142857143,2014,175,7718.857142857145,7893.857142857145,High,2026-10-23
+P038,Boys' Autumn Pajamas-Mickey Mouse,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,92.28571428571432,257,5,0.0,0.0,Low,2026-12-07
+P038,Boys' Autumn Pajamas-Mickey Mouse,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,224.8571428571429,257,5,0.0,0.0,Low,2026-12-07
+P038,Boys' Autumn Pajamas-Mickey Mouse,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,385.1428571428572,257,5,128.14285714285722,133.14285714285722,High,2026-12-07
+P038,Boys' Autumn Pajamas-Mickey Mouse,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,130.2857142857143,275,5,0.0,0.0,Low,2026-11-29
+P038,Boys' Autumn Pajamas-Mickey Mouse,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,278.85714285714295,275,5,3.8571428571429465,8.857142857142946,High,2026-11-29
+P038,Boys' Autumn Pajamas-Mickey Mouse,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,455.1428571428572,275,5,180.14285714285722,185.1428571428572,High,2026-11-29
+P038,Boys' Autumn Pajamas-Mickey Mouse,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,1471.714285714285,56,34,1415.714285714285,1449.714285714285,High,2026-10-05
+P038,Boys' Autumn Pajamas-Mickey Mouse,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,3344.5714285714275,56,34,3288.5714285714275,3322.5714285714275,High,2026-10-05
+P038,Boys' Autumn Pajamas-Mickey Mouse,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,6560.571428571428,56,34,6504.571428571428,6538.571428571428,High,2026-10-05
+P039,Boys' Autumn Pajamas-Spider Man,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,100.7142857142857,65,5,35.714285714285694,40.714285714285694,High,2026-10-21
+P039,Boys' Autumn Pajamas-Spider Man,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,218.85714285714283,65,5,153.85714285714283,158.85714285714283,High,2026-10-21
+P039,Boys' Autumn Pajamas-Spider Man,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,344.8571428571428,65,5,279.8571428571428,284.8571428571428,High,2026-10-21
+P039,Boys' Autumn Pajamas-Spider Man,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,98.85714285714285,118,5,0.0,0.0,Low,2026-11-05
+P039,Boys' Autumn Pajamas-Spider Man,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,212.14285714285708,118,5,94.14285714285708,99.14285714285708,High,2026-11-05
+P039,Boys' Autumn Pajamas-Spider Man,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,390.71428571428567,118,5,272.71428571428567,277.71428571428567,High,2026-11-05
+P039,Boys' Autumn Pajamas-Spider Man,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,1686.0000000000005,258,171,1428.0000000000005,1599.0000000000005,High,2026-10-09
+P039,Boys' Autumn Pajamas-Spider Man,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,3473.142857142857,258,171,3215.142857142857,3386.142857142857,High,2026-10-09
+P039,Boys' Autumn Pajamas-Spider Man,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,5949.428571428571,258,171,5691.428571428571,5862.428571428571,High,2026-10-09
+P040,Boys' Autumn Pajamas-Loony Tunes,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,46.57142857142857,221,5,0.0,0.0,Low,Not within 90-day forecast
+P040,Boys' Autumn Pajamas-Loony Tunes,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,114.57142857142856,221,5,0.0,0.0,Low,Not within 90-day forecast
+P040,Boys' Autumn Pajamas-Loony Tunes,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,185.2857142857143,221,5,0.0,0.0,Low,Not within 90-day forecast
+P040,Boys' Autumn Pajamas-Loony Tunes,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,48.85714285714285,312,5,0.0,0.0,Low,Not within 90-day forecast
+P040,Boys' Autumn Pajamas-Loony Tunes,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,112.85714285714285,312,5,0.0,0.0,Low,Not within 90-day forecast
+P040,Boys' Autumn Pajamas-Loony Tunes,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,188.28571428571425,312,5,0.0,0.0,Low,Not within 90-day forecast
+P040,Boys' Autumn Pajamas-Loony Tunes,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,844.2857142857141,602,58,242.2857142857141,300.2857142857141,High,2026-10-22
+P040,Boys' Autumn Pajamas-Loony Tunes,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,1971.428571428571,602,58,1369.428571428571,1427.428571428571,High,2026-10-22
+P040,Boys' Autumn Pajamas-Loony Tunes,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,3094.2857142857147,602,58,2492.2857142857147,2550.2857142857147,High,2026-10-22
+P041,Boys' Autumn Pajamas-Jurassic Park,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,43.000000000000014,3230,5,0.0,0.0,Low,Not within 90-day forecast
+P041,Boys' Autumn Pajamas-Jurassic Park,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,101.28571428571426,3230,5,0.0,0.0,Low,Not within 90-day forecast
+P041,Boys' Autumn Pajamas-Jurassic Park,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,182.42857142857144,3230,5,0.0,0.0,Low,Not within 90-day forecast
+P041,Boys' Autumn Pajamas-Jurassic Park,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,58.85714285714284,3343,11,0.0,0.0,Low,Not within 90-day forecast
+P041,Boys' Autumn Pajamas-Jurassic Park,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,134.57142857142856,3343,11,0.0,0.0,Low,Not within 90-day forecast
+P041,Boys' Autumn Pajamas-Jurassic Park,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,229.4285714285714,3343,11,0.0,0.0,Low,Not within 90-day forecast
+P041,Boys' Autumn Pajamas-Jurassic Park,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,719.9999999999999,3381,33,0.0,0.0,Low,Not within 90-day forecast
+P041,Boys' Autumn Pajamas-Jurassic Park,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,1817.142857142857,3381,33,0.0,0.0,Low,Not within 90-day forecast
+P041,Boys' Autumn Pajamas-Jurassic Park,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,3027.428571428572,3381,33,0.0,0.0,Low,Not within 90-day forecast
+P042,Girls' autumn pajamas-Cheeky Charmins,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,48.00000000000001,12,5,36.00000000000001,41.00000000000001,High,2026-10-07
+P042,Girls' autumn pajamas-Cheeky Charmins,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,88.85714285714289,12,5,76.85714285714289,81.85714285714289,High,2026-10-07
+P042,Girls' autumn pajamas-Cheeky Charmins,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,157.14285714285714,12,5,145.14285714285714,150.14285714285714,High,2026-10-07
+P042,Girls' autumn pajamas-Cheeky Charmins,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,34.0,284,5,0.0,0.0,Low,Not within 90-day forecast
+P042,Girls' autumn pajamas-Cheeky Charmins,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,89.85714285714285,284,5,0.0,0.0,Low,Not within 90-day forecast
+P042,Girls' autumn pajamas-Cheeky Charmins,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,155.57142857142856,284,5,0.0,0.0,Low,Not within 90-day forecast
+P042,Girls' autumn pajamas-Cheeky Charmins,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,695.9001192047948,0,31,695.9001192047948,726.9001192047948,High,2026-10-01
+P042,Girls' autumn pajamas-Cheeky Charmins,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,1392.0000000000002,0,31,1392.0000000000002,1423.0000000000002,High,2026-10-01
+P042,Girls' autumn pajamas-Cheeky Charmins,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,2191.7142857142853,0,31,2191.7142857142853,2222.7142857142853,High,2026-10-01
+P043,Girls' autumn pajamas-Snow White,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,89.08590757719796,297,5,0.0,0.0,Low,Not within 90-day forecast
+P043,Girls' autumn pajamas-Snow White,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,175.28571428571428,297,5,0.0,0.0,Low,2026-12-27
+P043,Girls' autumn pajamas-Snow White,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,307.2857142857142,297,5,10.28571428571422,15.28571428571422,High,2026-12-27
+P043,Girls' autumn pajamas-Snow White,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,108.71428571428568,364,5,0.0,0.0,Low,2026-12-26
+P043,Girls' autumn pajamas-Snow White,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,233.1428571428572,364,5,0.0,0.0,Low,2026-12-26
+P043,Girls' autumn pajamas-Snow White,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,387.00000000000006,364,5,23.000000000000057,28.000000000000057,High,2026-12-26
+P043,Girls' autumn pajamas-Snow White,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,1394.3493880426258,61,67,1333.3493880426258,1400.3493880426258,High,2026-10-02
+P043,Girls' autumn pajamas-Snow White,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,3143.1428571428573,61,67,3082.1428571428573,3149.1428571428573,High,2026-10-02
+P043,Girls' autumn pajamas-Snow White,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,5749.714285714286,61,67,5688.714285714286,5755.714285714286,High,2026-10-02
+P044,Girls' autumn pajamas-Ice Cream,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,99.00678093153618,272,5,0.0,0.0,Low,2026-12-20
+P044,Girls' autumn pajamas-Ice Cream,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,201.752697893134,272,5,0.0,0.0,Low,2026-12-20
+P044,Girls' autumn pajamas-Ice Cream,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,275.1428571428571,272,5,3.1428571428571104,8.14285714285711,High,2026-12-29
+P044,Girls' autumn pajamas-Ice Cream,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,80.71428571428574,98,7,0.0,0.0,Low,2026-11-06
+P044,Girls' autumn pajamas-Ice Cream,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,183.28571428571436,98,7,85.28571428571433,92.28571428571432,High,2026-11-06
+P044,Girls' autumn pajamas-Ice Cream,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,360.4285714285714,98,7,262.42857142857144,269.42857142857144,High,2026-11-06
+P044,Girls' autumn pajamas-Ice Cream,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,1309.186932005823,0,74,1309.186932005823,1383.186932005823,High,2026-10-01
+P044,Girls' autumn pajamas-Ice Cream,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,3026.382599880705,0,74,3026.382599880705,3100.382599880705,High,2026-10-01
+P044,Girls' autumn pajamas-Ice Cream,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,5184.857142857143,0,74,5184.857142857143,5258.857142857143,High,2026-10-01
+P045,Girls' autumn pajamas-Stitch,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,83.14285714285711,223,5,0.0,0.0,Low,2026-12-11
+P045,Girls' autumn pajamas-Stitch,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,171.57142857142856,223,5,0.0,0.0,Low,2026-12-11
+P045,Girls' autumn pajamas-Stitch,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,334.42857142857144,223,5,111.42857142857144,116.42857142857144,High,2026-12-11
+P045,Girls' autumn pajamas-Stitch,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,120.2857142857143,153,5,0.0,0.0,Low,2026-11-08
+P045,Girls' autumn pajamas-Stitch,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,240.8571428571429,153,5,87.85714285714289,92.85714285714288,High,2026-11-08
+P045,Girls' autumn pajamas-Stitch,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,395.7142857142858,153,5,242.71428571428575,247.71428571428575,High,2026-11-08
+P045,Girls' autumn pajamas-Stitch,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,1267.7142857142862,207,89,1060.7142857142862,1149.7142857142862,High,2026-10-06
+P045,Girls' autumn pajamas-Stitch,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,2799.5271567391146,207,89,2592.5271567391146,2681.5271567391146,High,2026-10-07
+P045,Girls' autumn pajamas-Stitch,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,5509.714285714286,207,89,5302.714285714286,5391.714285714286,High,2026-10-06
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,Kids Sets,30,10.285714285714285,222,6,0.0,0.0,Low,Not within 90-day forecast
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,Kids Sets,60,16.428571428571427,222,6,0.0,0.0,Low,Not within 90-day forecast
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,Kids Sets,90,44.71428571428572,222,6,0.0,0.0,Low,Not within 90-day forecast
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,Kids Sets,30,8.428571428571427,243,11,0.0,0.0,Low,Not within 90-day forecast
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,Kids Sets,60,25.571428571428577,243,11,0.0,0.0,Low,Not within 90-day forecast
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,Kids Sets,90,54.28571428571427,243,11,0.0,0.0,Low,Not within 90-day forecast
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Kids Sets,30,506.6588070488995,386,206,120.65880704889952,326.65880704889946,High,2026-10-23
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Kids Sets,60,741.4285714285716,386,206,355.4285714285716,561.4285714285716,High,2026-10-31
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Kids Sets,90,1566.857142857143,386,206,1180.857142857143,1386.857142857143,High,2026-10-31
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,Kids Sets,30,8.0,76,5,0.0,0.0,Low,Not within 90-day forecast
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,Kids Sets,60,17.0,76,5,0.0,0.0,Low,Not within 90-day forecast
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,Kids Sets,90,35.85714285714286,76,5,0.0,0.0,Low,Not within 90-day forecast
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,Kids Sets,30,20.857142857142858,152,6,0.0,0.0,Low,Not within 90-day forecast
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,Kids Sets,60,40.14285714285714,152,6,0.0,0.0,Low,Not within 90-day forecast
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,Kids Sets,90,49.57142857142857,152,6,0.0,0.0,Low,Not within 90-day forecast
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Kids Sets,30,122.57142857142854,251,135,0.0,6.571428571428555,Medium,2026-11-11
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Kids Sets,60,654.7634436913445,251,135,403.7634436913445,538.7634436913445,High,2026-10-24
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Kids Sets,90,936.8185723841796,251,135,685.8185723841796,820.8185723841796,High,2026-10-26
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,Kids Sets,30,33.71428571428571,209,6,0.0,0.0,Low,Not within 90-day forecast
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,Kids Sets,60,69.57142857142858,209,6,0.0,0.0,Low,Not within 90-day forecast
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,Kids Sets,90,106.0,209,6,0.0,0.0,Low,Not within 90-day forecast
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,Kids Sets,30,22.857142857142858,96,15,0.0,0.0,Low,2026-12-20
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,Kids Sets,60,52.85714285714285,96,15,0.0,0.0,Low,2026-12-20
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,Kids Sets,90,107.71428571428572,96,15,11.714285714285722,26.71428571428572,High,2026-12-20
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Kids Sets,30,477.4285714285713,0,144,477.4285714285713,621.4285714285713,High,2026-10-01
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Kids Sets,60,770.5714285714284,0,144,770.5714285714284,914.5714285714284,High,2026-10-01
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Kids Sets,90,1476.857142857143,0,144,1476.857142857143,1620.857142857143,High,2026-10-01
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,Kids Sets,30,15.714285714285715,87,10,0.0,0.0,Low,Not within 90-day forecast
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,Kids Sets,60,35.57142857142857,87,10,0.0,0.0,Low,Not within 90-day forecast
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,Kids Sets,90,57.42857142857143,87,10,0.0,0.0,Low,Not within 90-day forecast
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,Kids Sets,30,14.857142857142856,258,18,0.0,0.0,Low,Not within 90-day forecast
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,Kids Sets,60,47.000000000000014,258,18,0.0,0.0,Low,Not within 90-day forecast
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,Kids Sets,90,67.42857142857142,258,18,0.0,0.0,Low,Not within 90-day forecast
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Kids Sets,30,472.4997215867826,0,144,472.4997215867826,616.4997215867826,High,2026-10-01
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Kids Sets,60,979.6146357402864,0,144,979.6146357402864,1123.6146357402863,High,2026-10-01
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Kids Sets,90,1547.5247571360342,0,144,1547.5247571360342,1691.5247571360342,High,2026-10-01
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,Kids Sets,30,14.571428571428568,189,13,0.0,0.0,Low,Not within 90-day forecast
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,Kids Sets,60,37.00000000000001,189,13,0.0,0.0,Low,Not within 90-day forecast
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,Kids Sets,90,66.14285714285714,189,13,0.0,0.0,Low,Not within 90-day forecast
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,Kids Sets,30,15.428571428571429,100,15,0.0,0.0,Low,Not within 90-day forecast
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,Kids Sets,60,34.57142857142857,100,15,0.0,0.0,Low,Not within 90-day forecast
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,LOC002,LEO MODA Online Store,Online,Kids Sets,90,45.14285714285714,100,15,0.0,0.0,Low,Not within 90-day forecast
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Kids Sets,30,234.8571428571429,445,280,0.0,69.85714285714289,Medium,2026-11-28
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Kids Sets,60,474.8571428571428,445,280,29.857142857142836,309.8571428571429,High,2026-11-28
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Kids Sets,90,832.2857142857142,445,280,387.2857142857142,667.2857142857142,High,2026-11-28
+P051,Ice cream - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,32.57142857142857,260,28,0.0,0.0,Low,Not within 90-day forecast
+P051,Ice cream - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,67.42857142857143,260,28,0.0,0.0,Low,Not within 90-day forecast
+P051,Ice cream - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,138.14285714285717,260,28,0.0,0.0,Low,Not within 90-day forecast
+P051,Ice cream - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,46.99999999999999,437,34,0.0,0.0,Low,Not within 90-day forecast
+P051,Ice cream - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,88.5714285714286,437,34,0.0,0.0,Low,Not within 90-day forecast
+P051,Ice cream - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,188.71428571428572,437,34,0.0,0.0,Low,Not within 90-day forecast
+P051,Ice cream - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,944.5714285714286,758,447,186.57142857142856,633.5714285714284,High,2026-10-27
+P051,Ice cream - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,1741.7142857142856,758,447,983.7142857142856,1430.714285714285,High,2026-10-27
+P051,Ice cream - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,3354.8571428571427,758,447,2596.8571428571427,3043.8571428571427,High,2026-10-27
+P052,Teddy bear - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,4.285714285714286,134,5,0.0,0.0,Low,Not within 90-day forecast
+P052,Teddy bear - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,5.571428571428571,134,5,0.0,0.0,Low,Not within 90-day forecast
+P052,Teddy bear - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,14.57142857142857,134,5,0.0,0.0,Low,Not within 90-day forecast
+P052,Teddy bear - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,4.8571428571428585,264,8,0.0,0.0,Low,Not within 90-day forecast
+P052,Teddy bear - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,11.14285714285714,264,8,0.0,0.0,Low,Not within 90-day forecast
+P052,Teddy bear - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,17.428571428571423,264,8,0.0,0.0,Low,Not within 90-day forecast
+P052,Teddy bear - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,169.71428571428572,438,24,0.0,0.0,Low,2026-12-18
+P052,Teddy bear - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,349.7142857142857,438,24,0.0,0.0,Low,2026-12-18
+P052,Teddy bear - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,487.71428571428567,438,24,49.71428571428567,73.71428571428567,High,2026-12-18
+P053,PINK panther - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,47.19048773571059,231,15,0.0,0.0,Low,Not within 90-day forecast
+P053,PINK panther - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,66.42857142857142,231,15,0.0,0.0,Low,Not within 90-day forecast
+P053,PINK panther - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,96.57142857142856,231,15,0.0,0.0,Low,Not within 90-day forecast
+P053,PINK panther - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,22.857142857142865,155,27,0.0,0.0,Low,Not within 90-day forecast
+P053,PINK panther - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,46.0,155,27,0.0,0.0,Low,Not within 90-day forecast
+P053,PINK panther - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,84.42857142857142,155,27,0.0,0.0,Low,Not within 90-day forecast
+P053,PINK panther - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,331.71428571428567,112,149,219.7142857142857,368.71428571428567,High,2026-10-14
+P053,PINK panther - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,736.2857142857141,112,149,624.2857142857141,773.2857142857141,High,2026-10-14
+P053,PINK panther - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,1308.8262199721676,112,149,1196.8262199721676,1345.8262199721676,High,2026-10-09
+P054,Gazelle - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,10.714285714285715,2954,8,0.0,0.0,Low,Not within 90-day forecast
+P054,Gazelle - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,21.285714285714285,2954,8,0.0,0.0,Low,Not within 90-day forecast
+P054,Gazelle - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,33.57142857142858,2954,8,0.0,0.0,Low,Not within 90-day forecast
+P054,Gazelle - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,15.285714285714288,3115,13,0.0,0.0,Low,Not within 90-day forecast
+P054,Gazelle - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,21.85714285714285,3115,13,0.0,0.0,Low,Not within 90-day forecast
+P054,Gazelle - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,46.28571428571429,3115,13,0.0,0.0,Low,Not within 90-day forecast
+P054,Gazelle - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,231.42857142857144,3588,136,0.0,0.0,Low,Not within 90-day forecast
+P054,Gazelle - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,329.1428571428572,3588,136,0.0,0.0,Low,Not within 90-day forecast
+P054,Gazelle - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,610.2857142857142,3588,136,0.0,0.0,Low,Not within 90-day forecast
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,24.28571428571429,225,12,0.0,0.0,Low,Not within 90-day forecast
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,50.42857142857141,225,12,0.0,0.0,Low,Not within 90-day forecast
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,80.57142857142856,225,12,0.0,0.0,Low,Not within 90-day forecast
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,33.99999999999999,188,45,0.0,0.0,Low,Not within 90-day forecast
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,42.57142857142857,188,45,0.0,0.0,Low,Not within 90-day forecast
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,87.57142857142857,188,45,0.0,0.0,Low,Not within 90-day forecast
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,190.2857142857143,73,172,117.2857142857143,289.28571428571433,High,2026-10-17
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,569.9999999999999,73,172,496.9999999999999,668.9999999999999,High,2026-10-17
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,1187.142857142857,73,172,1114.142857142857,1286.142857142857,High,2026-10-17
+P056,BATGIRL - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,27.000000000000004,119,10,0.0,0.0,Low,Not within 90-day forecast
+P056,BATGIRL - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,88.64987326691602,119,10,0.0,0.0,Low,2026-12-22
+P056,BATGIRL - بيجامة حريمي صيفي2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,129.39249282744458,119,10,10.392492827444585,20.392492827444585,High,2026-12-22
+P056,BATGIRL - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,76.5491168814778,167,47,0.0,0.0,Low,2026-12-14
+P056,BATGIRL - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,76.5491168814778,167,47,0.0,0.0,Low,Not within 90-day forecast
+P056,BATGIRL - بيجامة حريمي صيفي2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,106.57142857142858,167,47,0.0,0.0,Low,Not within 90-day forecast
+P056,BATGIRL - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,418.28571428571416,1116,293,0.0,0.0,Low,2026-12-24
+P056,BATGIRL - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,1061.7987745139596,1116,293,0.0,238.79877451395964,Medium,2026-12-02
+P056,BATGIRL - بيجامة حريمي صيفي2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,1672.8904609115325,1116,293,556.8904609115323,849.8904609115323,High,2026-12-02
+P057,Save the planet بيجامة حريمي صيفي - 2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,10.571428571428571,93,5,0.0,0.0,Low,Not within 90-day forecast
+P057,Save the planet بيجامة حريمي صيفي - 2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,21.714285714285708,93,5,0.0,0.0,Low,Not within 90-day forecast
+P057,Save the planet بيجامة حريمي صيفي - 2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,34.71428571428571,93,5,0.0,0.0,Low,Not within 90-day forecast
+P057,Save the planet بيجامة حريمي صيفي - 2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,19.71428571428572,321,18,0.0,0.0,Low,Not within 90-day forecast
+P057,Save the planet بيجامة حريمي صيفي - 2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,32.85714285714285,321,18,0.0,0.0,Low,Not within 90-day forecast
+P057,Save the planet بيجامة حريمي صيفي - 2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,61.99999999999999,321,18,0.0,0.0,Low,Not within 90-day forecast
+P057,Save the planet بيجامة حريمي صيفي - 2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,118.28571428571428,376,133,0.0,0.0,Low,2026-12-03
+P057,Save the planet بيجامة حريمي صيفي - 2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,345.42857142857144,376,133,0.0,102.42857142857144,Medium,2026-12-03
+P057,Save the planet بيجامة حريمي صيفي - 2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,515.1428571428572,376,133,139.14285714285722,272.1428571428572,High,2026-12-03
+P058,OHANA - بيجامة حريمي صيفي 2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,9.42857142857143,59,5,0.0,0.0,Low,Not within 90-day forecast
+P058,OHANA - بيجامة حريمي صيفي 2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,22.0,59,5,0.0,0.0,Low,Not within 90-day forecast
+P058,OHANA - بيجامة حريمي صيفي 2024,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,30.857142857142847,59,5,0.0,0.0,Low,Not within 90-day forecast
+P058,OHANA - بيجامة حريمي صيفي 2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,14.999999999999998,245,11,0.0,0.0,Low,Not within 90-day forecast
+P058,OHANA - بيجامة حريمي صيفي 2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,27.14285714285713,245,11,0.0,0.0,Low,Not within 90-day forecast
+P058,OHANA - بيجامة حريمي صيفي 2024,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,50.57142857142857,245,11,0.0,0.0,Low,Not within 90-day forecast
+P058,OHANA - بيجامة حريمي صيفي 2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,150.0,188,302,0.0,264.0,Medium,2026-11-06
+P058,OHANA - بيجامة حريمي صيفي 2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,359.9999999999999,188,302,171.9999999999999,473.9999999999999,High,2026-11-06
+P058,OHANA - بيجامة حريمي صيفي 2024,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,1084.8483808298529,188,302,896.8483808298529,1198.8483808298529,High,2026-10-16
+P059,Positive vibes - 2024بيجامة حريمي صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,30,17.28571428571429,275,9,0.0,0.0,Low,Not within 90-day forecast
+P059,Positive vibes - 2024بيجامة حريمي صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,60,62.85714285714286,275,9,0.0,0.0,Low,Not within 90-day forecast
+P059,Positive vibes - 2024بيجامة حريمي صيفي,LOC001,LEO MODA - Sidi Bishr Store,Retail,Pajamas/Homewear,90,107.14285714285712,275,9,0.0,0.0,Low,Not within 90-day forecast
+P059,Positive vibes - 2024بيجامة حريمي صيفي,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,30,40.00000000000001,264,13,0.0,0.0,Low,Not within 90-day forecast
+P059,Positive vibes - 2024بيجامة حريمي صيفي,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,60,82.85714285714286,264,13,0.0,0.0,Low,Not within 90-day forecast
+P059,Positive vibes - 2024بيجامة حريمي صيفي,LOC002,LEO MODA Online Store,Online,Pajamas/Homewear,90,139.00000000000003,264,13,0.0,0.0,Low,Not within 90-day forecast
+P059,Positive vibes - 2024بيجامة حريمي صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,30,480.0,627,320,0.0,173.0,Medium,2026-11-05
+P059,Positive vibes - 2024بيجامة حريمي صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,60,1430.5220534459731,627,320,803.5220534459731,1123.5220534459731,High,2026-10-31
+P059,Positive vibes - 2024بيجامة حريمي صيفي,LOC003,El-Sharnouby Wholesale Desk,Wholesale,Pajamas/Homewear,90,2265.842027124413,627,320,1638.842027124413,1958.842027124413,High,2026-10-31

@@ -1,0 +1,31 @@
+Material_ID,Material_Name,Material_Category,Unit,Horizon_Days,Standard_Lead_Time_Days,Products_Using_Material_Count,Products_Requiring_Material_Count,Total_Gross_Material_Requirement_If_Produced
+M001,Single Jersey Cotton 160 GSM,Fabric,meter,30,10,15,12,5971.187077048647
+M001,Single Jersey Cotton 160 GSM,Fabric,meter,60,10,15,13,16360.426576623146
+M001,Single Jersey Cotton 160 GSM,Fabric,meter,90,10,15,14,30562.84096275104
+M002,Single Jersey Cotton 180 GSM,Fabric,meter,30,14,15,11,6566.923829559224
+M002,Single Jersey Cotton 180 GSM,Fabric,meter,60,14,15,13,13530.31381746292
+M002,Single Jersey Cotton 180 GSM,Fabric,meter,90,14,15,13,27608.02289554372
+M003,Rib Cotton,Fabric,meter,30,10,16,11,5628.194202843912
+M003,Rib Cotton,Fabric,meter,60,10,16,15,11533.656637456286
+M003,Rib Cotton,Fabric,meter,90,10,16,15,20786.576828251164
+M004,Summer Melton,Fabric,meter,30,10,13,11,4420.399981831467
+M004,Summer Melton,Fabric,meter,60,10,13,13,10997.857338465325
+M004,Summer Melton,Fabric,meter,90,10,13,13,20036.77866568624
+M006,Sewing Thread,Trims,cone,30,14,59,45,677.8534887017641
+M006,Sewing Thread,Trims,cone,60,14,59,54,1551.0479436662015
+M006,Sewing Thread,Trims,cone,90,14,59,55,2853.0168767868026
+M007,Neck Label,Trims,piece,30,7,59,45,27501.37709441283
+M007,Neck Label,Trims,piece,60,7,59,54,63247.06545500864
+M007,Neck Label,Trims,piece,90,7,59,55,117853.19144112889
+M008,Care Label,Trims,piece,30,14,59,45,27501.37709441283
+M008,Care Label,Trims,piece,60,14,59,54,63247.06545500864
+M008,Care Label,Trims,piece,90,14,59,55,117853.19144112889
+M009,Poly Bag,Packaging,piece,30,7,59,45,27501.37709441283
+M009,Poly Bag,Packaging,piece,60,7,59,54,63247.06545500864
+M009,Poly Bag,Packaging,piece,90,7,59,55,117853.19144112889
+M011,Water-Based Ink,Printing,kg,30,21,25,19,237.5876425388799
+M011,Water-Based Ink,Printing,kg,60,21,25,23,558.4622156710604
+M011,Water-Based Ink,Printing,kg,90,21,25,23,1021.8788776633792
+M012,Heat Transfer Film,Printing,sheet,30,7,17,12,412.8253056341105
+M012,Heat Transfer Film,Printing,sheet,60,7,17,15,813.6669363913542
+M012,Heat Transfer Film,Printing,sheet,90,7,17,16,1353.0170933696181

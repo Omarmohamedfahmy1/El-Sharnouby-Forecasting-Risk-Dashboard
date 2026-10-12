@@ -1,0 +1,11 @@
+check,passed,detail
+all_177_product_location_pairs_represented,True,panel=177; selected=177
+exactly_531_selection_rows,True,selected_rows=531
+no_train_test_overlap,True,checked_rows=2114
+forecast_dates_after_training,True,checked_rows=2114
+forecasts_non_negative,True,min_forecast_total=0.000000
+horizons_exactly_30_60_90,True,"horizons=[30, 60, 90]"
+rolling_features_shifted,True,weekly lag/rolling features use group shift(1); recursive ML forecasts append predictions before future lags
+baseline_retained_where_it_wins,True,advanced selected only when advanced WAPE is lower than best baseline WAPE
+finite_selected_metrics,True,selected_rows=531
+phase3_benchmark_comparable,True,Phase 3 winning baseline recomputed inside Phase 4 candidates

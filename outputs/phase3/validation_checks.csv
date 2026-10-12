@@ -1,0 +1,7 @@
+check,passed,detail
+all_177_product_location_pairs_represented,True,panel=177; best_baseline=177
+no_train_test_overlap,True,checked_rows=2114
+forecast_dates_after_training,True,checked_rows=2114
+forecasts_non_negative,True,min_forecast_total=0.000000
+horizons_exactly_30_60_90,True,"horizons=[30, 60, 90]"
+all_best_rows_have_finite_selection_score,True,best_rows=531

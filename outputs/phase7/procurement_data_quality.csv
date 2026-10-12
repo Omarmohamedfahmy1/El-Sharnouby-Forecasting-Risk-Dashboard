@@ -1,0 +1,16 @@
+Check,Metric_Value,Issue_Count,Total_Records,Issue_Pct,Detail
+row_count,3600,0,3600,0.0,Purchase_Orders.csv rows handled in enriched output.
+unique_po_id_count,3600,0,3600,0.0,duplicate_po_id_rows=0
+duplicate_po_id_rows,0,0,3600,0.0,Rows sharing a PO_ID with at least one other row.
+missing_supplier_id,0,0,3600,0.0,Supplier_ID missing before supplier resolution.
+missing_material_id,0,0,3600,0.0,Material_ID missing before material resolution.
+missing_order_date,0,0,3600,0.0,Order_Date missing or unparseable.
+missing_promised_date,0,0,3600,0.0,Promised_Date missing or unparseable.
+missing_actual_receipt_date,0,0,3600,0.0,Actual_Receipt_Date missing or unparseable.
+impossible_date_ordering,0,0,3600,0.0,Flags promised date before order date or actual receipt before order date.
+negative_quantities,0,0,3600,0.0,"Flags negative Ordered_Qty, Accepted_Qty, or Rejected_Qty."
+accepted_plus_rejected_vs_ordered_mismatch,0,0,3600,0.0,accepted+rejected above ordered=0; below ordered=0
+unresolved_supplier_id,0,0,3600,0.0,Supplier_ID not found in Suppliers.csv.
+unresolved_material_id,0,0,3600,0.0,Material_ID not found in Materials.csv.
+unit_mismatch_vs_material_master,0,0,3600,0.0,PO unit compared with Materials.csv unit.
+negative_unit_cost,0,0,3600,0.0,Unit_Cost_EGP is descriptive historical cost only.

@@ -1,0 +1,13 @@
+metric,value
+rows_compared,6372.0
+rows_with_both_sources,6353.0
+rows_inventory_only_after_zero_fill,19.0
+rows_sales_only,0.0
+exact_match_rows,6372.0
+exact_match_pct_all_rows,100.0
+exact_match_pct_rows_with_both_sources,100.0
+absolute_difference_mean,0.0
+absolute_difference_median,0.0
+absolute_difference_p95,0.0
+absolute_difference_max,0.0
+correlation_sales_quantity_vs_inventory_sold_qty,1.0

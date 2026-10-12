@@ -1,0 +1,17 @@
+check,passed,detail
+all_production_order_rows_handled,True,raw_rows=2500; enriched_rows=2500
+all_production_order_ids_preserved,True,raw_unique_orders=2500; enriched_unique_orders=2500
+product_ids_resolve_or_are_flagged,True,unresolved_product_rows=0
+invalid_date_ordering_not_accepted_silently,True,invalid_date_rows=0
+negative_quantities_not_accepted_silently,True,negative_quantity_rows=0
+rates_within_valid_ranges,True,On_Time_Production_Numeric=True; Plan_Attainment_Rate=True; Good_Yield_Rate=True; Rejection_Rate=True; Good_vs_Planned_Rate=True; Efficiency_Pct_0_100=True
+good_qty_not_above_produced_qty,True,good_qty_gt_produced_rows=0
+rejected_qty_relationship_valid,True,produced_minus_good_minus_rejected_nonzero_rows=0
+all_phase6_product_replenishment_rows_preserved,True,phase6_rows=177; joined_rows=177
+all_30_60_90_horizons_retained,True,"horizons=[30, 60, 90]"
+phase6_quantities_unchanged,True,max_abs_horizon_total_difference=0.000000000000
+no_cumulative_horizons_summed,True,"Each product keeps separate 30, 60, and 90-day rows."
+no_future_production_capacity_fabricated,True,forbidden_columns_present=[]
+no_current_line_availability_fabricated,True,forbidden_columns_present=[]
+no_exact_production_schedule_created,True,forbidden_columns_present=[]
+no_external_data_used,True,"Inputs limited to provided Production_Orders.csv, Product_Master.csv, Data_Dictionary.csv, and accepted Phase 6 product replenishment requirements."

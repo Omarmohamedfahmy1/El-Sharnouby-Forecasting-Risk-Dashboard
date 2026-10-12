@@ -1,0 +1,10 @@
+metric,value
+panel_rows,193435
+expected_rows_from_pair_windows,193435
+actual_nonzero_daily_rows_before_zero_fill,98264
+zero_demand_rows_added,95171
+panel_min_date,2023-10-01
+panel_max_date,2026-09-30
+product_location_pairs,177
+products,59
+locations,3

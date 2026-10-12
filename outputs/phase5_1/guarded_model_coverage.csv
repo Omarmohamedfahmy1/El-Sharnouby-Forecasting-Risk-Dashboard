@@ -1,0 +1,70 @@
+Product_ID,Location_ID,Horizon_Days,Demand_Pattern_Class,Channel,Product_Family,Guarded_Model,Guarded_Model_Source,Expected_Validation_Windows,Available_Guarded_Windows,Missing_Guarded_Windows,Coverage_Status,Missing_Reasons
+P002,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P002,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P003,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P007,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P008,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P009,LOC003,90,intermittent,Wholesale,T-Shirts,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P012,LOC001,30,intermittent,Retail,T-Shirts,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P012,LOC001,60,intermittent,Retail,T-Shirts,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P012,LOC001,90,intermittent,Retail,T-Shirts,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P014,LOC002,90,lumpy,Online,T-Shirts,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P015,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P015,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P016,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P018,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P019,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P019,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P020,LOC002,30,intermittent,Online,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P020,LOC002,90,intermittent,Online,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P020,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P020,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P021,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P021,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P022,LOC001,90,intermittent,Retail,Pajamas/Homewear,advanced_local_ses_grid,advanced,4,4,0,full,
+P022,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P022,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P023,LOC001,30,intermittent,Retail,Pajamas/Homewear,advanced_local_ses_grid,advanced,4,4,0,full,
+P023,LOC001,60,intermittent,Retail,Pajamas/Homewear,advanced_local_ses_grid,advanced,4,4,0,full,
+P024,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P024,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P025,LOC001,90,intermittent,Retail,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P029,LOC002,90,smooth,Online,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P029,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P029,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P030,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P030,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P031,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P033,LOC003,60,lumpy,Wholesale,Sweatshirts,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P042,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P043,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P044,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P044,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P045,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P046,LOC003,30,intermittent,Wholesale,Kids Sets,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P047,LOC003,60,intermittent,Wholesale,Kids Sets,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P049,LOC003,60,intermittent,Wholesale,Kids Sets,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P049,LOC003,90,intermittent,Wholesale,Kids Sets,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P053,LOC001,30,intermittent,Retail,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P053,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P056,LOC001,60,intermittent,Retail,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P056,LOC001,90,intermittent,Retail,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P056,LOC002,30,intermittent,Online,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P056,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P056,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P059,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P059,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,advanced,4,4,0,full,
+P002,LOC002,90,lumpy,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,advanced,4,3,1,partial,"advanced_local_holt_winters_additive_52w was not generated for this fold because completed weekly training history was 104 weeks, below the 112-week minimum used by Phase 4."
+P005,LOC002,30,lumpy,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,advanced,4,3,1,partial,"advanced_local_holt_winters_additive_52w was not generated for this fold because completed weekly training history was 104 weeks, below the 112-week minimum used by Phase 4."
+P012,LOC003,30,intermittent,Wholesale,T-Shirts,advanced_local_holt_winters_additive_52w,advanced,4,3,1,partial,"advanced_local_holt_winters_additive_52w was not generated for this fold because completed weekly training history was 104 weeks, below the 112-week minimum used by Phase 4."
+P012,LOC003,60,intermittent,Wholesale,T-Shirts,advanced_local_holt_winters_additive_52w,advanced,4,3,1,partial,"advanced_local_holt_winters_additive_52w was not generated for this fold because completed weekly training history was 104 weeks, below the 112-week minimum used by Phase 4."
+P017,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,advanced,4,3,1,partial,"advanced_local_holt_winters_additive_52w was not generated for this fold because completed weekly training history was 104 weeks, below the 112-week minimum used by Phase 4."
+P020,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,advanced,4,3,1,partial,"advanced_local_holt_winters_additive_52w was not generated for this fold because completed weekly training history was 104 weeks, below the 112-week minimum used by Phase 4."
+P031,LOC002,30,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,advanced,4,3,1,partial,"advanced_local_holt_winters_additive_52w was not generated for this fold because completed weekly training history was 104 weeks, below the 112-week minimum used by Phase 4."
+P037,LOC001,60,lumpy,Retail,Sweatshirts,advanced_local_holt_winters_additive_52w,advanced,4,3,1,partial,"advanced_local_holt_winters_additive_52w was not generated for this fold because completed weekly training history was 105 weeks, below the 112-week minimum used by Phase 4."
+P043,LOC001,30,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,advanced,4,3,1,partial,"advanced_local_holt_winters_additive_52w was not generated for this fold because completed weekly training history was 105 weeks, below the 112-week minimum used by Phase 4."
+P044,LOC001,30,lumpy,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,advanced,4,3,1,partial,"advanced_local_holt_winters_additive_52w was not generated for this fold because completed weekly training history was 105 weeks, below the 112-week minimum used by Phase 4."
+P044,LOC001,60,lumpy,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,advanced,4,3,1,partial,"advanced_local_holt_winters_additive_52w was not generated for this fold because completed weekly training history was 105 weeks, below the 112-week minimum used by Phase 4."
+P047,LOC003,90,intermittent,Wholesale,Kids Sets,advanced_local_holt_winters_additive_52w,advanced,4,3,1,partial,"advanced_local_holt_winters_additive_52w was not generated for this fold because completed weekly training history was 104 weeks, below the 112-week minimum used by Phase 4."
+P049,LOC003,30,intermittent,Wholesale,Kids Sets,advanced_local_holt_winters_additive_52w,advanced,4,3,1,partial,"advanced_local_holt_winters_additive_52w was not generated for this fold because completed weekly training history was 104 weeks, below the 112-week minimum used by Phase 4."
+P058,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,advanced,4,3,1,partial,"advanced_local_holt_winters_additive_52w was not generated for this fold because completed weekly training history was 104 weeks, below the 112-week minimum used by Phase 4."

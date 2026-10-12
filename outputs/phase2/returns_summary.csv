@@ -1,0 +1,13 @@
+metric,value
+sales_rows,180000
+returned_rows,8543
+returned_rows_pct,4.746111111111111
+quantity_total,1660589.0
+returned_quantity_by_order_date,37233.0
+returned_quantity_pct_of_sales_quantity,2.2421562469702017
+refund_value_total_egp,9427005.55
+return_date_present_for_returned_rows_pct,100.0
+return_lag_days_median,11.0
+return_lag_days_p95,20.0
+return_lag_days_max,21.0
+target_decision,"Use gross outbound demand: Sales_Transactions.Quantity aggregated by Order_Date x Product_ID x Location_ID. Inventory Sold_Qty matches Quantity by month exactly, and inventory Returned_Qty matches returned sales by order month exactly. Returns should be analyzed separately, not silently subtracted from demand."

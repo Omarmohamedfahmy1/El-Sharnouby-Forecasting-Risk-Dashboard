@@ -1,0 +1,73 @@
+﻿check,passed,detail
+py_compile:app/charts.py,True,Compiled successfully.
+py_compile:app/components.py,True,Compiled successfully.
+py_compile:app/data_loader.py,True,Compiled successfully.
+py_compile:app/streamlit_app.py,True,Compiled successfully.
+py_compile:src/phase10_dashboard_validation.py,True,Compiled successfully.
+requirements_declared,True,All required dashboard packages declared.
+package_import_available:streamlit,True,Package import is available.
+package_import_available:pandas,True,Package import is available.
+package_import_available:numpy,True,Package import is available.
+package_import_available:plotly,True,Package import is available.
+streamlit_app_import,True,streamlit_app imported successfully.
+streamlit_startup_smoke,True,HTTP status=200; port=59010.
+load_csv:forecast_results,True,outputs/phase5/forecast_results.csv; rows=531; columns=20
+load_csv:stockout_analysis,True,outputs/phase5/stockout_analysis.csv; rows=531; columns=35
+load_csv:product_replenishment_requirements,True,outputs/phase6/product_replenishment_requirements.csv; rows=177; columns=8
+load_csv:product_material_requirements,True,"outputs/phase6/product_material_requirements.csv; rows=1,011; columns=12"
+load_csv:material_requirements_summary,True,outputs/phase6/material_requirements_summary.csv; rows=30; columns=9
+load_csv:material_requirement_procurement_risk,True,outputs/phase7/material_requirement_procurement_risk.csv; rows=30; columns=28
+load_csv:historical_procurement_risk,True,outputs/phase7/historical_procurement_risk.csv; rows=12; columns=29
+load_csv:supplier_procurement_history,True,outputs/phase7/supplier_procurement_history.csv; rows=12; columns=25
+load_csv:supplier_material_procurement_history,True,outputs/phase7/supplier_material_procurement_history.csv; rows=144; columns=19
+load_csv:historical_supplier_performance_rank,True,outputs/phase7/historical_supplier_performance_rank.csv; rows=144; columns=20
+load_csv:product_replenishment_production_risk,True,outputs/phase8/product_replenishment_production_risk.csv; rows=177; columns=33
+load_csv:line_production_history,True,outputs/phase8/line_production_history.csv; rows=5; columns=12
+load_csv:bottleneck_analysis,True,outputs/phase8/bottleneck_analysis.csv; rows=6; columns=9
+load_csv:product_production_history,True,outputs/phase8/product_production_history.csv; rows=59; columns=29
+load_csv:product_line_production_history,True,outputs/phase8/product_line_production_history.csv; rows=292; columns=15
+load_csv:historical_production_risk,True,outputs/phase8/historical_production_risk.csv; rows=59; columns=32
+load_csv:final_decision,True,outputs/phase9/final_decision_recommendations.csv; rows=531; columns=65
+load_csv:management_priority_90d,True,outputs/phase9/management_priority_90d.csv; rows=177; columns=19
+load_csv:management_kpis_90d,True,outputs/phase9/management_kpis_90d.csv; rows=11; columns=2
+load_csv:product_cross_functional_90d,True,outputs/phase9/product_cross_functional_90d.csv; rows=59; columns=15
+load_csv:decision_traceability,True,outputs/phase9/decision_risk_traceability.csv; rows=531; columns=16
+load_csv:conditional_action_timing,True,outputs/phase9/conditional_action_timing.csv; rows=531; columns=15
+load_csv:product_procurement_risk_summary,True,outputs/phase9/product_procurement_risk_summary.csv; rows=177; columns=18
+load_csv:daily_demand_panel,True,"data/processed/daily_product_location_demand_panel.csv; rows=193,435; columns=27"
+load_csv:monthly_sales_inventory_reconciliation,True,"data/processed/monthly_sales_inventory_reconciliation.csv; rows=6,372; columns=13"
+load_csv:demand_series_eda,True,outputs/phase2/demand_series_eda.csv; rows=177; columns=27
+load_csv:inventory_accounting_summary,True,outputs/phase2/inventory_accounting_summary.csv; rows=15; columns=2
+load_csv:inventory_accounting_validation,True,"outputs/phase2/inventory_accounting_validation.csv; rows=6,372; columns=13"
+load_csv:sales_inventory_reconciliation_summary,True,outputs/phase2/sales_inventory_reconciliation_summary.csv; rows=12; columns=2
+load_csv:leakage_risk_table,True,outputs/phase2/leakage_risk_table.csv; rows=9; columns=4
+load_csv:weekday_demand_pattern,True,outputs/phase2/weekday_demand_pattern.csv; rows=7; columns=6
+load_csv:monthly_demand_pattern,True,outputs/phase2/monthly_demand_pattern.csv; rows=12; columns=5
+load_csv:location_channel_demand_summary,True,outputs/phase2/location_channel_demand_summary.csv; rows=3; columns=9
+load_csv:product_family_demand_summary,True,outputs/phase2/product_family_demand_summary.csv; rows=4; columns=6
+load_csv:baseline_metrics_overall,True,outputs/phase3/baseline_metrics_overall.csv; rows=13; columns=12
+load_csv:baseline_metrics_by_horizon,True,outputs/phase3/baseline_metrics_by_horizon.csv; rows=39; columns=13
+load_csv:model_metrics_overall,True,outputs/phase4/model_metrics_overall.csv; rows=17; columns=13
+load_csv:advanced_vs_baseline_comparison,True,outputs/phase4/advanced_vs_baseline_comparison.csv; rows=531; columns=16
+load_csv:policy_comparison,True,outputs/phase4_1/policy_comparison.csv; rows=36; columns=15
+load_csv:leave_one_fold_out_policy_metrics,True,outputs/phase4_1/leave_one_fold_out_policy_metrics.csv; rows=12; columns=15
+load_csv:full_coverage_policy_comparison,True,outputs/phase5_1/full_coverage_policy_comparison.csv; rows=24; columns=16
+load_csv:common_window_policy_comparison,True,outputs/phase5_1/common_window_policy_comparison.csv; rows=24; columns=16
+final_decision_row_count,True,Rows=531; expected=531.
+all_product_location_pairs_accessible,True,Pairs=177; expected=177.
+horizon_filter_counts,True,"Horizon counts={30: 177, 60: 177, 90: 177}; expected 177 rows for 30/60/90."
+decision_risk_labels_preserved_90d,True,"90-day Decision_Risk counts={'High': 85, 'Medium': 0, 'Low': 92}; accepted values High=85, Medium=0, Low=92."
+inventory_risk_labels_preserved_90d,True,"90-day Inventory_Risk counts={'High': 85, 'Medium': 0, 'Low': 92}; accepted values High=85, Medium=0, Low=92."
+accepted_90d_expected_shortage_unchanged,True,"90-day expected shortage=106,723.191; accepted=106,723.191."
+accepted_90d_recommended_replenishment_unchanged,True,"90-day recommended replenishment=117,853.191; accepted=117,853.191."
+accepted_90d_material_action_origin_count_unchanged,True,90-day material action at/before origin rows=59; accepted=59.
+accepted_90d_production_start_origin_count_unchanged,True,90-day production start at/before origin rows=40; accepted=40.
+sample_filter_product_location_horizon,True,P001 x LOC001 x 90-day rows=1; expected=1.
+empty_filter_result_supported,True,Simulated empty product filter returns zero rows.
+daily_panel_expected_vs_actual_rows,True,"Daily panel rows=193,435; accepted Phase 2 summary rows=193,435."
+no_prior_phase_script_imports,True,Dashboard imports no prior phase scripts.
+no_external_data_access_in_app,True,No external URL/data access markers found in app code.
+executive_management_priority_source_is_90d_output,True,Executive management priority view preserves management_priority_90d.csv row count and ordering.
+no_hardcoded_accepted_wape_literals_in_dashboard,True,No accepted WAPE display literals remain in app/streamlit_app.py.
+model_performance_wape_values_loaded_from_accepted_outputs,True,"Displayed model-performance WAPE values match accepted Phase 3, Phase 4.1, and Phase 5.1 CSV rows."
+procurement_systemic_warning_values_derived_from_data,True,Procurement warning values match accepted Phase 9 data and no old literal warning phrase remains.

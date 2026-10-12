@@ -1,0 +1,10 @@
+table,column_or_group,leakage_risk,safe_use_rule
+Sales_Transactions,Quantity,Target,Use only as the demand target after aggregation. Do not include as an input feature.
+Sales_Transactions,"Gross_Sales_EGP, Net_Sales_EGP, Estimated_COGS_EGP, Gross_Profit_EGP, Gross_Margin_Pct",High,These are realized transaction outcomes that include the effect of demand quantity or post-sale financial outcomes.
+Sales_Transactions,"Returned, Return_Date, Return_Reason, Refund_Value_EGP, Quality_Related_Return",High,Return outcomes happen after the sale and are not known at the demand forecast origin.
+Sales_Transactions,"Invoice_ID, Row_ID, Customer_ID, Payment_Method",Medium,Transaction-specific identifiers or choices are not known for future aggregate Product x Location dates.
+Sales_Transactions,"Discount_Pct, List_Price_EGP",Conditional,Only safe if known in advance as planned commercial inputs. Same-day realized averages must not be used as future features.
+Inventory_History,"Sold_Qty, Closing_Stock, Days_of_Cover, Stockout_Days_In_Month",High,These period-end inventory outcomes encode realized demand or stock status for the month being predicted.
+Inventory_History,"Opening_Stock, Safety_Stock_Units, Reorder_Point_Units",Conditional,Only safe as lagged features if available before the forecast origin; not safe from future inventory months.
+Purchase_Orders,"Actual_Receipt_Date, Accepted_Qty, Rejected_Qty",High for demand forecasting,Procurement outcomes occur after order placement and are not direct future demand signals.
+Production_Orders,"Completion_Date, Produced_Qty, Good_Qty, Rejected_Qty, Delay_Days, Efficiency_Pct",High for demand forecasting,"Production outcomes can be analyzed historically for risk, but future actual values are not known at forecast time."

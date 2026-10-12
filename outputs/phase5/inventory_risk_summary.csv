@@ -1,0 +1,4 @@
+Horizon_Days,Forecast_Demand_Total,Expected_Shortage_Total,Recommended_Replenishment_Total,Pairs_With_Expected_Shortage,Pairs_Below_Reorder_Point,Low_Risk_Count,Medium_Risk_Count,High_Risk_Count,Latest_Inventory_Accounting_Mismatch_Count
+30,37801.00765850715,18610.458247834373,27501.377094412826,43,40,125,9,43,7
+60,79879.83053469789,52661.26668049468,63247.06545500864,66,40,106,5,66,7
+90,140059.6388976386,106723.19144112887,117853.19144112887,85,40,92,0,85,7

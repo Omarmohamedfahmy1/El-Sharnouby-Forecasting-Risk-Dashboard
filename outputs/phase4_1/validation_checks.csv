@@ -1,0 +1,12 @@
+check,passed,detail
+heldout_fold_excluded_from_selection,True,Selection_Folds never contains Heldout_Fold_ID
+all_4_folds_evaluated,True,"folds=[1, 2, 3, 4]"
+all_177_product_location_pairs_represented,True,pairs=177
+all_horizons_evaluated,True,"horizons=[30, 60, 90]"
+forecast_dates_after_training,True,Forecast_Start is after Forecast_Origin and Forecast_End matches the exact horizon
+no_negative_forecasts,True,min_forecast_total=0.000000
+no_future_information_used_for_selection,True,LOO selection metrics aggregate only candidate records from folds other than the held-out fold
+no_series_silently_dropped,True,stability_rows=531; phase4_selection_rows=531
+candidate_records_available,True,candidate_records=35365
+loo_records_available,True,loo_records=2114
+finite_loo_metrics,True,actual and forecast totals present for all LOO rows

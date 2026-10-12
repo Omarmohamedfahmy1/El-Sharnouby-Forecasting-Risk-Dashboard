@@ -1,0 +1,23 @@
+table,key_columns,available,rows,null_key_rows,duplicate_key_rows,unique_keys
+Business_Units.csv,Business_Unit,True,5,0,0,5
+Case_Briefs.csv,Card_No,True,10,0,0,10
+Customer_Service.csv,Ticket_ID,True,6500,0,0,6500
+Customers.csv,Customer_ID,True,30000,0,0,30000
+Data_Dictionary.csv,Table,True,19,0,0,19
+Group_Operations.csv,Month + Business_Unit + Primary_KPI,True,180,0,0,180
+Inventory_History.csv,Snapshot_Month + Location_ID + Product_ID,True,6372,0,0,6372
+Locations.csv,Location_ID,True,5,0,0,5
+Machine_Downtime.csv,Downtime_ID,True,2800,0,0,2800
+Marketing.csv,Campaign_ID,True,420,0,0,420
+Materials.csv,Material_ID,True,12,0,0,12
+Printing_Batches.csv,Print_Batch_ID,True,1900,0,0,1900
+Product_BOM.csv,Product_ID + Material_ID,True,337,0,0,337
+Product_Master.csv,Product_ID,True,59,0,0,59
+Product_Master.csv,SKU,True,59,0,0,59
+Production_Orders.csv,Production_Order_ID,True,2500,0,0,2500
+Purchase_Orders.csv,PO_ID,True,3600,0,0,3600
+Quality.csv,QC_ID,True,9000,0,0,9000
+Sales_Transactions.csv,Invoice_ID,True,180000,0,0,180000
+Sales_Transactions.csv,Row_ID,True,180000,0,0,180000
+Suppliers.csv,Supplier_ID,True,12,0,0,12
+Web_Traffic_Daily.csv,Date,True,1096,0,0,1096

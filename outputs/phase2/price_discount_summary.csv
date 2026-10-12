@@ -1,0 +1,4 @@
+measure,correlation_with_daily_demand_sale_days_only,note
+Avg_List_Price_EGP,0.04056526393953779,"Exploratory association only; channel, product mix, and wholesale order size confound this relationship."
+Avg_Discount_Pct,0.6804719967306369,"Exploratory association only; channel, product mix, and wholesale order size confound this relationship."
+Avg_Net_Unit_Price_EGP,-0.36964577133742316,"Exploratory association only; channel, product mix, and wholesale order size confound this relationship."

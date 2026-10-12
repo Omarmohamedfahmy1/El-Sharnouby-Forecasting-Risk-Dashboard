@@ -1,0 +1,1012 @@
+Product_ID,Product_Name,Product_Family,Horizon_Days,Production_Equivalent_Replenishment_Qty,Material_ID,Material_Name,Material_Category,Required_Per_Unit,Unit,Standard_Lead_Time_Days,Gross_Material_Requirement_If_Produced
+P001,Summer children's girls-Happy,Pajamas/Homewear,30,812.0000000000001,M001,Single Jersey Cotton 160 GSM,Fabric,1.04,meter,10,844.4800000000001
+P001,Summer children's girls-Happy,Pajamas/Homewear,30,812.0000000000001,M006,Sewing Thread,Trims,0.032,cone,14,25.984000000000005
+P001,Summer children's girls-Happy,Pajamas/Homewear,30,812.0000000000001,M007,Neck Label,Trims,1.0,piece,7,812.0000000000001
+P001,Summer children's girls-Happy,Pajamas/Homewear,30,812.0000000000001,M008,Care Label,Trims,1.0,piece,14,812.0000000000001
+P001,Summer children's girls-Happy,Pajamas/Homewear,30,812.0000000000001,M009,Poly Bag,Packaging,1.0,piece,7,812.0000000000001
+P001,Summer children's girls-Happy,Pajamas/Homewear,60,1767.0,M001,Single Jersey Cotton 160 GSM,Fabric,1.04,meter,10,1837.68
+P001,Summer children's girls-Happy,Pajamas/Homewear,60,1767.0,M006,Sewing Thread,Trims,0.032,cone,14,56.544000000000004
+P001,Summer children's girls-Happy,Pajamas/Homewear,60,1767.0,M007,Neck Label,Trims,1.0,piece,7,1767.0
+P001,Summer children's girls-Happy,Pajamas/Homewear,60,1767.0,M008,Care Label,Trims,1.0,piece,14,1767.0
+P001,Summer children's girls-Happy,Pajamas/Homewear,60,1767.0,M009,Poly Bag,Packaging,1.0,piece,7,1767.0
+P001,Summer children's girls-Happy,Pajamas/Homewear,90,2918.9999999999995,M001,Single Jersey Cotton 160 GSM,Fabric,1.04,meter,10,3035.7599999999998
+P001,Summer children's girls-Happy,Pajamas/Homewear,90,2918.9999999999995,M006,Sewing Thread,Trims,0.032,cone,14,93.40799999999999
+P001,Summer children's girls-Happy,Pajamas/Homewear,90,2918.9999999999995,M007,Neck Label,Trims,1.0,piece,7,2918.9999999999995
+P001,Summer children's girls-Happy,Pajamas/Homewear,90,2918.9999999999995,M008,Care Label,Trims,1.0,piece,14,2918.9999999999995
+P001,Summer children's girls-Happy,Pajamas/Homewear,90,2918.9999999999995,M009,Poly Bag,Packaging,1.0,piece,7,2918.9999999999995
+P002,Summer children's girls-turtle,Pajamas/Homewear,30,812.34735268952,M001,Single Jersey Cotton 160 GSM,Fabric,0.69,meter,10,560.5196733557688
+P002,Summer children's girls-turtle,Pajamas/Homewear,30,812.34735268952,M006,Sewing Thread,Trims,0.025,cone,14,20.308683817238002
+P002,Summer children's girls-turtle,Pajamas/Homewear,30,812.34735268952,M007,Neck Label,Trims,1.0,piece,7,812.34735268952
+P002,Summer children's girls-turtle,Pajamas/Homewear,30,812.34735268952,M008,Care Label,Trims,1.0,piece,14,812.34735268952
+P002,Summer children's girls-turtle,Pajamas/Homewear,30,812.34735268952,M009,Poly Bag,Packaging,1.0,piece,7,812.34735268952
+P002,Summer children's girls-turtle,Pajamas/Homewear,30,812.34735268952,M012,Heat Transfer Film,Printing,0.059,sheet,7,47.92849380868168
+P002,Summer children's girls-turtle,Pajamas/Homewear,60,1189.141059783199,M001,Single Jersey Cotton 160 GSM,Fabric,0.69,meter,10,820.5073312504072
+P002,Summer children's girls-turtle,Pajamas/Homewear,60,1189.141059783199,M006,Sewing Thread,Trims,0.025,cone,14,29.728526494579974
+P002,Summer children's girls-turtle,Pajamas/Homewear,60,1189.141059783199,M007,Neck Label,Trims,1.0,piece,7,1189.141059783199
+P002,Summer children's girls-turtle,Pajamas/Homewear,60,1189.141059783199,M008,Care Label,Trims,1.0,piece,14,1189.141059783199
+P002,Summer children's girls-turtle,Pajamas/Homewear,60,1189.141059783199,M009,Poly Bag,Packaging,1.0,piece,7,1189.141059783199
+P002,Summer children's girls-turtle,Pajamas/Homewear,60,1189.141059783199,M012,Heat Transfer Film,Printing,0.059,sheet,7,70.15932252720873
+P002,Summer children's girls-turtle,Pajamas/Homewear,90,1664.2097013469217,M001,Single Jersey Cotton 160 GSM,Fabric,0.69,meter,10,1148.3046939293758
+P002,Summer children's girls-turtle,Pajamas/Homewear,90,1664.2097013469217,M006,Sewing Thread,Trims,0.025,cone,14,41.60524253367305
+P002,Summer children's girls-turtle,Pajamas/Homewear,90,1664.2097013469217,M007,Neck Label,Trims,1.0,piece,7,1664.2097013469217
+P002,Summer children's girls-turtle,Pajamas/Homewear,90,1664.2097013469217,M008,Care Label,Trims,1.0,piece,14,1664.2097013469217
+P002,Summer children's girls-turtle,Pajamas/Homewear,90,1664.2097013469217,M009,Poly Bag,Packaging,1.0,piece,7,1664.2097013469217
+P002,Summer children's girls-turtle,Pajamas/Homewear,90,1664.2097013469217,M012,Heat Transfer Film,Printing,0.059,sheet,7,98.18837237946838
+P003,Summer children's girls-Hello kitty Rose & turquoise,Pajamas/Homewear,30,224.57142857142856,M001,Single Jersey Cotton 160 GSM,Fabric,0.87,meter,10,195.37714285714284
+P003,Summer children's girls-Hello kitty Rose & turquoise,Pajamas/Homewear,30,224.57142857142856,M006,Sewing Thread,Trims,0.031,cone,14,6.961714285714285
+P003,Summer children's girls-Hello kitty Rose & turquoise,Pajamas/Homewear,30,224.57142857142856,M007,Neck Label,Trims,1.0,piece,7,224.57142857142856
+P003,Summer children's girls-Hello kitty Rose & turquoise,Pajamas/Homewear,30,224.57142857142856,M008,Care Label,Trims,1.0,piece,14,224.57142857142856
+P003,Summer children's girls-Hello kitty Rose & turquoise,Pajamas/Homewear,30,224.57142857142856,M009,Poly Bag,Packaging,1.0,piece,7,224.57142857142856
+P003,Summer children's girls-Hello kitty Rose & turquoise,Pajamas/Homewear,30,224.57142857142856,M012,Heat Transfer Film,Printing,0.044,sheet,7,9.881142857142855
+P003,Summer children's girls-Hello kitty Rose & turquoise,Pajamas/Homewear,60,674.5714285714284,M001,Single Jersey Cotton 160 GSM,Fabric,0.87,meter,10,586.8771428571428
+P003,Summer children's girls-Hello kitty Rose & turquoise,Pajamas/Homewear,60,674.5714285714284,M006,Sewing Thread,Trims,0.031,cone,14,20.911714285714282
+P003,Summer children's girls-Hello kitty Rose & turquoise,Pajamas/Homewear,60,674.5714285714284,M007,Neck Label,Trims,1.0,piece,7,674.5714285714284
+P003,Summer children's girls-Hello kitty Rose & turquoise,Pajamas/Homewear,60,674.5714285714284,M008,Care Label,Trims,1.0,piece,14,674.5714285714284
+P003,Summer children's girls-Hello kitty Rose & turquoise,Pajamas/Homewear,60,674.5714285714284,M009,Poly Bag,Packaging,1.0,piece,7,674.5714285714284
+P003,Summer children's girls-Hello kitty Rose & turquoise,Pajamas/Homewear,60,674.5714285714284,M012,Heat Transfer Film,Printing,0.044,sheet,7,29.68114285714285
+P003,Summer children's girls-Hello kitty Rose & turquoise,Pajamas/Homewear,90,1512.469385813762,M001,Single Jersey Cotton 160 GSM,Fabric,0.87,meter,10,1315.848365657973
+P003,Summer children's girls-Hello kitty Rose & turquoise,Pajamas/Homewear,90,1512.469385813762,M006,Sewing Thread,Trims,0.031,cone,14,46.88655096022662
+P003,Summer children's girls-Hello kitty Rose & turquoise,Pajamas/Homewear,90,1512.469385813762,M007,Neck Label,Trims,1.0,piece,7,1512.469385813762
+P003,Summer children's girls-Hello kitty Rose & turquoise,Pajamas/Homewear,90,1512.469385813762,M008,Care Label,Trims,1.0,piece,14,1512.469385813762
+P003,Summer children's girls-Hello kitty Rose & turquoise,Pajamas/Homewear,90,1512.469385813762,M009,Poly Bag,Packaging,1.0,piece,7,1512.469385813762
+P003,Summer children's girls-Hello kitty Rose & turquoise,Pajamas/Homewear,90,1512.469385813762,M012,Heat Transfer Film,Printing,0.044,sheet,7,66.54865297580552
+P004,Summer children's girls-Hello kitty black&white,Pajamas/Homewear,30,533.8571428571429,M003,Rib Cotton,Fabric,0.92,meter,10,491.1485714285715
+P004,Summer children's girls-Hello kitty black&white,Pajamas/Homewear,30,533.8571428571429,M006,Sewing Thread,Trims,0.029,cone,14,15.481857142857145
+P004,Summer children's girls-Hello kitty black&white,Pajamas/Homewear,30,533.8571428571429,M007,Neck Label,Trims,1.0,piece,7,533.8571428571429
+P004,Summer children's girls-Hello kitty black&white,Pajamas/Homewear,30,533.8571428571429,M008,Care Label,Trims,1.0,piece,14,533.8571428571429
+P004,Summer children's girls-Hello kitty black&white,Pajamas/Homewear,30,533.8571428571429,M009,Poly Bag,Packaging,1.0,piece,7,533.8571428571429
+P004,Summer children's girls-Hello kitty black&white,Pajamas/Homewear,30,533.8571428571429,M012,Heat Transfer Film,Printing,0.054,sheet,7,28.828285714285716
+P004,Summer children's girls-Hello kitty black&white,Pajamas/Homewear,60,966.7142857142856,M003,Rib Cotton,Fabric,0.92,meter,10,889.3771428571428
+P004,Summer children's girls-Hello kitty black&white,Pajamas/Homewear,60,966.7142857142856,M006,Sewing Thread,Trims,0.029,cone,14,28.034714285714283
+P004,Summer children's girls-Hello kitty black&white,Pajamas/Homewear,60,966.7142857142856,M007,Neck Label,Trims,1.0,piece,7,966.7142857142856
+P004,Summer children's girls-Hello kitty black&white,Pajamas/Homewear,60,966.7142857142856,M008,Care Label,Trims,1.0,piece,14,966.7142857142856
+P004,Summer children's girls-Hello kitty black&white,Pajamas/Homewear,60,966.7142857142856,M009,Poly Bag,Packaging,1.0,piece,7,966.7142857142856
+P004,Summer children's girls-Hello kitty black&white,Pajamas/Homewear,60,966.7142857142856,M012,Heat Transfer Film,Printing,0.054,sheet,7,52.20257142857142
+P004,Summer children's girls-Hello kitty black&white,Pajamas/Homewear,90,1308.7142857142856,M003,Rib Cotton,Fabric,0.92,meter,10,1204.0171428571427
+P004,Summer children's girls-Hello kitty black&white,Pajamas/Homewear,90,1308.7142857142856,M006,Sewing Thread,Trims,0.029,cone,14,37.952714285714286
+P004,Summer children's girls-Hello kitty black&white,Pajamas/Homewear,90,1308.7142857142856,M007,Neck Label,Trims,1.0,piece,7,1308.7142857142856
+P004,Summer children's girls-Hello kitty black&white,Pajamas/Homewear,90,1308.7142857142856,M008,Care Label,Trims,1.0,piece,14,1308.7142857142856
+P004,Summer children's girls-Hello kitty black&white,Pajamas/Homewear,90,1308.7142857142856,M009,Poly Bag,Packaging,1.0,piece,7,1308.7142857142856
+P004,Summer children's girls-Hello kitty black&white,Pajamas/Homewear,90,1308.7142857142856,M012,Heat Transfer Film,Printing,0.054,sheet,7,70.67057142857142
+P005,Summer children's boys-Black and orange,Pajamas/Homewear,30,934.8571428571428,M003,Rib Cotton,Fabric,0.69,meter,10,645.0514285714285
+P005,Summer children's boys-Black and orange,Pajamas/Homewear,30,934.8571428571428,M006,Sewing Thread,Trims,0.034,cone,14,31.785142857142855
+P005,Summer children's boys-Black and orange,Pajamas/Homewear,30,934.8571428571428,M007,Neck Label,Trims,1.0,piece,7,934.8571428571428
+P005,Summer children's boys-Black and orange,Pajamas/Homewear,30,934.8571428571428,M008,Care Label,Trims,1.0,piece,14,934.8571428571428
+P005,Summer children's boys-Black and orange,Pajamas/Homewear,30,934.8571428571428,M009,Poly Bag,Packaging,1.0,piece,7,934.8571428571428
+P005,Summer children's boys-Black and orange,Pajamas/Homewear,30,934.8571428571428,M012,Heat Transfer Film,Printing,0.06,sheet,7,56.091428571428565
+P005,Summer children's boys-Black and orange,Pajamas/Homewear,60,1228.857142857143,M003,Rib Cotton,Fabric,0.69,meter,10,847.9114285714285
+P005,Summer children's boys-Black and orange,Pajamas/Homewear,60,1228.857142857143,M006,Sewing Thread,Trims,0.034,cone,14,41.78114285714286
+P005,Summer children's boys-Black and orange,Pajamas/Homewear,60,1228.857142857143,M007,Neck Label,Trims,1.0,piece,7,1228.857142857143
+P005,Summer children's boys-Black and orange,Pajamas/Homewear,60,1228.857142857143,M008,Care Label,Trims,1.0,piece,14,1228.857142857143
+P005,Summer children's boys-Black and orange,Pajamas/Homewear,60,1228.857142857143,M009,Poly Bag,Packaging,1.0,piece,7,1228.857142857143
+P005,Summer children's boys-Black and orange,Pajamas/Homewear,60,1228.857142857143,M012,Heat Transfer Film,Printing,0.06,sheet,7,73.73142857142857
+P005,Summer children's boys-Black and orange,Pajamas/Homewear,90,1947.1428571428569,M003,Rib Cotton,Fabric,0.69,meter,10,1343.5285714285712
+P005,Summer children's boys-Black and orange,Pajamas/Homewear,90,1947.1428571428569,M006,Sewing Thread,Trims,0.034,cone,14,66.20285714285714
+P005,Summer children's boys-Black and orange,Pajamas/Homewear,90,1947.1428571428569,M007,Neck Label,Trims,1.0,piece,7,1947.1428571428569
+P005,Summer children's boys-Black and orange,Pajamas/Homewear,90,1947.1428571428569,M008,Care Label,Trims,1.0,piece,14,1947.1428571428569
+P005,Summer children's boys-Black and orange,Pajamas/Homewear,90,1947.1428571428569,M009,Poly Bag,Packaging,1.0,piece,7,1947.1428571428569
+P005,Summer children's boys-Black and orange,Pajamas/Homewear,90,1947.1428571428569,M012,Heat Transfer Film,Printing,0.06,sheet,7,116.82857142857141
+P006,Summer children's boys-Sonic,Pajamas/Homewear,30,582.2857142857143,M002,Single Jersey Cotton 180 GSM,Fabric,0.69,meter,14,401.77714285714285
+P006,Summer children's boys-Sonic,Pajamas/Homewear,30,582.2857142857143,M006,Sewing Thread,Trims,0.017,cone,14,9.898857142857144
+P006,Summer children's boys-Sonic,Pajamas/Homewear,30,582.2857142857143,M007,Neck Label,Trims,1.0,piece,7,582.2857142857143
+P006,Summer children's boys-Sonic,Pajamas/Homewear,30,582.2857142857143,M008,Care Label,Trims,1.0,piece,14,582.2857142857143
+P006,Summer children's boys-Sonic,Pajamas/Homewear,30,582.2857142857143,M009,Poly Bag,Packaging,1.0,piece,7,582.2857142857143
+P006,Summer children's boys-Sonic,Pajamas/Homewear,30,582.2857142857143,M011,Water-Based Ink,Printing,0.017,kg,21,9.898857142857144
+P006,Summer children's boys-Sonic,Pajamas/Homewear,60,769.1428571428571,M002,Single Jersey Cotton 180 GSM,Fabric,0.69,meter,14,530.7085714285714
+P006,Summer children's boys-Sonic,Pajamas/Homewear,60,769.1428571428571,M006,Sewing Thread,Trims,0.017,cone,14,13.075428571428573
+P006,Summer children's boys-Sonic,Pajamas/Homewear,60,769.1428571428571,M007,Neck Label,Trims,1.0,piece,7,769.1428571428571
+P006,Summer children's boys-Sonic,Pajamas/Homewear,60,769.1428571428571,M008,Care Label,Trims,1.0,piece,14,769.1428571428571
+P006,Summer children's boys-Sonic,Pajamas/Homewear,60,769.1428571428571,M009,Poly Bag,Packaging,1.0,piece,7,769.1428571428571
+P006,Summer children's boys-Sonic,Pajamas/Homewear,60,769.1428571428571,M011,Water-Based Ink,Printing,0.017,kg,21,13.075428571428573
+P006,Summer children's boys-Sonic,Pajamas/Homewear,90,1105.142857142857,M002,Single Jersey Cotton 180 GSM,Fabric,0.69,meter,14,762.5485714285713
+P006,Summer children's boys-Sonic,Pajamas/Homewear,90,1105.142857142857,M006,Sewing Thread,Trims,0.017,cone,14,18.78742857142857
+P006,Summer children's boys-Sonic,Pajamas/Homewear,90,1105.142857142857,M007,Neck Label,Trims,1.0,piece,7,1105.142857142857
+P006,Summer children's boys-Sonic,Pajamas/Homewear,90,1105.142857142857,M008,Care Label,Trims,1.0,piece,14,1105.142857142857
+P006,Summer children's boys-Sonic,Pajamas/Homewear,90,1105.142857142857,M009,Poly Bag,Packaging,1.0,piece,7,1105.142857142857
+P006,Summer children's boys-Sonic,Pajamas/Homewear,90,1105.142857142857,M011,Water-Based Ink,Printing,0.017,kg,21,18.78742857142857
+P007,Summer children's boys-Black and turquoise,Pajamas/Homewear,30,0.0,M002,Single Jersey Cotton 180 GSM,Fabric,0.79,meter,14,0.0
+P007,Summer children's boys-Black and turquoise,Pajamas/Homewear,30,0.0,M006,Sewing Thread,Trims,0.019,cone,14,0.0
+P007,Summer children's boys-Black and turquoise,Pajamas/Homewear,30,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P007,Summer children's boys-Black and turquoise,Pajamas/Homewear,30,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P007,Summer children's boys-Black and turquoise,Pajamas/Homewear,30,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P007,Summer children's boys-Black and turquoise,Pajamas/Homewear,30,0.0,M011,Water-Based Ink,Printing,0.047,kg,21,0.0
+P007,Summer children's boys-Black and turquoise,Pajamas/Homewear,60,174.57142857142867,M002,Single Jersey Cotton 180 GSM,Fabric,0.79,meter,14,137.91142857142864
+P007,Summer children's boys-Black and turquoise,Pajamas/Homewear,60,174.57142857142867,M006,Sewing Thread,Trims,0.019,cone,14,3.3168571428571445
+P007,Summer children's boys-Black and turquoise,Pajamas/Homewear,60,174.57142857142867,M007,Neck Label,Trims,1.0,piece,7,174.57142857142867
+P007,Summer children's boys-Black and turquoise,Pajamas/Homewear,60,174.57142857142867,M008,Care Label,Trims,1.0,piece,14,174.57142857142867
+P007,Summer children's boys-Black and turquoise,Pajamas/Homewear,60,174.57142857142867,M009,Poly Bag,Packaging,1.0,piece,7,174.57142857142867
+P007,Summer children's boys-Black and turquoise,Pajamas/Homewear,60,174.57142857142867,M011,Water-Based Ink,Printing,0.047,kg,21,8.204857142857147
+P007,Summer children's boys-Black and turquoise,Pajamas/Homewear,90,396.5714285714287,M002,Single Jersey Cotton 180 GSM,Fabric,0.79,meter,14,313.2914285714287
+P007,Summer children's boys-Black and turquoise,Pajamas/Homewear,90,396.5714285714287,M006,Sewing Thread,Trims,0.019,cone,14,7.534857142857145
+P007,Summer children's boys-Black and turquoise,Pajamas/Homewear,90,396.5714285714287,M007,Neck Label,Trims,1.0,piece,7,396.5714285714287
+P007,Summer children's boys-Black and turquoise,Pajamas/Homewear,90,396.5714285714287,M008,Care Label,Trims,1.0,piece,14,396.5714285714287
+P007,Summer children's boys-Black and turquoise,Pajamas/Homewear,90,396.5714285714287,M009,Poly Bag,Packaging,1.0,piece,7,396.5714285714287
+P007,Summer children's boys-Black and turquoise,Pajamas/Homewear,90,396.5714285714287,M011,Water-Based Ink,Printing,0.047,kg,21,18.63885714285715
+P008,Summer children's boys-SpongeBob,Pajamas/Homewear,30,869.0,M002,Single Jersey Cotton 180 GSM,Fabric,0.54,meter,14,469.26000000000005
+P008,Summer children's boys-SpongeBob,Pajamas/Homewear,30,869.0,M006,Sewing Thread,Trims,0.022,cone,14,19.118
+P008,Summer children's boys-SpongeBob,Pajamas/Homewear,30,869.0,M007,Neck Label,Trims,1.0,piece,7,869.0
+P008,Summer children's boys-SpongeBob,Pajamas/Homewear,30,869.0,M008,Care Label,Trims,1.0,piece,14,869.0
+P008,Summer children's boys-SpongeBob,Pajamas/Homewear,30,869.0,M009,Poly Bag,Packaging,1.0,piece,7,869.0
+P008,Summer children's boys-SpongeBob,Pajamas/Homewear,30,869.0,M011,Water-Based Ink,Printing,0.01,kg,21,8.69
+P008,Summer children's boys-SpongeBob,Pajamas/Homewear,60,2200.8172911009024,M002,Single Jersey Cotton 180 GSM,Fabric,0.54,meter,14,1188.4413371944875
+P008,Summer children's boys-SpongeBob,Pajamas/Homewear,60,2200.8172911009024,M006,Sewing Thread,Trims,0.022,cone,14,48.41798040421985
+P008,Summer children's boys-SpongeBob,Pajamas/Homewear,60,2200.8172911009024,M007,Neck Label,Trims,1.0,piece,7,2200.8172911009024
+P008,Summer children's boys-SpongeBob,Pajamas/Homewear,60,2200.8172911009024,M008,Care Label,Trims,1.0,piece,14,2200.8172911009024
+P008,Summer children's boys-SpongeBob,Pajamas/Homewear,60,2200.8172911009024,M009,Poly Bag,Packaging,1.0,piece,7,2200.8172911009024
+P008,Summer children's boys-SpongeBob,Pajamas/Homewear,60,2200.8172911009024,M011,Water-Based Ink,Printing,0.01,kg,21,22.008172911009023
+P008,Summer children's boys-SpongeBob,Pajamas/Homewear,90,2868.7142857142853,M002,Single Jersey Cotton 180 GSM,Fabric,0.54,meter,14,1549.1057142857142
+P008,Summer children's boys-SpongeBob,Pajamas/Homewear,90,2868.7142857142853,M006,Sewing Thread,Trims,0.022,cone,14,63.11171428571427
+P008,Summer children's boys-SpongeBob,Pajamas/Homewear,90,2868.7142857142853,M007,Neck Label,Trims,1.0,piece,7,2868.7142857142853
+P008,Summer children's boys-SpongeBob,Pajamas/Homewear,90,2868.7142857142853,M008,Care Label,Trims,1.0,piece,14,2868.7142857142853
+P008,Summer children's boys-SpongeBob,Pajamas/Homewear,90,2868.7142857142853,M009,Poly Bag,Packaging,1.0,piece,7,2868.7142857142853
+P008,Summer children's boys-SpongeBob,Pajamas/Homewear,90,2868.7142857142853,M011,Water-Based Ink,Printing,0.01,kg,21,28.687142857142852
+P009,Boys' summer t-shirt-Aubergine,T-Shirts,30,143.5714285714285,M001,Single Jersey Cotton 160 GSM,Fabric,0.48,meter,10,68.91428571428568
+P009,Boys' summer t-shirt-Aubergine,T-Shirts,30,143.5714285714285,M006,Sewing Thread,Trims,0.034,cone,14,4.881428571428569
+P009,Boys' summer t-shirt-Aubergine,T-Shirts,30,143.5714285714285,M007,Neck Label,Trims,1.0,piece,7,143.5714285714285
+P009,Boys' summer t-shirt-Aubergine,T-Shirts,30,143.5714285714285,M008,Care Label,Trims,1.0,piece,14,143.5714285714285
+P009,Boys' summer t-shirt-Aubergine,T-Shirts,30,143.5714285714285,M009,Poly Bag,Packaging,1.0,piece,7,143.5714285714285
+P009,Boys' summer t-shirt-Aubergine,T-Shirts,30,143.5714285714285,M011,Water-Based Ink,Printing,0.03,kg,21,4.307142857142855
+P009,Boys' summer t-shirt-Aubergine,T-Shirts,60,674.1428571428571,M001,Single Jersey Cotton 160 GSM,Fabric,0.48,meter,10,323.5885714285714
+P009,Boys' summer t-shirt-Aubergine,T-Shirts,60,674.1428571428571,M006,Sewing Thread,Trims,0.034,cone,14,22.920857142857145
+P009,Boys' summer t-shirt-Aubergine,T-Shirts,60,674.1428571428571,M007,Neck Label,Trims,1.0,piece,7,674.1428571428571
+P009,Boys' summer t-shirt-Aubergine,T-Shirts,60,674.1428571428571,M008,Care Label,Trims,1.0,piece,14,674.1428571428571
+P009,Boys' summer t-shirt-Aubergine,T-Shirts,60,674.1428571428571,M009,Poly Bag,Packaging,1.0,piece,7,674.1428571428571
+P009,Boys' summer t-shirt-Aubergine,T-Shirts,60,674.1428571428571,M011,Water-Based Ink,Printing,0.03,kg,21,20.224285714285713
+P009,Boys' summer t-shirt-Aubergine,T-Shirts,90,1415.212380492139,M001,Single Jersey Cotton 160 GSM,Fabric,0.48,meter,10,679.3019426362266
+P009,Boys' summer t-shirt-Aubergine,T-Shirts,90,1415.212380492139,M006,Sewing Thread,Trims,0.034,cone,14,48.11722093673273
+P009,Boys' summer t-shirt-Aubergine,T-Shirts,90,1415.212380492139,M007,Neck Label,Trims,1.0,piece,7,1415.212380492139
+P009,Boys' summer t-shirt-Aubergine,T-Shirts,90,1415.212380492139,M008,Care Label,Trims,1.0,piece,14,1415.212380492139
+P009,Boys' summer t-shirt-Aubergine,T-Shirts,90,1415.212380492139,M009,Poly Bag,Packaging,1.0,piece,7,1415.212380492139
+P009,Boys' summer t-shirt-Aubergine,T-Shirts,90,1415.212380492139,M011,Water-Based Ink,Printing,0.03,kg,21,42.45637141476416
+P010,Boys' summer t-shirt-olive,T-Shirts,30,0.0,M002,Single Jersey Cotton 180 GSM,Fabric,0.47,meter,14,0.0
+P010,Boys' summer t-shirt-olive,T-Shirts,30,0.0,M006,Sewing Thread,Trims,0.027,cone,14,0.0
+P010,Boys' summer t-shirt-olive,T-Shirts,30,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P010,Boys' summer t-shirt-olive,T-Shirts,30,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P010,Boys' summer t-shirt-olive,T-Shirts,30,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P010,Boys' summer t-shirt-olive,T-Shirts,30,0.0,M011,Water-Based Ink,Printing,0.019,kg,21,0.0
+P010,Boys' summer t-shirt-olive,T-Shirts,60,9.85714285714289,M002,Single Jersey Cotton 180 GSM,Fabric,0.47,meter,14,4.632857142857158
+P010,Boys' summer t-shirt-olive,T-Shirts,60,9.85714285714289,M006,Sewing Thread,Trims,0.027,cone,14,0.266142857142858
+P010,Boys' summer t-shirt-olive,T-Shirts,60,9.85714285714289,M007,Neck Label,Trims,1.0,piece,7,9.85714285714289
+P010,Boys' summer t-shirt-olive,T-Shirts,60,9.85714285714289,M008,Care Label,Trims,1.0,piece,14,9.85714285714289
+P010,Boys' summer t-shirt-olive,T-Shirts,60,9.85714285714289,M009,Poly Bag,Packaging,1.0,piece,7,9.85714285714289
+P010,Boys' summer t-shirt-olive,T-Shirts,60,9.85714285714289,M011,Water-Based Ink,Printing,0.019,kg,21,0.1872857142857149
+P010,Boys' summer t-shirt-olive,T-Shirts,90,453.8571428571429,M002,Single Jersey Cotton 180 GSM,Fabric,0.47,meter,14,213.31285714285715
+P010,Boys' summer t-shirt-olive,T-Shirts,90,453.8571428571429,M006,Sewing Thread,Trims,0.027,cone,14,12.254142857142858
+P010,Boys' summer t-shirt-olive,T-Shirts,90,453.8571428571429,M007,Neck Label,Trims,1.0,piece,7,453.8571428571429
+P010,Boys' summer t-shirt-olive,T-Shirts,90,453.8571428571429,M008,Care Label,Trims,1.0,piece,14,453.8571428571429
+P010,Boys' summer t-shirt-olive,T-Shirts,90,453.8571428571429,M009,Poly Bag,Packaging,1.0,piece,7,453.8571428571429
+P010,Boys' summer t-shirt-olive,T-Shirts,90,453.8571428571429,M011,Water-Based Ink,Printing,0.019,kg,21,8.623285714285714
+P011,Boys' summer t-shirt-Navy blue,T-Shirts,30,59.85714285714283,M002,Single Jersey Cotton 180 GSM,Fabric,1.07,meter,14,64.04714285714283
+P011,Boys' summer t-shirt-Navy blue,T-Shirts,30,59.85714285714283,M006,Sewing Thread,Trims,0.02,cone,14,1.1971428571428566
+P011,Boys' summer t-shirt-Navy blue,T-Shirts,30,59.85714285714283,M007,Neck Label,Trims,1.0,piece,7,59.85714285714283
+P011,Boys' summer t-shirt-Navy blue,T-Shirts,30,59.85714285714283,M008,Care Label,Trims,1.0,piece,14,59.85714285714283
+P011,Boys' summer t-shirt-Navy blue,T-Shirts,30,59.85714285714283,M009,Poly Bag,Packaging,1.0,piece,7,59.85714285714283
+P011,Boys' summer t-shirt-Navy blue,T-Shirts,30,59.85714285714283,M011,Water-Based Ink,Printing,0.042,kg,21,2.5139999999999993
+P011,Boys' summer t-shirt-Navy blue,T-Shirts,60,262.1428571428572,M002,Single Jersey Cotton 180 GSM,Fabric,1.07,meter,14,280.49285714285725
+P011,Boys' summer t-shirt-Navy blue,T-Shirts,60,262.1428571428572,M006,Sewing Thread,Trims,0.02,cone,14,5.242857142857145
+P011,Boys' summer t-shirt-Navy blue,T-Shirts,60,262.1428571428572,M007,Neck Label,Trims,1.0,piece,7,262.1428571428572
+P011,Boys' summer t-shirt-Navy blue,T-Shirts,60,262.1428571428572,M008,Care Label,Trims,1.0,piece,14,262.1428571428572
+P011,Boys' summer t-shirt-Navy blue,T-Shirts,60,262.1428571428572,M009,Poly Bag,Packaging,1.0,piece,7,262.1428571428572
+P011,Boys' summer t-shirt-Navy blue,T-Shirts,60,262.1428571428572,M011,Water-Based Ink,Printing,0.042,kg,21,11.010000000000003
+P011,Boys' summer t-shirt-Navy blue,T-Shirts,90,458.4285714285713,M002,Single Jersey Cotton 180 GSM,Fabric,1.07,meter,14,490.5185714285713
+P011,Boys' summer t-shirt-Navy blue,T-Shirts,90,458.4285714285713,M006,Sewing Thread,Trims,0.02,cone,14,9.168571428571425
+P011,Boys' summer t-shirt-Navy blue,T-Shirts,90,458.4285714285713,M007,Neck Label,Trims,1.0,piece,7,458.4285714285713
+P011,Boys' summer t-shirt-Navy blue,T-Shirts,90,458.4285714285713,M008,Care Label,Trims,1.0,piece,14,458.4285714285713
+P011,Boys' summer t-shirt-Navy blue,T-Shirts,90,458.4285714285713,M009,Poly Bag,Packaging,1.0,piece,7,458.4285714285713
+P011,Boys' summer t-shirt-Navy blue,T-Shirts,90,458.4285714285713,M011,Water-Based Ink,Printing,0.042,kg,21,19.253999999999994
+P012,Boys' summer t-shirt-light beige,T-Shirts,30,531.7380681427511,M002,Single Jersey Cotton 180 GSM,Fabric,0.86,meter,14,457.29473860276596
+P012,Boys' summer t-shirt-light beige,T-Shirts,30,531.7380681427511,M006,Sewing Thread,Trims,0.027,cone,14,14.35692783985428
+P012,Boys' summer t-shirt-light beige,T-Shirts,30,531.7380681427511,M007,Neck Label,Trims,1.0,piece,7,531.7380681427511
+P012,Boys' summer t-shirt-light beige,T-Shirts,30,531.7380681427511,M008,Care Label,Trims,1.0,piece,14,531.7380681427511
+P012,Boys' summer t-shirt-light beige,T-Shirts,30,531.7380681427511,M009,Poly Bag,Packaging,1.0,piece,7,531.7380681427511
+P012,Boys' summer t-shirt-light beige,T-Shirts,30,531.7380681427511,M012,Heat Transfer Film,Printing,0.032,sheet,7,17.015618180568037
+P012,Boys' summer t-shirt-light beige,T-Shirts,60,1095.8050550257617,M002,Single Jersey Cotton 180 GSM,Fabric,0.86,meter,14,942.392347322155
+P012,Boys' summer t-shirt-light beige,T-Shirts,60,1095.8050550257617,M006,Sewing Thread,Trims,0.027,cone,14,29.586736485695564
+P012,Boys' summer t-shirt-light beige,T-Shirts,60,1095.8050550257617,M007,Neck Label,Trims,1.0,piece,7,1095.8050550257617
+P012,Boys' summer t-shirt-light beige,T-Shirts,60,1095.8050550257617,M008,Care Label,Trims,1.0,piece,14,1095.8050550257617
+P012,Boys' summer t-shirt-light beige,T-Shirts,60,1095.8050550257617,M009,Poly Bag,Packaging,1.0,piece,7,1095.8050550257617
+P012,Boys' summer t-shirt-light beige,T-Shirts,60,1095.8050550257617,M012,Heat Transfer Film,Printing,0.032,sheet,7,35.06576176082437
+P012,Boys' summer t-shirt-light beige,T-Shirts,90,1095.8050550257617,M002,Single Jersey Cotton 180 GSM,Fabric,0.86,meter,14,942.392347322155
+P012,Boys' summer t-shirt-light beige,T-Shirts,90,1095.8050550257617,M006,Sewing Thread,Trims,0.027,cone,14,29.586736485695564
+P012,Boys' summer t-shirt-light beige,T-Shirts,90,1095.8050550257617,M007,Neck Label,Trims,1.0,piece,7,1095.8050550257617
+P012,Boys' summer t-shirt-light beige,T-Shirts,90,1095.8050550257617,M008,Care Label,Trims,1.0,piece,14,1095.8050550257617
+P012,Boys' summer t-shirt-light beige,T-Shirts,90,1095.8050550257617,M009,Poly Bag,Packaging,1.0,piece,7,1095.8050550257617
+P012,Boys' summer t-shirt-light beige,T-Shirts,90,1095.8050550257617,M012,Heat Transfer Film,Printing,0.032,sheet,7,35.06576176082437
+P013,Boys' summer t-shirt-Beige,T-Shirts,30,0.0,M003,Rib Cotton,Fabric,1.0,meter,10,0.0
+P013,Boys' summer t-shirt-Beige,T-Shirts,30,0.0,M006,Sewing Thread,Trims,0.016,cone,14,0.0
+P013,Boys' summer t-shirt-Beige,T-Shirts,30,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P013,Boys' summer t-shirt-Beige,T-Shirts,30,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P013,Boys' summer t-shirt-Beige,T-Shirts,30,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P013,Boys' summer t-shirt-Beige,T-Shirts,30,0.0,M011,Water-Based Ink,Printing,0.022,kg,21,0.0
+P013,Boys' summer t-shirt-Beige,T-Shirts,60,81.71428571428567,M003,Rib Cotton,Fabric,1.0,meter,10,81.71428571428567
+P013,Boys' summer t-shirt-Beige,T-Shirts,60,81.71428571428567,M006,Sewing Thread,Trims,0.016,cone,14,1.3074285714285707
+P013,Boys' summer t-shirt-Beige,T-Shirts,60,81.71428571428567,M007,Neck Label,Trims,1.0,piece,7,81.71428571428567
+P013,Boys' summer t-shirt-Beige,T-Shirts,60,81.71428571428567,M008,Care Label,Trims,1.0,piece,14,81.71428571428567
+P013,Boys' summer t-shirt-Beige,T-Shirts,60,81.71428571428567,M009,Poly Bag,Packaging,1.0,piece,7,81.71428571428567
+P013,Boys' summer t-shirt-Beige,T-Shirts,60,81.71428571428567,M011,Water-Based Ink,Printing,0.022,kg,21,1.7977142857142845
+P013,Boys' summer t-shirt-Beige,T-Shirts,90,528.8571428571428,M003,Rib Cotton,Fabric,1.0,meter,10,528.8571428571428
+P013,Boys' summer t-shirt-Beige,T-Shirts,90,528.8571428571428,M006,Sewing Thread,Trims,0.016,cone,14,8.461714285714285
+P013,Boys' summer t-shirt-Beige,T-Shirts,90,528.8571428571428,M007,Neck Label,Trims,1.0,piece,7,528.8571428571428
+P013,Boys' summer t-shirt-Beige,T-Shirts,90,528.8571428571428,M008,Care Label,Trims,1.0,piece,14,528.8571428571428
+P013,Boys' summer t-shirt-Beige,T-Shirts,90,528.8571428571428,M009,Poly Bag,Packaging,1.0,piece,7,528.8571428571428
+P013,Boys' summer t-shirt-Beige,T-Shirts,90,528.8571428571428,M011,Water-Based Ink,Printing,0.022,kg,21,11.63485714285714
+P014,Boys' summer t-shirt-Black,T-Shirts,30,1063.5714285714284,M003,Rib Cotton,Fabric,0.8,meter,10,850.8571428571428
+P014,Boys' summer t-shirt-Black,T-Shirts,30,1063.5714285714284,M006,Sewing Thread,Trims,0.029,cone,14,30.843571428571426
+P014,Boys' summer t-shirt-Black,T-Shirts,30,1063.5714285714284,M007,Neck Label,Trims,1.0,piece,7,1063.5714285714284
+P014,Boys' summer t-shirt-Black,T-Shirts,30,1063.5714285714284,M008,Care Label,Trims,1.0,piece,14,1063.5714285714284
+P014,Boys' summer t-shirt-Black,T-Shirts,30,1063.5714285714284,M009,Poly Bag,Packaging,1.0,piece,7,1063.5714285714284
+P014,Boys' summer t-shirt-Black,T-Shirts,30,1063.5714285714284,M012,Heat Transfer Film,Printing,0.037,sheet,7,39.35214285714285
+P014,Boys' summer t-shirt-Black,T-Shirts,60,1406.428571428571,M003,Rib Cotton,Fabric,0.8,meter,10,1125.1428571428569
+P014,Boys' summer t-shirt-Black,T-Shirts,60,1406.428571428571,M006,Sewing Thread,Trims,0.029,cone,14,40.786428571428566
+P014,Boys' summer t-shirt-Black,T-Shirts,60,1406.428571428571,M007,Neck Label,Trims,1.0,piece,7,1406.428571428571
+P014,Boys' summer t-shirt-Black,T-Shirts,60,1406.428571428571,M008,Care Label,Trims,1.0,piece,14,1406.428571428571
+P014,Boys' summer t-shirt-Black,T-Shirts,60,1406.428571428571,M009,Poly Bag,Packaging,1.0,piece,7,1406.428571428571
+P014,Boys' summer t-shirt-Black,T-Shirts,60,1406.428571428571,M012,Heat Transfer Film,Printing,0.037,sheet,7,52.03785714285713
+P014,Boys' summer t-shirt-Black,T-Shirts,90,2301.2857142857138,M003,Rib Cotton,Fabric,0.8,meter,10,1841.028571428571
+P014,Boys' summer t-shirt-Black,T-Shirts,90,2301.2857142857138,M006,Sewing Thread,Trims,0.029,cone,14,66.7372857142857
+P014,Boys' summer t-shirt-Black,T-Shirts,90,2301.2857142857138,M007,Neck Label,Trims,1.0,piece,7,2301.2857142857138
+P014,Boys' summer t-shirt-Black,T-Shirts,90,2301.2857142857138,M008,Care Label,Trims,1.0,piece,14,2301.2857142857138
+P014,Boys' summer t-shirt-Black,T-Shirts,90,2301.2857142857138,M009,Poly Bag,Packaging,1.0,piece,7,2301.2857142857138
+P014,Boys' summer t-shirt-Black,T-Shirts,90,2301.2857142857138,M012,Heat Transfer Film,Printing,0.037,sheet,7,85.14757142857141
+P015,Girls' summer pajamas-Stay cool,Pajamas/Homewear,30,434.1306679894128,M003,Rib Cotton,Fabric,0.71,meter,10,308.2327742724831
+P015,Girls' summer pajamas-Stay cool,Pajamas/Homewear,30,434.1306679894128,M006,Sewing Thread,Trims,0.025,cone,14,10.853266699735322
+P015,Girls' summer pajamas-Stay cool,Pajamas/Homewear,30,434.1306679894128,M007,Neck Label,Trims,1.0,piece,7,434.1306679894128
+P015,Girls' summer pajamas-Stay cool,Pajamas/Homewear,30,434.1306679894128,M008,Care Label,Trims,1.0,piece,14,434.1306679894128
+P015,Girls' summer pajamas-Stay cool,Pajamas/Homewear,30,434.1306679894128,M009,Poly Bag,Packaging,1.0,piece,7,434.1306679894128
+P015,Girls' summer pajamas-Stay cool,Pajamas/Homewear,30,434.1306679894128,M011,Water-Based Ink,Printing,0.057,kg,21,24.74544807539653
+P015,Girls' summer pajamas-Stay cool,Pajamas/Homewear,60,752.9346248632714,M003,Rib Cotton,Fabric,0.71,meter,10,534.5835836529227
+P015,Girls' summer pajamas-Stay cool,Pajamas/Homewear,60,752.9346248632714,M006,Sewing Thread,Trims,0.025,cone,14,18.823365621581786
+P015,Girls' summer pajamas-Stay cool,Pajamas/Homewear,60,752.9346248632714,M007,Neck Label,Trims,1.0,piece,7,752.9346248632714
+P015,Girls' summer pajamas-Stay cool,Pajamas/Homewear,60,752.9346248632714,M008,Care Label,Trims,1.0,piece,14,752.9346248632714
+P015,Girls' summer pajamas-Stay cool,Pajamas/Homewear,60,752.9346248632714,M009,Poly Bag,Packaging,1.0,piece,7,752.9346248632714
+P015,Girls' summer pajamas-Stay cool,Pajamas/Homewear,60,752.9346248632714,M011,Water-Based Ink,Printing,0.057,kg,21,42.917273617206476
+P015,Girls' summer pajamas-Stay cool,Pajamas/Homewear,90,891.2857142857143,M003,Rib Cotton,Fabric,0.71,meter,10,632.8128571428572
+P015,Girls' summer pajamas-Stay cool,Pajamas/Homewear,90,891.2857142857143,M006,Sewing Thread,Trims,0.025,cone,14,22.28214285714286
+P015,Girls' summer pajamas-Stay cool,Pajamas/Homewear,90,891.2857142857143,M007,Neck Label,Trims,1.0,piece,7,891.2857142857143
+P015,Girls' summer pajamas-Stay cool,Pajamas/Homewear,90,891.2857142857143,M008,Care Label,Trims,1.0,piece,14,891.2857142857143
+P015,Girls' summer pajamas-Stay cool,Pajamas/Homewear,90,891.2857142857143,M009,Poly Bag,Packaging,1.0,piece,7,891.2857142857143
+P015,Girls' summer pajamas-Stay cool,Pajamas/Homewear,90,891.2857142857143,M011,Water-Based Ink,Printing,0.057,kg,21,50.80328571428572
+P016,Girls' summer pajamas-Watercolor Floral,Pajamas/Homewear,30,195.8571428571429,M002,Single Jersey Cotton 180 GSM,Fabric,0.66,meter,14,129.26571428571432
+P016,Girls' summer pajamas-Watercolor Floral,Pajamas/Homewear,30,195.8571428571429,M006,Sewing Thread,Trims,0.018,cone,14,3.525428571428572
+P016,Girls' summer pajamas-Watercolor Floral,Pajamas/Homewear,30,195.8571428571429,M007,Neck Label,Trims,1.0,piece,7,195.8571428571429
+P016,Girls' summer pajamas-Watercolor Floral,Pajamas/Homewear,30,195.8571428571429,M008,Care Label,Trims,1.0,piece,14,195.8571428571429
+P016,Girls' summer pajamas-Watercolor Floral,Pajamas/Homewear,30,195.8571428571429,M009,Poly Bag,Packaging,1.0,piece,7,195.8571428571429
+P016,Girls' summer pajamas-Watercolor Floral,Pajamas/Homewear,60,551.5714285714287,M002,Single Jersey Cotton 180 GSM,Fabric,0.66,meter,14,364.03714285714295
+P016,Girls' summer pajamas-Watercolor Floral,Pajamas/Homewear,60,551.5714285714287,M006,Sewing Thread,Trims,0.018,cone,14,9.928285714285716
+P016,Girls' summer pajamas-Watercolor Floral,Pajamas/Homewear,60,551.5714285714287,M007,Neck Label,Trims,1.0,piece,7,551.5714285714287
+P016,Girls' summer pajamas-Watercolor Floral,Pajamas/Homewear,60,551.5714285714287,M008,Care Label,Trims,1.0,piece,14,551.5714285714287
+P016,Girls' summer pajamas-Watercolor Floral,Pajamas/Homewear,60,551.5714285714287,M009,Poly Bag,Packaging,1.0,piece,7,551.5714285714287
+P016,Girls' summer pajamas-Watercolor Floral,Pajamas/Homewear,90,1218.5920310980546,M002,Single Jersey Cotton 180 GSM,Fabric,0.66,meter,14,804.2707405247161
+P016,Girls' summer pajamas-Watercolor Floral,Pajamas/Homewear,90,1218.5920310980546,M006,Sewing Thread,Trims,0.018,cone,14,21.93465655976498
+P016,Girls' summer pajamas-Watercolor Floral,Pajamas/Homewear,90,1218.5920310980546,M007,Neck Label,Trims,1.0,piece,7,1218.5920310980546
+P016,Girls' summer pajamas-Watercolor Floral,Pajamas/Homewear,90,1218.5920310980546,M008,Care Label,Trims,1.0,piece,14,1218.5920310980546
+P016,Girls' summer pajamas-Watercolor Floral,Pajamas/Homewear,90,1218.5920310980546,M009,Poly Bag,Packaging,1.0,piece,7,1218.5920310980546
+P017,Girls' summer pajamas-flower,Pajamas/Homewear,30,935.8224358641932,M001,Single Jersey Cotton 160 GSM,Fabric,0.68,meter,10,636.3592563876514
+P017,Girls' summer pajamas-flower,Pajamas/Homewear,30,935.8224358641932,M006,Sewing Thread,Trims,0.026,cone,14,24.33138333246902
+P017,Girls' summer pajamas-flower,Pajamas/Homewear,30,935.8224358641932,M007,Neck Label,Trims,1.0,piece,7,935.8224358641932
+P017,Girls' summer pajamas-flower,Pajamas/Homewear,30,935.8224358641932,M008,Care Label,Trims,1.0,piece,14,935.8224358641932
+P017,Girls' summer pajamas-flower,Pajamas/Homewear,30,935.8224358641932,M009,Poly Bag,Packaging,1.0,piece,7,935.8224358641932
+P017,Girls' summer pajamas-flower,Pajamas/Homewear,30,935.8224358641932,M011,Water-Based Ink,Printing,0.02,kg,21,18.716448717283864
+P017,Girls' summer pajamas-flower,Pajamas/Homewear,60,1206.285714285714,M001,Single Jersey Cotton 160 GSM,Fabric,0.68,meter,10,820.2742857142856
+P017,Girls' summer pajamas-flower,Pajamas/Homewear,60,1206.285714285714,M006,Sewing Thread,Trims,0.026,cone,14,31.363428571428564
+P017,Girls' summer pajamas-flower,Pajamas/Homewear,60,1206.285714285714,M007,Neck Label,Trims,1.0,piece,7,1206.285714285714
+P017,Girls' summer pajamas-flower,Pajamas/Homewear,60,1206.285714285714,M008,Care Label,Trims,1.0,piece,14,1206.285714285714
+P017,Girls' summer pajamas-flower,Pajamas/Homewear,60,1206.285714285714,M009,Poly Bag,Packaging,1.0,piece,7,1206.285714285714
+P017,Girls' summer pajamas-flower,Pajamas/Homewear,60,1206.285714285714,M011,Water-Based Ink,Printing,0.02,kg,21,24.12571428571428
+P017,Girls' summer pajamas-flower,Pajamas/Homewear,90,1811.428571428572,M001,Single Jersey Cotton 160 GSM,Fabric,0.68,meter,10,1231.7714285714292
+P017,Girls' summer pajamas-flower,Pajamas/Homewear,90,1811.428571428572,M006,Sewing Thread,Trims,0.026,cone,14,47.09714285714287
+P017,Girls' summer pajamas-flower,Pajamas/Homewear,90,1811.428571428572,M007,Neck Label,Trims,1.0,piece,7,1811.428571428572
+P017,Girls' summer pajamas-flower,Pajamas/Homewear,90,1811.428571428572,M008,Care Label,Trims,1.0,piece,14,1811.428571428572
+P017,Girls' summer pajamas-flower,Pajamas/Homewear,90,1811.428571428572,M009,Poly Bag,Packaging,1.0,piece,7,1811.428571428572
+P017,Girls' summer pajamas-flower,Pajamas/Homewear,90,1811.428571428572,M011,Water-Based Ink,Printing,0.02,kg,21,36.22857142857144
+P018,Boys' summer pajamas-Wear your attitude,Pajamas/Homewear,30,369.1428571428571,M002,Single Jersey Cotton 180 GSM,Fabric,0.46,meter,14,169.8057142857143
+P018,Boys' summer pajamas-Wear your attitude,Pajamas/Homewear,30,369.1428571428571,M006,Sewing Thread,Trims,0.023,cone,14,8.490285714285713
+P018,Boys' summer pajamas-Wear your attitude,Pajamas/Homewear,30,369.1428571428571,M007,Neck Label,Trims,1.0,piece,7,369.1428571428571
+P018,Boys' summer pajamas-Wear your attitude,Pajamas/Homewear,30,369.1428571428571,M008,Care Label,Trims,1.0,piece,14,369.1428571428571
+P018,Boys' summer pajamas-Wear your attitude,Pajamas/Homewear,30,369.1428571428571,M009,Poly Bag,Packaging,1.0,piece,7,369.1428571428571
+P018,Boys' summer pajamas-Wear your attitude,Pajamas/Homewear,30,369.1428571428571,M011,Water-Based Ink,Printing,0.059,kg,21,21.779428571428568
+P018,Boys' summer pajamas-Wear your attitude,Pajamas/Homewear,60,592.0,M002,Single Jersey Cotton 180 GSM,Fabric,0.46,meter,14,272.32
+P018,Boys' summer pajamas-Wear your attitude,Pajamas/Homewear,60,592.0,M006,Sewing Thread,Trims,0.023,cone,14,13.616
+P018,Boys' summer pajamas-Wear your attitude,Pajamas/Homewear,60,592.0,M007,Neck Label,Trims,1.0,piece,7,592.0
+P018,Boys' summer pajamas-Wear your attitude,Pajamas/Homewear,60,592.0,M008,Care Label,Trims,1.0,piece,14,592.0
+P018,Boys' summer pajamas-Wear your attitude,Pajamas/Homewear,60,592.0,M009,Poly Bag,Packaging,1.0,piece,7,592.0
+P018,Boys' summer pajamas-Wear your attitude,Pajamas/Homewear,60,592.0,M011,Water-Based Ink,Printing,0.059,kg,21,34.928
+P018,Boys' summer pajamas-Wear your attitude,Pajamas/Homewear,90,1346.494317344691,M002,Single Jersey Cotton 180 GSM,Fabric,0.46,meter,14,619.3873859785579
+P018,Boys' summer pajamas-Wear your attitude,Pajamas/Homewear,90,1346.494317344691,M006,Sewing Thread,Trims,0.023,cone,14,30.96936929892789
+P018,Boys' summer pajamas-Wear your attitude,Pajamas/Homewear,90,1346.494317344691,M007,Neck Label,Trims,1.0,piece,7,1346.494317344691
+P018,Boys' summer pajamas-Wear your attitude,Pajamas/Homewear,90,1346.494317344691,M008,Care Label,Trims,1.0,piece,14,1346.494317344691
+P018,Boys' summer pajamas-Wear your attitude,Pajamas/Homewear,90,1346.494317344691,M009,Poly Bag,Packaging,1.0,piece,7,1346.494317344691
+P018,Boys' summer pajamas-Wear your attitude,Pajamas/Homewear,90,1346.494317344691,M011,Water-Based Ink,Printing,0.059,kg,21,79.44316472333676
+P019,Boys' summer pajamas- Seeds OF,Pajamas/Homewear,30,0.0,M003,Rib Cotton,Fabric,0.89,meter,10,0.0
+P019,Boys' summer pajamas- Seeds OF,Pajamas/Homewear,30,0.0,M006,Sewing Thread,Trims,0.031,cone,14,0.0
+P019,Boys' summer pajamas- Seeds OF,Pajamas/Homewear,30,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P019,Boys' summer pajamas- Seeds OF,Pajamas/Homewear,30,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P019,Boys' summer pajamas- Seeds OF,Pajamas/Homewear,30,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P019,Boys' summer pajamas- Seeds OF,Pajamas/Homewear,30,0.0,M011,Water-Based Ink,Printing,0.033,kg,21,0.0
+P019,Boys' summer pajamas- Seeds OF,Pajamas/Homewear,60,0.0,M003,Rib Cotton,Fabric,0.89,meter,10,0.0
+P019,Boys' summer pajamas- Seeds OF,Pajamas/Homewear,60,0.0,M006,Sewing Thread,Trims,0.031,cone,14,0.0
+P019,Boys' summer pajamas- Seeds OF,Pajamas/Homewear,60,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P019,Boys' summer pajamas- Seeds OF,Pajamas/Homewear,60,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P019,Boys' summer pajamas- Seeds OF,Pajamas/Homewear,60,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P019,Boys' summer pajamas- Seeds OF,Pajamas/Homewear,60,0.0,M011,Water-Based Ink,Printing,0.033,kg,21,0.0
+P019,Boys' summer pajamas- Seeds OF,Pajamas/Homewear,90,0.0,M003,Rib Cotton,Fabric,0.89,meter,10,0.0
+P019,Boys' summer pajamas- Seeds OF,Pajamas/Homewear,90,0.0,M006,Sewing Thread,Trims,0.031,cone,14,0.0
+P019,Boys' summer pajamas- Seeds OF,Pajamas/Homewear,90,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P019,Boys' summer pajamas- Seeds OF,Pajamas/Homewear,90,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P019,Boys' summer pajamas- Seeds OF,Pajamas/Homewear,90,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P019,Boys' summer pajamas- Seeds OF,Pajamas/Homewear,90,0.0,M011,Water-Based Ink,Printing,0.033,kg,21,0.0
+P020,Boys' summer pajamas-Rock Band,Pajamas/Homewear,30,0.0,M003,Rib Cotton,Fabric,0.67,meter,10,0.0
+P020,Boys' summer pajamas-Rock Band,Pajamas/Homewear,30,0.0,M006,Sewing Thread,Trims,0.016,cone,14,0.0
+P020,Boys' summer pajamas-Rock Band,Pajamas/Homewear,30,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P020,Boys' summer pajamas-Rock Band,Pajamas/Homewear,30,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P020,Boys' summer pajamas-Rock Band,Pajamas/Homewear,30,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P020,Boys' summer pajamas-Rock Band,Pajamas/Homewear,30,0.0,M012,Heat Transfer Film,Printing,0.044,sheet,7,0.0
+P020,Boys' summer pajamas-Rock Band,Pajamas/Homewear,60,386.0419239698365,M003,Rib Cotton,Fabric,0.67,meter,10,258.64808905979044
+P020,Boys' summer pajamas-Rock Band,Pajamas/Homewear,60,386.0419239698365,M006,Sewing Thread,Trims,0.016,cone,14,6.176670783517384
+P020,Boys' summer pajamas-Rock Band,Pajamas/Homewear,60,386.0419239698365,M007,Neck Label,Trims,1.0,piece,7,386.0419239698365
+P020,Boys' summer pajamas-Rock Band,Pajamas/Homewear,60,386.0419239698365,M008,Care Label,Trims,1.0,piece,14,386.0419239698365
+P020,Boys' summer pajamas-Rock Band,Pajamas/Homewear,60,386.0419239698365,M009,Poly Bag,Packaging,1.0,piece,7,386.0419239698365
+P020,Boys' summer pajamas-Rock Band,Pajamas/Homewear,60,386.0419239698365,M012,Heat Transfer Film,Printing,0.044,sheet,7,16.985844654672803
+P020,Boys' summer pajamas-Rock Band,Pajamas/Homewear,90,706.1871818705054,M003,Rib Cotton,Fabric,0.67,meter,10,473.1454118532386
+P020,Boys' summer pajamas-Rock Band,Pajamas/Homewear,90,706.1871818705054,M006,Sewing Thread,Trims,0.016,cone,14,11.298994909928085
+P020,Boys' summer pajamas-Rock Band,Pajamas/Homewear,90,706.1871818705054,M007,Neck Label,Trims,1.0,piece,7,706.1871818705054
+P020,Boys' summer pajamas-Rock Band,Pajamas/Homewear,90,706.1871818705054,M008,Care Label,Trims,1.0,piece,14,706.1871818705054
+P020,Boys' summer pajamas-Rock Band,Pajamas/Homewear,90,706.1871818705054,M009,Poly Bag,Packaging,1.0,piece,7,706.1871818705054
+P020,Boys' summer pajamas-Rock Band,Pajamas/Homewear,90,706.1871818705054,M012,Heat Transfer Film,Printing,0.044,sheet,7,31.072236002302233
+P021,Girls' summer pajamas-Minnie Mouse,Pajamas/Homewear,30,671.4285714285712,M004,Summer Melton,Fabric,0.79,meter,10,530.4285714285713
+P021,Girls' summer pajamas-Minnie Mouse,Pajamas/Homewear,30,671.4285714285712,M006,Sewing Thread,Trims,0.033,cone,14,22.15714285714285
+P021,Girls' summer pajamas-Minnie Mouse,Pajamas/Homewear,30,671.4285714285712,M007,Neck Label,Trims,1.0,piece,7,671.4285714285712
+P021,Girls' summer pajamas-Minnie Mouse,Pajamas/Homewear,30,671.4285714285712,M008,Care Label,Trims,1.0,piece,14,671.4285714285712
+P021,Girls' summer pajamas-Minnie Mouse,Pajamas/Homewear,30,671.4285714285712,M009,Poly Bag,Packaging,1.0,piece,7,671.4285714285712
+P021,Girls' summer pajamas-Minnie Mouse,Pajamas/Homewear,30,671.4285714285712,M012,Heat Transfer Film,Printing,0.044,sheet,7,29.54285714285713
+P021,Girls' summer pajamas-Minnie Mouse,Pajamas/Homewear,60,1435.0390856811916,M004,Summer Melton,Fabric,0.79,meter,10,1133.6808776881414
+P021,Girls' summer pajamas-Minnie Mouse,Pajamas/Homewear,60,1435.0390856811916,M006,Sewing Thread,Trims,0.033,cone,14,47.35628982747932
+P021,Girls' summer pajamas-Minnie Mouse,Pajamas/Homewear,60,1435.0390856811916,M007,Neck Label,Trims,1.0,piece,7,1435.0390856811916
+P021,Girls' summer pajamas-Minnie Mouse,Pajamas/Homewear,60,1435.0390856811916,M008,Care Label,Trims,1.0,piece,14,1435.0390856811916
+P021,Girls' summer pajamas-Minnie Mouse,Pajamas/Homewear,60,1435.0390856811916,M009,Poly Bag,Packaging,1.0,piece,7,1435.0390856811916
+P021,Girls' summer pajamas-Minnie Mouse,Pajamas/Homewear,60,1435.0390856811916,M012,Heat Transfer Film,Printing,0.044,sheet,7,63.141719769972426
+P021,Girls' summer pajamas-Minnie Mouse,Pajamas/Homewear,90,2119.876309296737,M004,Summer Melton,Fabric,0.79,meter,10,1674.7022843444222
+P021,Girls' summer pajamas-Minnie Mouse,Pajamas/Homewear,90,2119.876309296737,M006,Sewing Thread,Trims,0.033,cone,14,69.95591820679232
+P021,Girls' summer pajamas-Minnie Mouse,Pajamas/Homewear,90,2119.876309296737,M007,Neck Label,Trims,1.0,piece,7,2119.876309296737
+P021,Girls' summer pajamas-Minnie Mouse,Pajamas/Homewear,90,2119.876309296737,M008,Care Label,Trims,1.0,piece,14,2119.876309296737
+P021,Girls' summer pajamas-Minnie Mouse,Pajamas/Homewear,90,2119.876309296737,M009,Poly Bag,Packaging,1.0,piece,7,2119.876309296737
+P021,Girls' summer pajamas-Minnie Mouse,Pajamas/Homewear,90,2119.876309296737,M012,Heat Transfer Film,Printing,0.044,sheet,7,93.27455760905642
+P022,Girls' summer pajamas-Stitch,Pajamas/Homewear,30,309.6818981167131,M001,Single Jersey Cotton 160 GSM,Fabric,0.45,meter,10,139.3568541525209
+P022,Girls' summer pajamas-Stitch,Pajamas/Homewear,30,309.6818981167131,M006,Sewing Thread,Trims,0.02,cone,14,6.193637962334263
+P022,Girls' summer pajamas-Stitch,Pajamas/Homewear,30,309.6818981167131,M007,Neck Label,Trims,1.0,piece,7,309.6818981167131
+P022,Girls' summer pajamas-Stitch,Pajamas/Homewear,30,309.6818981167131,M008,Care Label,Trims,1.0,piece,14,309.6818981167131
+P022,Girls' summer pajamas-Stitch,Pajamas/Homewear,30,309.6818981167131,M009,Poly Bag,Packaging,1.0,piece,7,309.6818981167131
+P022,Girls' summer pajamas-Stitch,Pajamas/Homewear,60,407.0,M001,Single Jersey Cotton 160 GSM,Fabric,0.45,meter,10,183.15
+P022,Girls' summer pajamas-Stitch,Pajamas/Homewear,60,407.0,M006,Sewing Thread,Trims,0.02,cone,14,8.14
+P022,Girls' summer pajamas-Stitch,Pajamas/Homewear,60,407.0,M007,Neck Label,Trims,1.0,piece,7,407.0
+P022,Girls' summer pajamas-Stitch,Pajamas/Homewear,60,407.0,M008,Care Label,Trims,1.0,piece,14,407.0
+P022,Girls' summer pajamas-Stitch,Pajamas/Homewear,60,407.0,M009,Poly Bag,Packaging,1.0,piece,7,407.0
+P022,Girls' summer pajamas-Stitch,Pajamas/Homewear,90,872.9036317530142,M001,Single Jersey Cotton 160 GSM,Fabric,0.45,meter,10,392.8066342888564
+P022,Girls' summer pajamas-Stitch,Pajamas/Homewear,90,872.9036317530142,M006,Sewing Thread,Trims,0.02,cone,14,17.458072635060287
+P022,Girls' summer pajamas-Stitch,Pajamas/Homewear,90,872.9036317530142,M007,Neck Label,Trims,1.0,piece,7,872.9036317530142
+P022,Girls' summer pajamas-Stitch,Pajamas/Homewear,90,872.9036317530142,M008,Care Label,Trims,1.0,piece,14,872.9036317530142
+P022,Girls' summer pajamas-Stitch,Pajamas/Homewear,90,872.9036317530142,M009,Poly Bag,Packaging,1.0,piece,7,872.9036317530142
+P023,Girls' summer pajamas-Dumbo,Pajamas/Homewear,30,0.0,M002,Single Jersey Cotton 180 GSM,Fabric,0.74,meter,14,0.0
+P023,Girls' summer pajamas-Dumbo,Pajamas/Homewear,30,0.0,M006,Sewing Thread,Trims,0.034,cone,14,0.0
+P023,Girls' summer pajamas-Dumbo,Pajamas/Homewear,30,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P023,Girls' summer pajamas-Dumbo,Pajamas/Homewear,30,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P023,Girls' summer pajamas-Dumbo,Pajamas/Homewear,30,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P023,Girls' summer pajamas-Dumbo,Pajamas/Homewear,30,0.0,M011,Water-Based Ink,Printing,0.015,kg,21,0.0
+P023,Girls' summer pajamas-Dumbo,Pajamas/Homewear,60,0.0,M002,Single Jersey Cotton 180 GSM,Fabric,0.74,meter,14,0.0
+P023,Girls' summer pajamas-Dumbo,Pajamas/Homewear,60,0.0,M006,Sewing Thread,Trims,0.034,cone,14,0.0
+P023,Girls' summer pajamas-Dumbo,Pajamas/Homewear,60,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P023,Girls' summer pajamas-Dumbo,Pajamas/Homewear,60,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P023,Girls' summer pajamas-Dumbo,Pajamas/Homewear,60,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P023,Girls' summer pajamas-Dumbo,Pajamas/Homewear,60,0.0,M011,Water-Based Ink,Printing,0.015,kg,21,0.0
+P023,Girls' summer pajamas-Dumbo,Pajamas/Homewear,90,0.0,M002,Single Jersey Cotton 180 GSM,Fabric,0.74,meter,14,0.0
+P023,Girls' summer pajamas-Dumbo,Pajamas/Homewear,90,0.0,M006,Sewing Thread,Trims,0.034,cone,14,0.0
+P023,Girls' summer pajamas-Dumbo,Pajamas/Homewear,90,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P023,Girls' summer pajamas-Dumbo,Pajamas/Homewear,90,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P023,Girls' summer pajamas-Dumbo,Pajamas/Homewear,90,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P023,Girls' summer pajamas-Dumbo,Pajamas/Homewear,90,0.0,M011,Water-Based Ink,Printing,0.015,kg,21,0.0
+P024,Boys' summer pajamas-Mickey,Pajamas/Homewear,30,113.34741800702876,M002,Single Jersey Cotton 180 GSM,Fabric,0.76,meter,14,86.14403768534186
+P024,Boys' summer pajamas-Mickey,Pajamas/Homewear,30,113.34741800702876,M006,Sewing Thread,Trims,0.02,cone,14,2.2669483601405753
+P024,Boys' summer pajamas-Mickey,Pajamas/Homewear,30,113.34741800702876,M007,Neck Label,Trims,1.0,piece,7,113.34741800702876
+P024,Boys' summer pajamas-Mickey,Pajamas/Homewear,30,113.34741800702876,M008,Care Label,Trims,1.0,piece,14,113.34741800702876
+P024,Boys' summer pajamas-Mickey,Pajamas/Homewear,30,113.34741800702876,M009,Poly Bag,Packaging,1.0,piece,7,113.34741800702876
+P024,Boys' summer pajamas-Mickey,Pajamas/Homewear,30,113.34741800702876,M011,Water-Based Ink,Printing,0.053,kg,21,6.007413154372524
+P024,Boys' summer pajamas-Mickey,Pajamas/Homewear,60,306.2857142857142,M002,Single Jersey Cotton 180 GSM,Fabric,0.76,meter,14,232.77714285714282
+P024,Boys' summer pajamas-Mickey,Pajamas/Homewear,60,306.2857142857142,M006,Sewing Thread,Trims,0.02,cone,14,6.125714285714285
+P024,Boys' summer pajamas-Mickey,Pajamas/Homewear,60,306.2857142857142,M007,Neck Label,Trims,1.0,piece,7,306.2857142857142
+P024,Boys' summer pajamas-Mickey,Pajamas/Homewear,60,306.2857142857142,M008,Care Label,Trims,1.0,piece,14,306.2857142857142
+P024,Boys' summer pajamas-Mickey,Pajamas/Homewear,60,306.2857142857142,M009,Poly Bag,Packaging,1.0,piece,7,306.2857142857142
+P024,Boys' summer pajamas-Mickey,Pajamas/Homewear,60,306.2857142857142,M011,Water-Based Ink,Printing,0.053,kg,21,16.23314285714285
+P024,Boys' summer pajamas-Mickey,Pajamas/Homewear,90,1227.6810851949758,M002,Single Jersey Cotton 180 GSM,Fabric,0.76,meter,14,933.0376247481817
+P024,Boys' summer pajamas-Mickey,Pajamas/Homewear,90,1227.6810851949758,M006,Sewing Thread,Trims,0.02,cone,14,24.553621703899516
+P024,Boys' summer pajamas-Mickey,Pajamas/Homewear,90,1227.6810851949758,M007,Neck Label,Trims,1.0,piece,7,1227.6810851949758
+P024,Boys' summer pajamas-Mickey,Pajamas/Homewear,90,1227.6810851949758,M008,Care Label,Trims,1.0,piece,14,1227.6810851949758
+P024,Boys' summer pajamas-Mickey,Pajamas/Homewear,90,1227.6810851949758,M009,Poly Bag,Packaging,1.0,piece,7,1227.6810851949758
+P024,Boys' summer pajamas-Mickey,Pajamas/Homewear,90,1227.6810851949758,M011,Water-Based Ink,Printing,0.053,kg,21,65.06709751533371
+P025,Boys' summer pajamas-Snoopy,Pajamas/Homewear,30,300.0,M004,Summer Melton,Fabric,0.47,meter,10,141.0
+P025,Boys' summer pajamas-Snoopy,Pajamas/Homewear,30,300.0,M006,Sewing Thread,Trims,0.024,cone,14,7.2
+P025,Boys' summer pajamas-Snoopy,Pajamas/Homewear,30,300.0,M007,Neck Label,Trims,1.0,piece,7,300.0
+P025,Boys' summer pajamas-Snoopy,Pajamas/Homewear,30,300.0,M008,Care Label,Trims,1.0,piece,14,300.0
+P025,Boys' summer pajamas-Snoopy,Pajamas/Homewear,30,300.0,M009,Poly Bag,Packaging,1.0,piece,7,300.0
+P025,Boys' summer pajamas-Snoopy,Pajamas/Homewear,30,300.0,M011,Water-Based Ink,Printing,0.049,kg,21,14.700000000000001
+P025,Boys' summer pajamas-Snoopy,Pajamas/Homewear,60,474.0,M004,Summer Melton,Fabric,0.47,meter,10,222.78
+P025,Boys' summer pajamas-Snoopy,Pajamas/Homewear,60,474.0,M006,Sewing Thread,Trims,0.024,cone,14,11.376
+P025,Boys' summer pajamas-Snoopy,Pajamas/Homewear,60,474.0,M007,Neck Label,Trims,1.0,piece,7,474.0
+P025,Boys' summer pajamas-Snoopy,Pajamas/Homewear,60,474.0,M008,Care Label,Trims,1.0,piece,14,474.0
+P025,Boys' summer pajamas-Snoopy,Pajamas/Homewear,60,474.0,M009,Poly Bag,Packaging,1.0,piece,7,474.0
+P025,Boys' summer pajamas-Snoopy,Pajamas/Homewear,60,474.0,M011,Water-Based Ink,Printing,0.049,kg,21,23.226000000000003
+P025,Boys' summer pajamas-Snoopy,Pajamas/Homewear,90,734.9275859413434,M004,Summer Melton,Fabric,0.47,meter,10,345.41596539243136
+P025,Boys' summer pajamas-Snoopy,Pajamas/Homewear,90,734.9275859413434,M006,Sewing Thread,Trims,0.024,cone,14,17.638262062592243
+P025,Boys' summer pajamas-Snoopy,Pajamas/Homewear,90,734.9275859413434,M007,Neck Label,Trims,1.0,piece,7,734.9275859413434
+P025,Boys' summer pajamas-Snoopy,Pajamas/Homewear,90,734.9275859413434,M008,Care Label,Trims,1.0,piece,14,734.9275859413434
+P025,Boys' summer pajamas-Snoopy,Pajamas/Homewear,90,734.9275859413434,M009,Poly Bag,Packaging,1.0,piece,7,734.9275859413434
+P025,Boys' summer pajamas-Snoopy,Pajamas/Homewear,90,734.9275859413434,M011,Water-Based Ink,Printing,0.049,kg,21,36.01145171112583
+P026,Boys' summer pajamas-Bluey,Pajamas/Homewear,30,0.0,M004,Summer Melton,Fabric,0.56,meter,10,0.0
+P026,Boys' summer pajamas-Bluey,Pajamas/Homewear,30,0.0,M006,Sewing Thread,Trims,0.024,cone,14,0.0
+P026,Boys' summer pajamas-Bluey,Pajamas/Homewear,30,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P026,Boys' summer pajamas-Bluey,Pajamas/Homewear,30,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P026,Boys' summer pajamas-Bluey,Pajamas/Homewear,30,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P026,Boys' summer pajamas-Bluey,Pajamas/Homewear,30,0.0,M012,Heat Transfer Film,Printing,0.02,sheet,7,0.0
+P026,Boys' summer pajamas-Bluey,Pajamas/Homewear,60,211.85714285714283,M004,Summer Melton,Fabric,0.56,meter,10,118.64
+P026,Boys' summer pajamas-Bluey,Pajamas/Homewear,60,211.85714285714283,M006,Sewing Thread,Trims,0.024,cone,14,5.0845714285714285
+P026,Boys' summer pajamas-Bluey,Pajamas/Homewear,60,211.85714285714283,M007,Neck Label,Trims,1.0,piece,7,211.85714285714283
+P026,Boys' summer pajamas-Bluey,Pajamas/Homewear,60,211.85714285714283,M008,Care Label,Trims,1.0,piece,14,211.85714285714283
+P026,Boys' summer pajamas-Bluey,Pajamas/Homewear,60,211.85714285714283,M009,Poly Bag,Packaging,1.0,piece,7,211.85714285714283
+P026,Boys' summer pajamas-Bluey,Pajamas/Homewear,60,211.85714285714283,M012,Heat Transfer Film,Printing,0.02,sheet,7,4.237142857142857
+P026,Boys' summer pajamas-Bluey,Pajamas/Homewear,90,373.8571428571429,M004,Summer Melton,Fabric,0.56,meter,10,209.36000000000004
+P026,Boys' summer pajamas-Bluey,Pajamas/Homewear,90,373.8571428571429,M006,Sewing Thread,Trims,0.024,cone,14,8.97257142857143
+P026,Boys' summer pajamas-Bluey,Pajamas/Homewear,90,373.8571428571429,M007,Neck Label,Trims,1.0,piece,7,373.8571428571429
+P026,Boys' summer pajamas-Bluey,Pajamas/Homewear,90,373.8571428571429,M008,Care Label,Trims,1.0,piece,14,373.8571428571429
+P026,Boys' summer pajamas-Bluey,Pajamas/Homewear,90,373.8571428571429,M009,Poly Bag,Packaging,1.0,piece,7,373.8571428571429
+P026,Boys' summer pajamas-Bluey,Pajamas/Homewear,90,373.8571428571429,M012,Heat Transfer Film,Printing,0.02,sheet,7,7.477142857142858
+P027,Girls' pajamas - I'm Just a girl,Pajamas/Homewear,30,378.8571428571429,M004,Summer Melton,Fabric,0.66,meter,10,250.04571428571433
+P027,Girls' pajamas - I'm Just a girl,Pajamas/Homewear,30,378.8571428571429,M006,Sewing Thread,Trims,0.034,cone,14,12.881142857142859
+P027,Girls' pajamas - I'm Just a girl,Pajamas/Homewear,30,378.8571428571429,M007,Neck Label,Trims,1.0,piece,7,378.8571428571429
+P027,Girls' pajamas - I'm Just a girl,Pajamas/Homewear,30,378.8571428571429,M008,Care Label,Trims,1.0,piece,14,378.8571428571429
+P027,Girls' pajamas - I'm Just a girl,Pajamas/Homewear,30,378.8571428571429,M009,Poly Bag,Packaging,1.0,piece,7,378.8571428571429
+P027,Girls' pajamas - I'm Just a girl,Pajamas/Homewear,30,378.8571428571429,M011,Water-Based Ink,Printing,0.031,kg,21,11.74457142857143
+P027,Girls' pajamas - I'm Just a girl,Pajamas/Homewear,60,544.2857142857143,M004,Summer Melton,Fabric,0.66,meter,10,359.22857142857146
+P027,Girls' pajamas - I'm Just a girl,Pajamas/Homewear,60,544.2857142857143,M006,Sewing Thread,Trims,0.034,cone,14,18.505714285714287
+P027,Girls' pajamas - I'm Just a girl,Pajamas/Homewear,60,544.2857142857143,M007,Neck Label,Trims,1.0,piece,7,544.2857142857143
+P027,Girls' pajamas - I'm Just a girl,Pajamas/Homewear,60,544.2857142857143,M008,Care Label,Trims,1.0,piece,14,544.2857142857143
+P027,Girls' pajamas - I'm Just a girl,Pajamas/Homewear,60,544.2857142857143,M009,Poly Bag,Packaging,1.0,piece,7,544.2857142857143
+P027,Girls' pajamas - I'm Just a girl,Pajamas/Homewear,60,544.2857142857143,M011,Water-Based Ink,Printing,0.031,kg,21,16.872857142857143
+P027,Girls' pajamas - I'm Just a girl,Pajamas/Homewear,90,796.2857142857144,M004,Summer Melton,Fabric,0.66,meter,10,525.5485714285716
+P027,Girls' pajamas - I'm Just a girl,Pajamas/Homewear,90,796.2857142857144,M006,Sewing Thread,Trims,0.034,cone,14,27.073714285714292
+P027,Girls' pajamas - I'm Just a girl,Pajamas/Homewear,90,796.2857142857144,M007,Neck Label,Trims,1.0,piece,7,796.2857142857144
+P027,Girls' pajamas - I'm Just a girl,Pajamas/Homewear,90,796.2857142857144,M008,Care Label,Trims,1.0,piece,14,796.2857142857144
+P027,Girls' pajamas - I'm Just a girl,Pajamas/Homewear,90,796.2857142857144,M009,Poly Bag,Packaging,1.0,piece,7,796.2857142857144
+P027,Girls' pajamas - I'm Just a girl,Pajamas/Homewear,90,796.2857142857144,M011,Water-Based Ink,Printing,0.031,kg,21,24.684857142857147
+P028,Girls' summer pajamas,Pajamas/Homewear,30,0.0,M003,Rib Cotton,Fabric,1.1,meter,10,0.0
+P028,Girls' summer pajamas,Pajamas/Homewear,30,0.0,M006,Sewing Thread,Trims,0.029,cone,14,0.0
+P028,Girls' summer pajamas,Pajamas/Homewear,30,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P028,Girls' summer pajamas,Pajamas/Homewear,30,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P028,Girls' summer pajamas,Pajamas/Homewear,30,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P028,Girls' summer pajamas,Pajamas/Homewear,60,265.57142857142856,M003,Rib Cotton,Fabric,1.1,meter,10,292.12857142857143
+P028,Girls' summer pajamas,Pajamas/Homewear,60,265.57142857142856,M006,Sewing Thread,Trims,0.029,cone,14,7.7015714285714285
+P028,Girls' summer pajamas,Pajamas/Homewear,60,265.57142857142856,M007,Neck Label,Trims,1.0,piece,7,265.57142857142856
+P028,Girls' summer pajamas,Pajamas/Homewear,60,265.57142857142856,M008,Care Label,Trims,1.0,piece,14,265.57142857142856
+P028,Girls' summer pajamas,Pajamas/Homewear,60,265.57142857142856,M009,Poly Bag,Packaging,1.0,piece,7,265.57142857142856
+P028,Girls' summer pajamas,Pajamas/Homewear,90,706.9999999999998,M003,Rib Cotton,Fabric,1.1,meter,10,777.6999999999998
+P028,Girls' summer pajamas,Pajamas/Homewear,90,706.9999999999998,M006,Sewing Thread,Trims,0.029,cone,14,20.502999999999993
+P028,Girls' summer pajamas,Pajamas/Homewear,90,706.9999999999998,M007,Neck Label,Trims,1.0,piece,7,706.9999999999998
+P028,Girls' summer pajamas,Pajamas/Homewear,90,706.9999999999998,M008,Care Label,Trims,1.0,piece,14,706.9999999999998
+P028,Girls' summer pajamas,Pajamas/Homewear,90,706.9999999999998,M009,Poly Bag,Packaging,1.0,piece,7,706.9999999999998
+P029,Girls' pajamas-Daylife+kuromi,Pajamas/Homewear,30,205.4285714285716,M002,Single Jersey Cotton 180 GSM,Fabric,0.94,meter,14,193.1028571428573
+P029,Girls' pajamas-Daylife+kuromi,Pajamas/Homewear,30,205.4285714285716,M006,Sewing Thread,Trims,0.018,cone,14,3.697714285714288
+P029,Girls' pajamas-Daylife+kuromi,Pajamas/Homewear,30,205.4285714285716,M007,Neck Label,Trims,1.0,piece,7,205.4285714285716
+P029,Girls' pajamas-Daylife+kuromi,Pajamas/Homewear,30,205.4285714285716,M008,Care Label,Trims,1.0,piece,14,205.4285714285716
+P029,Girls' pajamas-Daylife+kuromi,Pajamas/Homewear,30,205.4285714285716,M009,Poly Bag,Packaging,1.0,piece,7,205.4285714285716
+P029,Girls' pajamas-Daylife+kuromi,Pajamas/Homewear,60,1013.6758479259852,M002,Single Jersey Cotton 180 GSM,Fabric,0.94,meter,14,952.855297050426
+P029,Girls' pajamas-Daylife+kuromi,Pajamas/Homewear,60,1013.6758479259852,M006,Sewing Thread,Trims,0.018,cone,14,18.24616526266773
+P029,Girls' pajamas-Daylife+kuromi,Pajamas/Homewear,60,1013.6758479259852,M007,Neck Label,Trims,1.0,piece,7,1013.6758479259852
+P029,Girls' pajamas-Daylife+kuromi,Pajamas/Homewear,60,1013.6758479259852,M008,Care Label,Trims,1.0,piece,14,1013.6758479259852
+P029,Girls' pajamas-Daylife+kuromi,Pajamas/Homewear,60,1013.6758479259852,M009,Poly Bag,Packaging,1.0,piece,7,1013.6758479259852
+P029,Girls' pajamas-Daylife+kuromi,Pajamas/Homewear,90,2184.935194345102,M002,Single Jersey Cotton 180 GSM,Fabric,0.94,meter,14,2053.8390826843956
+P029,Girls' pajamas-Daylife+kuromi,Pajamas/Homewear,90,2184.935194345102,M006,Sewing Thread,Trims,0.018,cone,14,39.328833498211836
+P029,Girls' pajamas-Daylife+kuromi,Pajamas/Homewear,90,2184.935194345102,M007,Neck Label,Trims,1.0,piece,7,2184.935194345102
+P029,Girls' pajamas-Daylife+kuromi,Pajamas/Homewear,90,2184.935194345102,M008,Care Label,Trims,1.0,piece,14,2184.935194345102
+P029,Girls' pajamas-Daylife+kuromi,Pajamas/Homewear,90,2184.935194345102,M009,Poly Bag,Packaging,1.0,piece,7,2184.935194345102
+P030,Boys' pajamas -Mickey Mouse,Pajamas/Homewear,30,0.0,M001,Single Jersey Cotton 160 GSM,Fabric,1.11,meter,10,0.0
+P030,Boys' pajamas -Mickey Mouse,Pajamas/Homewear,30,0.0,M006,Sewing Thread,Trims,0.018,cone,14,0.0
+P030,Boys' pajamas -Mickey Mouse,Pajamas/Homewear,30,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P030,Boys' pajamas -Mickey Mouse,Pajamas/Homewear,30,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P030,Boys' pajamas -Mickey Mouse,Pajamas/Homewear,30,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P030,Boys' pajamas -Mickey Mouse,Pajamas/Homewear,60,89.42857142857133,M001,Single Jersey Cotton 160 GSM,Fabric,1.11,meter,10,99.26571428571418
+P030,Boys' pajamas -Mickey Mouse,Pajamas/Homewear,60,89.42857142857133,M006,Sewing Thread,Trims,0.018,cone,14,1.6097142857142839
+P030,Boys' pajamas -Mickey Mouse,Pajamas/Homewear,60,89.42857142857133,M007,Neck Label,Trims,1.0,piece,7,89.42857142857133
+P030,Boys' pajamas -Mickey Mouse,Pajamas/Homewear,60,89.42857142857133,M008,Care Label,Trims,1.0,piece,14,89.42857142857133
+P030,Boys' pajamas -Mickey Mouse,Pajamas/Homewear,60,89.42857142857133,M009,Poly Bag,Packaging,1.0,piece,7,89.42857142857133
+P030,Boys' pajamas -Mickey Mouse,Pajamas/Homewear,90,538.2860683758527,M001,Single Jersey Cotton 160 GSM,Fabric,1.11,meter,10,597.4975358971965
+P030,Boys' pajamas -Mickey Mouse,Pajamas/Homewear,90,538.2860683758527,M006,Sewing Thread,Trims,0.018,cone,14,9.689149230765347
+P030,Boys' pajamas -Mickey Mouse,Pajamas/Homewear,90,538.2860683758527,M007,Neck Label,Trims,1.0,piece,7,538.2860683758527
+P030,Boys' pajamas -Mickey Mouse,Pajamas/Homewear,90,538.2860683758527,M008,Care Label,Trims,1.0,piece,14,538.2860683758527
+P030,Boys' pajamas -Mickey Mouse,Pajamas/Homewear,90,538.2860683758527,M009,Poly Bag,Packaging,1.0,piece,7,538.2860683758527
+P031,Boys' pajamas -Don't Even!,Pajamas/Homewear,30,328.0,M004,Summer Melton,Fabric,1.01,meter,10,331.28000000000003
+P031,Boys' pajamas -Don't Even!,Pajamas/Homewear,30,328.0,M006,Sewing Thread,Trims,0.016,cone,14,5.248
+P031,Boys' pajamas -Don't Even!,Pajamas/Homewear,30,328.0,M007,Neck Label,Trims,1.0,piece,7,328.0
+P031,Boys' pajamas -Don't Even!,Pajamas/Homewear,30,328.0,M008,Care Label,Trims,1.0,piece,14,328.0
+P031,Boys' pajamas -Don't Even!,Pajamas/Homewear,30,328.0,M009,Poly Bag,Packaging,1.0,piece,7,328.0
+P031,Boys' pajamas -Don't Even!,Pajamas/Homewear,30,328.0,M011,Water-Based Ink,Printing,0.03,kg,21,9.84
+P031,Boys' pajamas -Don't Even!,Pajamas/Homewear,60,563.7142857142858,M004,Summer Melton,Fabric,1.01,meter,10,569.3514285714286
+P031,Boys' pajamas -Don't Even!,Pajamas/Homewear,60,563.7142857142858,M006,Sewing Thread,Trims,0.016,cone,14,9.019428571428573
+P031,Boys' pajamas -Don't Even!,Pajamas/Homewear,60,563.7142857142858,M007,Neck Label,Trims,1.0,piece,7,563.7142857142858
+P031,Boys' pajamas -Don't Even!,Pajamas/Homewear,60,563.7142857142858,M008,Care Label,Trims,1.0,piece,14,563.7142857142858
+P031,Boys' pajamas -Don't Even!,Pajamas/Homewear,60,563.7142857142858,M009,Poly Bag,Packaging,1.0,piece,7,563.7142857142858
+P031,Boys' pajamas -Don't Even!,Pajamas/Homewear,60,563.7142857142858,M011,Water-Based Ink,Printing,0.03,kg,21,16.911428571428573
+P031,Boys' pajamas -Don't Even!,Pajamas/Homewear,90,1386.6114591872524,M004,Summer Melton,Fabric,1.01,meter,10,1400.477573779125
+P031,Boys' pajamas -Don't Even!,Pajamas/Homewear,90,1386.6114591872524,M006,Sewing Thread,Trims,0.016,cone,14,22.18578334699604
+P031,Boys' pajamas -Don't Even!,Pajamas/Homewear,90,1386.6114591872524,M007,Neck Label,Trims,1.0,piece,7,1386.6114591872524
+P031,Boys' pajamas -Don't Even!,Pajamas/Homewear,90,1386.6114591872524,M008,Care Label,Trims,1.0,piece,14,1386.6114591872524
+P031,Boys' pajamas -Don't Even!,Pajamas/Homewear,90,1386.6114591872524,M009,Poly Bag,Packaging,1.0,piece,7,1386.6114591872524
+P031,Boys' pajamas -Don't Even!,Pajamas/Homewear,90,1386.6114591872524,M011,Water-Based Ink,Printing,0.03,kg,21,41.59834377561757
+P032,Boys' sweatshirt-blue,Sweatshirts,30,860.4285714285716,M004,Summer Melton,Fabric,1.09,meter,10,937.8671428571431
+P032,Boys' sweatshirt-blue,Sweatshirts,30,860.4285714285716,M006,Sewing Thread,Trims,0.032,cone,14,27.53371428571429
+P032,Boys' sweatshirt-blue,Sweatshirts,30,860.4285714285716,M007,Neck Label,Trims,1.0,piece,7,860.4285714285716
+P032,Boys' sweatshirt-blue,Sweatshirts,30,860.4285714285716,M008,Care Label,Trims,1.0,piece,14,860.4285714285716
+P032,Boys' sweatshirt-blue,Sweatshirts,30,860.4285714285716,M009,Poly Bag,Packaging,1.0,piece,7,860.4285714285716
+P032,Boys' sweatshirt-blue,Sweatshirts,60,2837.857142857142,M004,Summer Melton,Fabric,1.09,meter,10,3093.264285714285
+P032,Boys' sweatshirt-blue,Sweatshirts,60,2837.857142857142,M006,Sewing Thread,Trims,0.032,cone,14,90.81142857142855
+P032,Boys' sweatshirt-blue,Sweatshirts,60,2837.857142857142,M007,Neck Label,Trims,1.0,piece,7,2837.857142857142
+P032,Boys' sweatshirt-blue,Sweatshirts,60,2837.857142857142,M008,Care Label,Trims,1.0,piece,14,2837.857142857142
+P032,Boys' sweatshirt-blue,Sweatshirts,60,2837.857142857142,M009,Poly Bag,Packaging,1.0,piece,7,2837.857142857142
+P032,Boys' sweatshirt-blue,Sweatshirts,90,5768.428571428572,M004,Summer Melton,Fabric,1.09,meter,10,6287.587142857144
+P032,Boys' sweatshirt-blue,Sweatshirts,90,5768.428571428572,M006,Sewing Thread,Trims,0.032,cone,14,184.58971428571428
+P032,Boys' sweatshirt-blue,Sweatshirts,90,5768.428571428572,M007,Neck Label,Trims,1.0,piece,7,5768.428571428572
+P032,Boys' sweatshirt-blue,Sweatshirts,90,5768.428571428572,M008,Care Label,Trims,1.0,piece,14,5768.428571428572
+P032,Boys' sweatshirt-blue,Sweatshirts,90,5768.428571428572,M009,Poly Bag,Packaging,1.0,piece,7,5768.428571428572
+P033,Boys' sweatshirt-LEO,Sweatshirts,30,1972.857142857143,M002,Single Jersey Cotton 180 GSM,Fabric,1.04,meter,14,2051.7714285714287
+P033,Boys' sweatshirt-LEO,Sweatshirts,30,1972.857142857143,M006,Sewing Thread,Trims,0.019,cone,14,37.48428571428571
+P033,Boys' sweatshirt-LEO,Sweatshirts,30,1972.857142857143,M007,Neck Label,Trims,1.0,piece,7,1972.857142857143
+P033,Boys' sweatshirt-LEO,Sweatshirts,30,1972.857142857143,M008,Care Label,Trims,1.0,piece,14,1972.857142857143
+P033,Boys' sweatshirt-LEO,Sweatshirts,30,1972.857142857143,M009,Poly Bag,Packaging,1.0,piece,7,1972.857142857143
+P033,Boys' sweatshirt-LEO,Sweatshirts,60,2718.1447597899687,M002,Single Jersey Cotton 180 GSM,Fabric,1.04,meter,14,2826.8705501815675
+P033,Boys' sweatshirt-LEO,Sweatshirts,60,2718.1447597899687,M006,Sewing Thread,Trims,0.019,cone,14,51.6447504360094
+P033,Boys' sweatshirt-LEO,Sweatshirts,60,2718.1447597899687,M007,Neck Label,Trims,1.0,piece,7,2718.1447597899687
+P033,Boys' sweatshirt-LEO,Sweatshirts,60,2718.1447597899687,M008,Care Label,Trims,1.0,piece,14,2718.1447597899687
+P033,Boys' sweatshirt-LEO,Sweatshirts,60,2718.1447597899687,M009,Poly Bag,Packaging,1.0,piece,7,2718.1447597899687
+P033,Boys' sweatshirt-LEO,Sweatshirts,90,7205.142857142857,M002,Single Jersey Cotton 180 GSM,Fabric,1.04,meter,14,7493.348571428572
+P033,Boys' sweatshirt-LEO,Sweatshirts,90,7205.142857142857,M006,Sewing Thread,Trims,0.019,cone,14,136.89771428571427
+P033,Boys' sweatshirt-LEO,Sweatshirts,90,7205.142857142857,M007,Neck Label,Trims,1.0,piece,7,7205.142857142857
+P033,Boys' sweatshirt-LEO,Sweatshirts,90,7205.142857142857,M008,Care Label,Trims,1.0,piece,14,7205.142857142857
+P033,Boys' sweatshirt-LEO,Sweatshirts,90,7205.142857142857,M009,Poly Bag,Packaging,1.0,piece,7,7205.142857142857
+P034,Boys' sweatshirt-black and white,Sweatshirts,30,192.71428571428555,M001,Single Jersey Cotton 160 GSM,Fabric,0.9,meter,10,173.442857142857
+P034,Boys' sweatshirt-black and white,Sweatshirts,30,192.71428571428555,M006,Sewing Thread,Trims,0.022,cone,14,4.239714285714282
+P034,Boys' sweatshirt-black and white,Sweatshirts,30,192.71428571428555,M007,Neck Label,Trims,1.0,piece,7,192.71428571428555
+P034,Boys' sweatshirt-black and white,Sweatshirts,30,192.71428571428555,M008,Care Label,Trims,1.0,piece,14,192.71428571428555
+P034,Boys' sweatshirt-black and white,Sweatshirts,30,192.71428571428555,M009,Poly Bag,Packaging,1.0,piece,7,192.71428571428555
+P034,Boys' sweatshirt-black and white,Sweatshirts,60,1167.8571428571422,M001,Single Jersey Cotton 160 GSM,Fabric,0.9,meter,10,1051.071428571428
+P034,Boys' sweatshirt-black and white,Sweatshirts,60,1167.8571428571422,M006,Sewing Thread,Trims,0.022,cone,14,25.69285714285713
+P034,Boys' sweatshirt-black and white,Sweatshirts,60,1167.8571428571422,M007,Neck Label,Trims,1.0,piece,7,1167.8571428571422
+P034,Boys' sweatshirt-black and white,Sweatshirts,60,1167.8571428571422,M008,Care Label,Trims,1.0,piece,14,1167.8571428571422
+P034,Boys' sweatshirt-black and white,Sweatshirts,60,1167.8571428571422,M009,Poly Bag,Packaging,1.0,piece,7,1167.8571428571422
+P034,Boys' sweatshirt-black and white,Sweatshirts,90,1926.428571428572,M001,Single Jersey Cotton 160 GSM,Fabric,0.9,meter,10,1733.785714285715
+P034,Boys' sweatshirt-black and white,Sweatshirts,90,1926.428571428572,M006,Sewing Thread,Trims,0.022,cone,14,42.38142857142858
+P034,Boys' sweatshirt-black and white,Sweatshirts,90,1926.428571428572,M007,Neck Label,Trims,1.0,piece,7,1926.428571428572
+P034,Boys' sweatshirt-black and white,Sweatshirts,90,1926.428571428572,M008,Care Label,Trims,1.0,piece,14,1926.428571428572
+P034,Boys' sweatshirt-black and white,Sweatshirts,90,1926.428571428572,M009,Poly Bag,Packaging,1.0,piece,7,1926.428571428572
+P035,Girls' sweatshirt-Fuchsia,Sweatshirts,30,598.8571428571427,M004,Summer Melton,Fabric,0.51,meter,10,305.4171428571428
+P035,Girls' sweatshirt-Fuchsia,Sweatshirts,30,598.8571428571427,M006,Sewing Thread,Trims,0.016,cone,14,9.581714285714282
+P035,Girls' sweatshirt-Fuchsia,Sweatshirts,30,598.8571428571427,M007,Neck Label,Trims,1.0,piece,7,598.8571428571427
+P035,Girls' sweatshirt-Fuchsia,Sweatshirts,30,598.8571428571427,M008,Care Label,Trims,1.0,piece,14,598.8571428571427
+P035,Girls' sweatshirt-Fuchsia,Sweatshirts,30,598.8571428571427,M009,Poly Bag,Packaging,1.0,piece,7,598.8571428571427
+P035,Girls' sweatshirt-Fuchsia,Sweatshirts,60,1634.8571428571436,M004,Summer Melton,Fabric,0.51,meter,10,833.7771428571432
+P035,Girls' sweatshirt-Fuchsia,Sweatshirts,60,1634.8571428571436,M006,Sewing Thread,Trims,0.016,cone,14,26.1577142857143
+P035,Girls' sweatshirt-Fuchsia,Sweatshirts,60,1634.8571428571436,M007,Neck Label,Trims,1.0,piece,7,1634.8571428571436
+P035,Girls' sweatshirt-Fuchsia,Sweatshirts,60,1634.8571428571436,M008,Care Label,Trims,1.0,piece,14,1634.8571428571436
+P035,Girls' sweatshirt-Fuchsia,Sweatshirts,60,1634.8571428571436,M009,Poly Bag,Packaging,1.0,piece,7,1634.8571428571436
+P035,Girls' sweatshirt-Fuchsia,Sweatshirts,90,3249.857142857143,M004,Summer Melton,Fabric,0.51,meter,10,1657.427142857143
+P035,Girls' sweatshirt-Fuchsia,Sweatshirts,90,3249.857142857143,M006,Sewing Thread,Trims,0.016,cone,14,51.99771428571429
+P035,Girls' sweatshirt-Fuchsia,Sweatshirts,90,3249.857142857143,M007,Neck Label,Trims,1.0,piece,7,3249.857142857143
+P035,Girls' sweatshirt-Fuchsia,Sweatshirts,90,3249.857142857143,M008,Care Label,Trims,1.0,piece,14,3249.857142857143
+P035,Girls' sweatshirt-Fuchsia,Sweatshirts,90,3249.857142857143,M009,Poly Bag,Packaging,1.0,piece,7,3249.857142857143
+P036,Girls' sweatshirt-Tinker Bell,Sweatshirts,30,800.5714285714284,M003,Rib Cotton,Fabric,0.51,meter,10,408.2914285714285
+P036,Girls' sweatshirt-Tinker Bell,Sweatshirts,30,800.5714285714284,M006,Sewing Thread,Trims,0.031,cone,14,24.81771428571428
+P036,Girls' sweatshirt-Tinker Bell,Sweatshirts,30,800.5714285714284,M007,Neck Label,Trims,1.0,piece,7,800.5714285714284
+P036,Girls' sweatshirt-Tinker Bell,Sweatshirts,30,800.5714285714284,M008,Care Label,Trims,1.0,piece,14,800.5714285714284
+P036,Girls' sweatshirt-Tinker Bell,Sweatshirts,30,800.5714285714284,M009,Poly Bag,Packaging,1.0,piece,7,800.5714285714284
+P036,Girls' sweatshirt-Tinker Bell,Sweatshirts,60,1820.5714285714287,M003,Rib Cotton,Fabric,0.51,meter,10,928.4914285714286
+P036,Girls' sweatshirt-Tinker Bell,Sweatshirts,60,1820.5714285714287,M006,Sewing Thread,Trims,0.031,cone,14,56.437714285714286
+P036,Girls' sweatshirt-Tinker Bell,Sweatshirts,60,1820.5714285714287,M007,Neck Label,Trims,1.0,piece,7,1820.5714285714287
+P036,Girls' sweatshirt-Tinker Bell,Sweatshirts,60,1820.5714285714287,M008,Care Label,Trims,1.0,piece,14,1820.5714285714287
+P036,Girls' sweatshirt-Tinker Bell,Sweatshirts,60,1820.5714285714287,M009,Poly Bag,Packaging,1.0,piece,7,1820.5714285714287
+P036,Girls' sweatshirt-Tinker Bell,Sweatshirts,90,2932.7142857142862,M003,Rib Cotton,Fabric,0.51,meter,10,1495.684285714286
+P036,Girls' sweatshirt-Tinker Bell,Sweatshirts,90,2932.7142857142862,M006,Sewing Thread,Trims,0.031,cone,14,90.91414285714288
+P036,Girls' sweatshirt-Tinker Bell,Sweatshirts,90,2932.7142857142862,M007,Neck Label,Trims,1.0,piece,7,2932.7142857142862
+P036,Girls' sweatshirt-Tinker Bell,Sweatshirts,90,2932.7142857142862,M008,Care Label,Trims,1.0,piece,14,2932.7142857142862
+P036,Girls' sweatshirt-Tinker Bell,Sweatshirts,90,2932.7142857142862,M009,Poly Bag,Packaging,1.0,piece,7,2932.7142857142862
+P037,Girls' sweatshirt-Flower,Sweatshirts,30,806.1428571428564,M001,Single Jersey Cotton 160 GSM,Fabric,0.96,meter,10,773.8971428571422
+P037,Girls' sweatshirt-Flower,Sweatshirts,30,806.1428571428564,M006,Sewing Thread,Trims,0.023,cone,14,18.5412857142857
+P037,Girls' sweatshirt-Flower,Sweatshirts,30,806.1428571428564,M007,Neck Label,Trims,1.0,piece,7,806.1428571428564
+P037,Girls' sweatshirt-Flower,Sweatshirts,30,806.1428571428564,M008,Care Label,Trims,1.0,piece,14,806.1428571428564
+P037,Girls' sweatshirt-Flower,Sweatshirts,30,806.1428571428564,M009,Poly Bag,Packaging,1.0,piece,7,806.1428571428564
+P037,Girls' sweatshirt-Flower,Sweatshirts,60,4483.142857142859,M001,Single Jersey Cotton 160 GSM,Fabric,0.96,meter,10,4303.817142857144
+P037,Girls' sweatshirt-Flower,Sweatshirts,60,4483.142857142859,M006,Sewing Thread,Trims,0.023,cone,14,103.11228571428575
+P037,Girls' sweatshirt-Flower,Sweatshirts,60,4483.142857142859,M007,Neck Label,Trims,1.0,piece,7,4483.142857142859
+P037,Girls' sweatshirt-Flower,Sweatshirts,60,4483.142857142859,M008,Care Label,Trims,1.0,piece,14,4483.142857142859
+P037,Girls' sweatshirt-Flower,Sweatshirts,60,4483.142857142859,M009,Poly Bag,Packaging,1.0,piece,7,4483.142857142859
+P037,Girls' sweatshirt-Flower,Sweatshirts,90,8318.857142857145,M001,Single Jersey Cotton 160 GSM,Fabric,0.96,meter,10,7986.102857142859
+P037,Girls' sweatshirt-Flower,Sweatshirts,90,8318.857142857145,M006,Sewing Thread,Trims,0.023,cone,14,191.33371428571434
+P037,Girls' sweatshirt-Flower,Sweatshirts,90,8318.857142857145,M007,Neck Label,Trims,1.0,piece,7,8318.857142857145
+P037,Girls' sweatshirt-Flower,Sweatshirts,90,8318.857142857145,M008,Care Label,Trims,1.0,piece,14,8318.857142857145
+P037,Girls' sweatshirt-Flower,Sweatshirts,90,8318.857142857145,M009,Poly Bag,Packaging,1.0,piece,7,8318.857142857145
+P038,Boys' Autumn Pajamas-Mickey Mouse,Pajamas/Homewear,30,1449.714285714285,M002,Single Jersey Cotton 180 GSM,Fabric,1.05,meter,14,1522.1999999999994
+P038,Boys' Autumn Pajamas-Mickey Mouse,Pajamas/Homewear,30,1449.714285714285,M006,Sewing Thread,Trims,0.025,cone,14,36.242857142857126
+P038,Boys' Autumn Pajamas-Mickey Mouse,Pajamas/Homewear,30,1449.714285714285,M007,Neck Label,Trims,1.0,piece,7,1449.714285714285
+P038,Boys' Autumn Pajamas-Mickey Mouse,Pajamas/Homewear,30,1449.714285714285,M008,Care Label,Trims,1.0,piece,14,1449.714285714285
+P038,Boys' Autumn Pajamas-Mickey Mouse,Pajamas/Homewear,30,1449.714285714285,M009,Poly Bag,Packaging,1.0,piece,7,1449.714285714285
+P038,Boys' Autumn Pajamas-Mickey Mouse,Pajamas/Homewear,60,3331.4285714285706,M002,Single Jersey Cotton 180 GSM,Fabric,1.05,meter,14,3497.9999999999995
+P038,Boys' Autumn Pajamas-Mickey Mouse,Pajamas/Homewear,60,3331.4285714285706,M006,Sewing Thread,Trims,0.025,cone,14,83.28571428571428
+P038,Boys' Autumn Pajamas-Mickey Mouse,Pajamas/Homewear,60,3331.4285714285706,M007,Neck Label,Trims,1.0,piece,7,3331.4285714285706
+P038,Boys' Autumn Pajamas-Mickey Mouse,Pajamas/Homewear,60,3331.4285714285706,M008,Care Label,Trims,1.0,piece,14,3331.4285714285706
+P038,Boys' Autumn Pajamas-Mickey Mouse,Pajamas/Homewear,60,3331.4285714285706,M009,Poly Bag,Packaging,1.0,piece,7,3331.4285714285706
+P038,Boys' Autumn Pajamas-Mickey Mouse,Pajamas/Homewear,90,6856.857142857143,M002,Single Jersey Cotton 180 GSM,Fabric,1.05,meter,14,7199.700000000001
+P038,Boys' Autumn Pajamas-Mickey Mouse,Pajamas/Homewear,90,6856.857142857143,M006,Sewing Thread,Trims,0.025,cone,14,171.42142857142858
+P038,Boys' Autumn Pajamas-Mickey Mouse,Pajamas/Homewear,90,6856.857142857143,M007,Neck Label,Trims,1.0,piece,7,6856.857142857143
+P038,Boys' Autumn Pajamas-Mickey Mouse,Pajamas/Homewear,90,6856.857142857143,M008,Care Label,Trims,1.0,piece,14,6856.857142857143
+P038,Boys' Autumn Pajamas-Mickey Mouse,Pajamas/Homewear,90,6856.857142857143,M009,Poly Bag,Packaging,1.0,piece,7,6856.857142857143
+P039,Boys' Autumn Pajamas-Spider Man,Pajamas/Homewear,30,1639.7142857142862,M003,Rib Cotton,Fabric,0.78,meter,10,1278.9771428571432
+P039,Boys' Autumn Pajamas-Spider Man,Pajamas/Homewear,30,1639.7142857142862,M006,Sewing Thread,Trims,0.03,cone,14,49.19142857142859
+P039,Boys' Autumn Pajamas-Spider Man,Pajamas/Homewear,30,1639.7142857142862,M007,Neck Label,Trims,1.0,piece,7,1639.7142857142862
+P039,Boys' Autumn Pajamas-Spider Man,Pajamas/Homewear,30,1639.7142857142862,M008,Care Label,Trims,1.0,piece,14,1639.7142857142862
+P039,Boys' Autumn Pajamas-Spider Man,Pajamas/Homewear,30,1639.7142857142862,M009,Poly Bag,Packaging,1.0,piece,7,1639.7142857142862
+P039,Boys' Autumn Pajamas-Spider Man,Pajamas/Homewear,30,1639.7142857142862,M012,Heat Transfer Film,Printing,0.032,sheet,7,52.47085714285716
+P039,Boys' Autumn Pajamas-Spider Man,Pajamas/Homewear,60,3644.142857142857,M003,Rib Cotton,Fabric,0.78,meter,10,2842.4314285714286
+P039,Boys' Autumn Pajamas-Spider Man,Pajamas/Homewear,60,3644.142857142857,M006,Sewing Thread,Trims,0.03,cone,14,109.32428571428571
+P039,Boys' Autumn Pajamas-Spider Man,Pajamas/Homewear,60,3644.142857142857,M007,Neck Label,Trims,1.0,piece,7,3644.142857142857
+P039,Boys' Autumn Pajamas-Spider Man,Pajamas/Homewear,60,3644.142857142857,M008,Care Label,Trims,1.0,piece,14,3644.142857142857
+P039,Boys' Autumn Pajamas-Spider Man,Pajamas/Homewear,60,3644.142857142857,M009,Poly Bag,Packaging,1.0,piece,7,3644.142857142857
+P039,Boys' Autumn Pajamas-Spider Man,Pajamas/Homewear,60,3644.142857142857,M012,Heat Transfer Film,Printing,0.032,sheet,7,116.61257142857143
+P039,Boys' Autumn Pajamas-Spider Man,Pajamas/Homewear,90,6424.999999999999,M003,Rib Cotton,Fabric,0.78,meter,10,5011.499999999999
+P039,Boys' Autumn Pajamas-Spider Man,Pajamas/Homewear,90,6424.999999999999,M006,Sewing Thread,Trims,0.03,cone,14,192.74999999999997
+P039,Boys' Autumn Pajamas-Spider Man,Pajamas/Homewear,90,6424.999999999999,M007,Neck Label,Trims,1.0,piece,7,6424.999999999999
+P039,Boys' Autumn Pajamas-Spider Man,Pajamas/Homewear,90,6424.999999999999,M008,Care Label,Trims,1.0,piece,14,6424.999999999999
+P039,Boys' Autumn Pajamas-Spider Man,Pajamas/Homewear,90,6424.999999999999,M009,Poly Bag,Packaging,1.0,piece,7,6424.999999999999
+P039,Boys' Autumn Pajamas-Spider Man,Pajamas/Homewear,90,6424.999999999999,M012,Heat Transfer Film,Printing,0.032,sheet,7,205.59999999999997
+P040,Boys' Autumn Pajamas-Loony Tunes,Pajamas/Homewear,30,300.2857142857141,M001,Single Jersey Cotton 160 GSM,Fabric,0.56,meter,10,168.1599999999999
+P040,Boys' Autumn Pajamas-Loony Tunes,Pajamas/Homewear,30,300.2857142857141,M006,Sewing Thread,Trims,0.027,cone,14,8.10771428571428
+P040,Boys' Autumn Pajamas-Loony Tunes,Pajamas/Homewear,30,300.2857142857141,M007,Neck Label,Trims,1.0,piece,7,300.2857142857141
+P040,Boys' Autumn Pajamas-Loony Tunes,Pajamas/Homewear,30,300.2857142857141,M008,Care Label,Trims,1.0,piece,14,300.2857142857141
+P040,Boys' Autumn Pajamas-Loony Tunes,Pajamas/Homewear,30,300.2857142857141,M009,Poly Bag,Packaging,1.0,piece,7,300.2857142857141
+P040,Boys' Autumn Pajamas-Loony Tunes,Pajamas/Homewear,30,300.2857142857141,M011,Water-Based Ink,Printing,0.053,kg,21,15.915142857142847
+P040,Boys' Autumn Pajamas-Loony Tunes,Pajamas/Homewear,60,1427.428571428571,M001,Single Jersey Cotton 160 GSM,Fabric,0.56,meter,10,799.3599999999999
+P040,Boys' Autumn Pajamas-Loony Tunes,Pajamas/Homewear,60,1427.428571428571,M006,Sewing Thread,Trims,0.027,cone,14,38.54057142857142
+P040,Boys' Autumn Pajamas-Loony Tunes,Pajamas/Homewear,60,1427.428571428571,M007,Neck Label,Trims,1.0,piece,7,1427.428571428571
+P040,Boys' Autumn Pajamas-Loony Tunes,Pajamas/Homewear,60,1427.428571428571,M008,Care Label,Trims,1.0,piece,14,1427.428571428571
+P040,Boys' Autumn Pajamas-Loony Tunes,Pajamas/Homewear,60,1427.428571428571,M009,Poly Bag,Packaging,1.0,piece,7,1427.428571428571
+P040,Boys' Autumn Pajamas-Loony Tunes,Pajamas/Homewear,60,1427.428571428571,M011,Water-Based Ink,Printing,0.053,kg,21,75.65371428571427
+P040,Boys' Autumn Pajamas-Loony Tunes,Pajamas/Homewear,90,2550.2857142857147,M001,Single Jersey Cotton 160 GSM,Fabric,0.56,meter,10,1428.1600000000003
+P040,Boys' Autumn Pajamas-Loony Tunes,Pajamas/Homewear,90,2550.2857142857147,M006,Sewing Thread,Trims,0.027,cone,14,68.8577142857143
+P040,Boys' Autumn Pajamas-Loony Tunes,Pajamas/Homewear,90,2550.2857142857147,M007,Neck Label,Trims,1.0,piece,7,2550.2857142857147
+P040,Boys' Autumn Pajamas-Loony Tunes,Pajamas/Homewear,90,2550.2857142857147,M008,Care Label,Trims,1.0,piece,14,2550.2857142857147
+P040,Boys' Autumn Pajamas-Loony Tunes,Pajamas/Homewear,90,2550.2857142857147,M009,Poly Bag,Packaging,1.0,piece,7,2550.2857142857147
+P040,Boys' Autumn Pajamas-Loony Tunes,Pajamas/Homewear,90,2550.2857142857147,M011,Water-Based Ink,Printing,0.053,kg,21,135.16514285714288
+P041,Boys' Autumn Pajamas-Jurassic Park,Pajamas/Homewear,30,0.0,M001,Single Jersey Cotton 160 GSM,Fabric,0.92,meter,10,0.0
+P041,Boys' Autumn Pajamas-Jurassic Park,Pajamas/Homewear,30,0.0,M006,Sewing Thread,Trims,0.025,cone,14,0.0
+P041,Boys' Autumn Pajamas-Jurassic Park,Pajamas/Homewear,30,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P041,Boys' Autumn Pajamas-Jurassic Park,Pajamas/Homewear,30,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P041,Boys' Autumn Pajamas-Jurassic Park,Pajamas/Homewear,30,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P041,Boys' Autumn Pajamas-Jurassic Park,Pajamas/Homewear,60,0.0,M001,Single Jersey Cotton 160 GSM,Fabric,0.92,meter,10,0.0
+P041,Boys' Autumn Pajamas-Jurassic Park,Pajamas/Homewear,60,0.0,M006,Sewing Thread,Trims,0.025,cone,14,0.0
+P041,Boys' Autumn Pajamas-Jurassic Park,Pajamas/Homewear,60,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P041,Boys' Autumn Pajamas-Jurassic Park,Pajamas/Homewear,60,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P041,Boys' Autumn Pajamas-Jurassic Park,Pajamas/Homewear,60,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P041,Boys' Autumn Pajamas-Jurassic Park,Pajamas/Homewear,90,0.0,M001,Single Jersey Cotton 160 GSM,Fabric,0.92,meter,10,0.0
+P041,Boys' Autumn Pajamas-Jurassic Park,Pajamas/Homewear,90,0.0,M006,Sewing Thread,Trims,0.025,cone,14,0.0
+P041,Boys' Autumn Pajamas-Jurassic Park,Pajamas/Homewear,90,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P041,Boys' Autumn Pajamas-Jurassic Park,Pajamas/Homewear,90,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P041,Boys' Autumn Pajamas-Jurassic Park,Pajamas/Homewear,90,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P042,Girls' autumn pajamas-Cheeky Charmins,Pajamas/Homewear,30,767.9001192047948,M004,Summer Melton,Fabric,0.87,meter,10,668.0731037081715
+P042,Girls' autumn pajamas-Cheeky Charmins,Pajamas/Homewear,30,767.9001192047948,M006,Sewing Thread,Trims,0.03,cone,14,23.037003576143842
+P042,Girls' autumn pajamas-Cheeky Charmins,Pajamas/Homewear,30,767.9001192047948,M007,Neck Label,Trims,1.0,piece,7,767.9001192047948
+P042,Girls' autumn pajamas-Cheeky Charmins,Pajamas/Homewear,30,767.9001192047948,M008,Care Label,Trims,1.0,piece,14,767.9001192047948
+P042,Girls' autumn pajamas-Cheeky Charmins,Pajamas/Homewear,30,767.9001192047948,M009,Poly Bag,Packaging,1.0,piece,7,767.9001192047948
+P042,Girls' autumn pajamas-Cheeky Charmins,Pajamas/Homewear,30,767.9001192047948,M011,Water-Based Ink,Printing,0.033,kg,21,25.34070393375823
+P042,Girls' autumn pajamas-Cheeky Charmins,Pajamas/Homewear,60,1504.8571428571431,M004,Summer Melton,Fabric,0.87,meter,10,1309.2257142857145
+P042,Girls' autumn pajamas-Cheeky Charmins,Pajamas/Homewear,60,1504.8571428571431,M006,Sewing Thread,Trims,0.03,cone,14,45.14571428571429
+P042,Girls' autumn pajamas-Cheeky Charmins,Pajamas/Homewear,60,1504.8571428571431,M007,Neck Label,Trims,1.0,piece,7,1504.8571428571431
+P042,Girls' autumn pajamas-Cheeky Charmins,Pajamas/Homewear,60,1504.8571428571431,M008,Care Label,Trims,1.0,piece,14,1504.8571428571431
+P042,Girls' autumn pajamas-Cheeky Charmins,Pajamas/Homewear,60,1504.8571428571431,M009,Poly Bag,Packaging,1.0,piece,7,1504.8571428571431
+P042,Girls' autumn pajamas-Cheeky Charmins,Pajamas/Homewear,60,1504.8571428571431,M011,Water-Based Ink,Printing,0.033,kg,21,49.66028571428573
+P042,Girls' autumn pajamas-Cheeky Charmins,Pajamas/Homewear,90,2372.8571428571427,M004,Summer Melton,Fabric,0.87,meter,10,2064.385714285714
+P042,Girls' autumn pajamas-Cheeky Charmins,Pajamas/Homewear,90,2372.8571428571427,M006,Sewing Thread,Trims,0.03,cone,14,71.18571428571428
+P042,Girls' autumn pajamas-Cheeky Charmins,Pajamas/Homewear,90,2372.8571428571427,M007,Neck Label,Trims,1.0,piece,7,2372.8571428571427
+P042,Girls' autumn pajamas-Cheeky Charmins,Pajamas/Homewear,90,2372.8571428571427,M008,Care Label,Trims,1.0,piece,14,2372.8571428571427
+P042,Girls' autumn pajamas-Cheeky Charmins,Pajamas/Homewear,90,2372.8571428571427,M009,Poly Bag,Packaging,1.0,piece,7,2372.8571428571427
+P042,Girls' autumn pajamas-Cheeky Charmins,Pajamas/Homewear,90,2372.8571428571427,M011,Water-Based Ink,Printing,0.033,kg,21,78.30428571428571
+P043,Girls' autumn pajamas-Snow White,Pajamas/Homewear,30,1400.3493880426258,M002,Single Jersey Cotton 180 GSM,Fabric,0.73,meter,14,1022.2550532711168
+P043,Girls' autumn pajamas-Snow White,Pajamas/Homewear,30,1400.3493880426258,M006,Sewing Thread,Trims,0.017,cone,14,23.80593959672464
+P043,Girls' autumn pajamas-Snow White,Pajamas/Homewear,30,1400.3493880426258,M007,Neck Label,Trims,1.0,piece,7,1400.3493880426258
+P043,Girls' autumn pajamas-Snow White,Pajamas/Homewear,30,1400.3493880426258,M008,Care Label,Trims,1.0,piece,14,1400.3493880426258
+P043,Girls' autumn pajamas-Snow White,Pajamas/Homewear,30,1400.3493880426258,M009,Poly Bag,Packaging,1.0,piece,7,1400.3493880426258
+P043,Girls' autumn pajamas-Snow White,Pajamas/Homewear,30,1400.3493880426258,M012,Heat Transfer Film,Printing,0.025,sheet,7,35.00873470106565
+P043,Girls' autumn pajamas-Snow White,Pajamas/Homewear,60,3149.1428571428573,M002,Single Jersey Cotton 180 GSM,Fabric,0.73,meter,14,2298.8742857142856
+P043,Girls' autumn pajamas-Snow White,Pajamas/Homewear,60,3149.1428571428573,M006,Sewing Thread,Trims,0.017,cone,14,53.535428571428575
+P043,Girls' autumn pajamas-Snow White,Pajamas/Homewear,60,3149.1428571428573,M007,Neck Label,Trims,1.0,piece,7,3149.1428571428573
+P043,Girls' autumn pajamas-Snow White,Pajamas/Homewear,60,3149.1428571428573,M008,Care Label,Trims,1.0,piece,14,3149.1428571428573
+P043,Girls' autumn pajamas-Snow White,Pajamas/Homewear,60,3149.1428571428573,M009,Poly Bag,Packaging,1.0,piece,7,3149.1428571428573
+P043,Girls' autumn pajamas-Snow White,Pajamas/Homewear,60,3149.1428571428573,M012,Heat Transfer Film,Printing,0.025,sheet,7,78.72857142857144
+P043,Girls' autumn pajamas-Snow White,Pajamas/Homewear,90,5799.000000000001,M002,Single Jersey Cotton 180 GSM,Fabric,0.73,meter,14,4233.27
+P043,Girls' autumn pajamas-Snow White,Pajamas/Homewear,90,5799.000000000001,M006,Sewing Thread,Trims,0.017,cone,14,98.58300000000003
+P043,Girls' autumn pajamas-Snow White,Pajamas/Homewear,90,5799.000000000001,M007,Neck Label,Trims,1.0,piece,7,5799.000000000001
+P043,Girls' autumn pajamas-Snow White,Pajamas/Homewear,90,5799.000000000001,M008,Care Label,Trims,1.0,piece,14,5799.000000000001
+P043,Girls' autumn pajamas-Snow White,Pajamas/Homewear,90,5799.000000000001,M009,Poly Bag,Packaging,1.0,piece,7,5799.000000000001
+P043,Girls' autumn pajamas-Snow White,Pajamas/Homewear,90,5799.000000000001,M012,Heat Transfer Film,Printing,0.025,sheet,7,144.97500000000002
+P044,Girls' autumn pajamas-Ice Cream,Pajamas/Homewear,30,1383.186932005823,M001,Single Jersey Cotton 160 GSM,Fabric,0.71,meter,10,982.0627217241343
+P044,Girls' autumn pajamas-Ice Cream,Pajamas/Homewear,30,1383.186932005823,M006,Sewing Thread,Trims,0.017,cone,14,23.514177844098995
+P044,Girls' autumn pajamas-Ice Cream,Pajamas/Homewear,30,1383.186932005823,M007,Neck Label,Trims,1.0,piece,7,1383.186932005823
+P044,Girls' autumn pajamas-Ice Cream,Pajamas/Homewear,30,1383.186932005823,M008,Care Label,Trims,1.0,piece,14,1383.186932005823
+P044,Girls' autumn pajamas-Ice Cream,Pajamas/Homewear,30,1383.186932005823,M009,Poly Bag,Packaging,1.0,piece,7,1383.186932005823
+P044,Girls' autumn pajamas-Ice Cream,Pajamas/Homewear,30,1383.186932005823,M012,Heat Transfer Film,Printing,0.059,sheet,7,81.60802898834356
+P044,Girls' autumn pajamas-Ice Cream,Pajamas/Homewear,60,3192.6683141664193,M001,Single Jersey Cotton 160 GSM,Fabric,0.71,meter,10,2266.7945030581577
+P044,Girls' autumn pajamas-Ice Cream,Pajamas/Homewear,60,3192.6683141664193,M006,Sewing Thread,Trims,0.017,cone,14,54.275361340829136
+P044,Girls' autumn pajamas-Ice Cream,Pajamas/Homewear,60,3192.6683141664193,M007,Neck Label,Trims,1.0,piece,7,3192.6683141664193
+P044,Girls' autumn pajamas-Ice Cream,Pajamas/Homewear,60,3192.6683141664193,M008,Care Label,Trims,1.0,piece,14,3192.6683141664193
+P044,Girls' autumn pajamas-Ice Cream,Pajamas/Homewear,60,3192.6683141664193,M009,Poly Bag,Packaging,1.0,piece,7,3192.6683141664193
+P044,Girls' autumn pajamas-Ice Cream,Pajamas/Homewear,60,3192.6683141664193,M012,Heat Transfer Film,Printing,0.059,sheet,7,188.36743053581873
+P044,Girls' autumn pajamas-Ice Cream,Pajamas/Homewear,90,5536.428571428572,M001,Single Jersey Cotton 160 GSM,Fabric,0.71,meter,10,3930.8642857142854
+P044,Girls' autumn pajamas-Ice Cream,Pajamas/Homewear,90,5536.428571428572,M006,Sewing Thread,Trims,0.017,cone,14,94.11928571428572
+P044,Girls' autumn pajamas-Ice Cream,Pajamas/Homewear,90,5536.428571428572,M007,Neck Label,Trims,1.0,piece,7,5536.428571428572
+P044,Girls' autumn pajamas-Ice Cream,Pajamas/Homewear,90,5536.428571428572,M008,Care Label,Trims,1.0,piece,14,5536.428571428572
+P044,Girls' autumn pajamas-Ice Cream,Pajamas/Homewear,90,5536.428571428572,M009,Poly Bag,Packaging,1.0,piece,7,5536.428571428572
+P044,Girls' autumn pajamas-Ice Cream,Pajamas/Homewear,90,5536.428571428572,M012,Heat Transfer Film,Printing,0.059,sheet,7,326.6492857142857
+P045,Girls' autumn pajamas-Stitch,Pajamas/Homewear,30,1149.7142857142862,M001,Single Jersey Cotton 160 GSM,Fabric,0.99,meter,10,1138.2171428571435
+P045,Girls' autumn pajamas-Stitch,Pajamas/Homewear,30,1149.7142857142862,M006,Sewing Thread,Trims,0.021,cone,14,24.144000000000013
+P045,Girls' autumn pajamas-Stitch,Pajamas/Homewear,30,1149.7142857142862,M007,Neck Label,Trims,1.0,piece,7,1149.7142857142862
+P045,Girls' autumn pajamas-Stitch,Pajamas/Homewear,30,1149.7142857142862,M008,Care Label,Trims,1.0,piece,14,1149.7142857142862
+P045,Girls' autumn pajamas-Stitch,Pajamas/Homewear,30,1149.7142857142862,M009,Poly Bag,Packaging,1.0,piece,7,1149.7142857142862
+P045,Girls' autumn pajamas-Stitch,Pajamas/Homewear,60,2774.3842995962573,M001,Single Jersey Cotton 160 GSM,Fabric,0.99,meter,10,2746.640456600295
+P045,Girls' autumn pajamas-Stitch,Pajamas/Homewear,60,2774.3842995962573,M006,Sewing Thread,Trims,0.021,cone,14,58.262070291521404
+P045,Girls' autumn pajamas-Stitch,Pajamas/Homewear,60,2774.3842995962573,M007,Neck Label,Trims,1.0,piece,7,2774.3842995962573
+P045,Girls' autumn pajamas-Stitch,Pajamas/Homewear,60,2774.3842995962573,M008,Care Label,Trims,1.0,piece,14,2774.3842995962573
+P045,Girls' autumn pajamas-Stitch,Pajamas/Homewear,60,2774.3842995962573,M009,Poly Bag,Packaging,1.0,piece,7,2774.3842995962573
+P045,Girls' autumn pajamas-Stitch,Pajamas/Homewear,90,5755.857142857143,M001,Single Jersey Cotton 160 GSM,Fabric,0.99,meter,10,5698.298571428571
+P045,Girls' autumn pajamas-Stitch,Pajamas/Homewear,90,5755.857142857143,M006,Sewing Thread,Trims,0.021,cone,14,120.87300000000002
+P045,Girls' autumn pajamas-Stitch,Pajamas/Homewear,90,5755.857142857143,M007,Neck Label,Trims,1.0,piece,7,5755.857142857143
+P045,Girls' autumn pajamas-Stitch,Pajamas/Homewear,90,5755.857142857143,M008,Care Label,Trims,1.0,piece,14,5755.857142857143
+P045,Girls' autumn pajamas-Stitch,Pajamas/Homewear,90,5755.857142857143,M009,Poly Bag,Packaging,1.0,piece,7,5755.857142857143
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,326.65880704889946,M004,Summer Melton,Fabric,0.54,meter,10,176.39575580640573
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,326.65880704889946,M006,Sewing Thread,Trims,0.015,cone,14,4.899882105733492
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,326.65880704889946,M007,Neck Label,Trims,1.0,piece,7,326.65880704889946
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,326.65880704889946,M008,Care Label,Trims,1.0,piece,14,326.65880704889946
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,326.65880704889946,M009,Poly Bag,Packaging,1.0,piece,7,326.65880704889946
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,326.65880704889946,M012,Heat Transfer Film,Printing,0.018,sheet,7,5.87985852688019
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,561.4285714285716,M004,Summer Melton,Fabric,0.54,meter,10,303.17142857142863
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,561.4285714285716,M006,Sewing Thread,Trims,0.015,cone,14,8.421428571428573
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,561.4285714285716,M007,Neck Label,Trims,1.0,piece,7,561.4285714285716
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,561.4285714285716,M008,Care Label,Trims,1.0,piece,14,561.4285714285716
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,561.4285714285716,M009,Poly Bag,Packaging,1.0,piece,7,561.4285714285716
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,561.4285714285716,M012,Heat Transfer Film,Printing,0.018,sheet,7,10.105714285714287
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,1386.857142857143,M004,Summer Melton,Fabric,0.54,meter,10,748.9028571428572
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,1386.857142857143,M006,Sewing Thread,Trims,0.015,cone,14,20.802857142857142
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,1386.857142857143,M007,Neck Label,Trims,1.0,piece,7,1386.857142857143
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,1386.857142857143,M008,Care Label,Trims,1.0,piece,14,1386.857142857143
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,1386.857142857143,M009,Poly Bag,Packaging,1.0,piece,7,1386.857142857143
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,1386.857142857143,M012,Heat Transfer Film,Printing,0.018,sheet,7,24.96342857142857
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,6.571428571428555,M003,Rib Cotton,Fabric,0.56,meter,10,3.6799999999999913
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,6.571428571428555,M006,Sewing Thread,Trims,0.031,cone,14,0.2037142857142852
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,6.571428571428555,M007,Neck Label,Trims,1.0,piece,7,6.571428571428555
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,6.571428571428555,M008,Care Label,Trims,1.0,piece,14,6.571428571428555
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,6.571428571428555,M009,Poly Bag,Packaging,1.0,piece,7,6.571428571428555
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,6.571428571428555,M011,Water-Based Ink,Printing,0.017,kg,21,0.11171428571428545
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,538.7634436913445,M003,Rib Cotton,Fabric,0.56,meter,10,301.70752846715294
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,538.7634436913445,M006,Sewing Thread,Trims,0.031,cone,14,16.701666754431677
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,538.7634436913445,M007,Neck Label,Trims,1.0,piece,7,538.7634436913445
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,538.7634436913445,M008,Care Label,Trims,1.0,piece,14,538.7634436913445
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,538.7634436913445,M009,Poly Bag,Packaging,1.0,piece,7,538.7634436913445
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,538.7634436913445,M011,Water-Based Ink,Printing,0.017,kg,21,9.158978542752857
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,820.8185723841796,M003,Rib Cotton,Fabric,0.56,meter,10,459.6584005351406
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,820.8185723841796,M006,Sewing Thread,Trims,0.031,cone,14,25.445375743909565
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,820.8185723841796,M007,Neck Label,Trims,1.0,piece,7,820.8185723841796
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,820.8185723841796,M008,Care Label,Trims,1.0,piece,14,820.8185723841796
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,820.8185723841796,M009,Poly Bag,Packaging,1.0,piece,7,820.8185723841796
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,820.8185723841796,M011,Water-Based Ink,Printing,0.017,kg,21,13.953915730531053
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,621.4285714285713,M003,Rib Cotton,Fabric,1.03,meter,10,640.0714285714284
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,621.4285714285713,M006,Sewing Thread,Trims,0.022,cone,14,13.671428571428569
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,621.4285714285713,M007,Neck Label,Trims,1.0,piece,7,621.4285714285713
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,621.4285714285713,M008,Care Label,Trims,1.0,piece,14,621.4285714285713
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,621.4285714285713,M009,Poly Bag,Packaging,1.0,piece,7,621.4285714285713
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,914.5714285714284,M003,Rib Cotton,Fabric,1.03,meter,10,942.0085714285714
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,914.5714285714284,M006,Sewing Thread,Trims,0.022,cone,14,20.120571428571424
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,914.5714285714284,M007,Neck Label,Trims,1.0,piece,7,914.5714285714284
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,914.5714285714284,M008,Care Label,Trims,1.0,piece,14,914.5714285714284
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,914.5714285714284,M009,Poly Bag,Packaging,1.0,piece,7,914.5714285714284
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,1647.5714285714287,M003,Rib Cotton,Fabric,1.03,meter,10,1696.9985714285715
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,1647.5714285714287,M006,Sewing Thread,Trims,0.022,cone,14,36.24657142857143
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,1647.5714285714287,M007,Neck Label,Trims,1.0,piece,7,1647.5714285714287
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,1647.5714285714287,M008,Care Label,Trims,1.0,piece,14,1647.5714285714287
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,1647.5714285714287,M009,Poly Bag,Packaging,1.0,piece,7,1647.5714285714287
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,616.4997215867826,M004,Summer Melton,Fabric,1.1,meter,10,678.1496937454609
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,616.4997215867826,M006,Sewing Thread,Trims,0.019,cone,14,11.713494710148868
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,616.4997215867826,M007,Neck Label,Trims,1.0,piece,7,616.4997215867826
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,616.4997215867826,M008,Care Label,Trims,1.0,piece,14,616.4997215867826
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,616.4997215867826,M009,Poly Bag,Packaging,1.0,piece,7,616.4997215867826
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,616.4997215867826,M011,Water-Based Ink,Printing,0.051,kg,21,31.44148580092591
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,1123.6146357402863,M004,Summer Melton,Fabric,1.1,meter,10,1235.976099314315
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,1123.6146357402863,M006,Sewing Thread,Trims,0.019,cone,14,21.34867807906544
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,1123.6146357402863,M007,Neck Label,Trims,1.0,piece,7,1123.6146357402863
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,1123.6146357402863,M008,Care Label,Trims,1.0,piece,14,1123.6146357402863
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,1123.6146357402863,M009,Poly Bag,Packaging,1.0,piece,7,1123.6146357402863
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,1123.6146357402863,M011,Water-Based Ink,Printing,0.051,kg,21,57.3043464227546
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,1691.5247571360342,M004,Summer Melton,Fabric,1.1,meter,10,1860.6772328496377
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,1691.5247571360342,M006,Sewing Thread,Trims,0.019,cone,14,32.13897038558465
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,1691.5247571360342,M007,Neck Label,Trims,1.0,piece,7,1691.5247571360342
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,1691.5247571360342,M008,Care Label,Trims,1.0,piece,14,1691.5247571360342
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,1691.5247571360342,M009,Poly Bag,Packaging,1.0,piece,7,1691.5247571360342
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,1691.5247571360342,M011,Water-Based Ink,Printing,0.051,kg,21,86.26776261393773
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,69.85714285714289,M003,Rib Cotton,Fabric,0.66,meter,10,46.105714285714306
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,69.85714285714289,M006,Sewing Thread,Trims,0.018,cone,14,1.257428571428572
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,69.85714285714289,M007,Neck Label,Trims,1.0,piece,7,69.85714285714289
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,69.85714285714289,M008,Care Label,Trims,1.0,piece,14,69.85714285714289
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,69.85714285714289,M009,Poly Bag,Packaging,1.0,piece,7,69.85714285714289
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,30,69.85714285714289,M011,Water-Based Ink,Printing,0.059,kg,21,4.12157142857143
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,309.8571428571429,M003,Rib Cotton,Fabric,0.66,meter,10,204.5057142857143
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,309.8571428571429,M006,Sewing Thread,Trims,0.018,cone,14,5.577428571428571
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,309.8571428571429,M007,Neck Label,Trims,1.0,piece,7,309.8571428571429
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,309.8571428571429,M008,Care Label,Trims,1.0,piece,14,309.8571428571429
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,309.8571428571429,M009,Poly Bag,Packaging,1.0,piece,7,309.8571428571429
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,60,309.8571428571429,M011,Water-Based Ink,Printing,0.059,kg,21,18.28157142857143
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,667.2857142857142,M003,Rib Cotton,Fabric,0.66,meter,10,440.4085714285714
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,667.2857142857142,M006,Sewing Thread,Trims,0.018,cone,14,12.011142857142856
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,667.2857142857142,M007,Neck Label,Trims,1.0,piece,7,667.2857142857142
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,667.2857142857142,M008,Care Label,Trims,1.0,piece,14,667.2857142857142
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,667.2857142857142,M009,Poly Bag,Packaging,1.0,piece,7,667.2857142857142
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,90,667.2857142857142,M011,Water-Based Ink,Printing,0.059,kg,21,39.369857142857136
+P051,Ice cream - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,633.5714285714284,M003,Rib Cotton,Fabric,1.02,meter,10,646.242857142857
+P051,Ice cream - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,633.5714285714284,M006,Sewing Thread,Trims,0.026,cone,14,16.472857142857137
+P051,Ice cream - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,633.5714285714284,M007,Neck Label,Trims,1.0,piece,7,633.5714285714284
+P051,Ice cream - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,633.5714285714284,M008,Care Label,Trims,1.0,piece,14,633.5714285714284
+P051,Ice cream - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,633.5714285714284,M009,Poly Bag,Packaging,1.0,piece,7,633.5714285714284
+P051,Ice cream - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,633.5714285714284,M011,Water-Based Ink,Printing,0.012,kg,21,7.602857142857141
+P051,Ice cream - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,1430.714285714285,M003,Rib Cotton,Fabric,1.02,meter,10,1459.3285714285707
+P051,Ice cream - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,1430.714285714285,M006,Sewing Thread,Trims,0.026,cone,14,37.19857142857141
+P051,Ice cream - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,1430.714285714285,M007,Neck Label,Trims,1.0,piece,7,1430.714285714285
+P051,Ice cream - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,1430.714285714285,M008,Care Label,Trims,1.0,piece,14,1430.714285714285
+P051,Ice cream - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,1430.714285714285,M009,Poly Bag,Packaging,1.0,piece,7,1430.714285714285
+P051,Ice cream - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,1430.714285714285,M011,Water-Based Ink,Printing,0.012,kg,21,17.168571428571422
+P051,Ice cream - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,3043.8571428571427,M003,Rib Cotton,Fabric,1.02,meter,10,3104.7342857142858
+P051,Ice cream - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,3043.8571428571427,M006,Sewing Thread,Trims,0.026,cone,14,79.14028571428571
+P051,Ice cream - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,3043.8571428571427,M007,Neck Label,Trims,1.0,piece,7,3043.8571428571427
+P051,Ice cream - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,3043.8571428571427,M008,Care Label,Trims,1.0,piece,14,3043.8571428571427
+P051,Ice cream - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,3043.8571428571427,M009,Poly Bag,Packaging,1.0,piece,7,3043.8571428571427
+P051,Ice cream - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,3043.8571428571427,M011,Water-Based Ink,Printing,0.012,kg,21,36.52628571428571
+P052,Teddy bear - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,0.0,M001,Single Jersey Cotton 160 GSM,Fabric,0.89,meter,10,0.0
+P052,Teddy bear - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,0.0,M006,Sewing Thread,Trims,0.034,cone,14,0.0
+P052,Teddy bear - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P052,Teddy bear - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P052,Teddy bear - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P052,Teddy bear - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,0.0,M012,Heat Transfer Film,Printing,0.057,sheet,7,0.0
+P052,Teddy bear - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,0.0,M001,Single Jersey Cotton 160 GSM,Fabric,0.89,meter,10,0.0
+P052,Teddy bear - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,0.0,M006,Sewing Thread,Trims,0.034,cone,14,0.0
+P052,Teddy bear - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P052,Teddy bear - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P052,Teddy bear - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P052,Teddy bear - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,0.0,M012,Heat Transfer Film,Printing,0.057,sheet,7,0.0
+P052,Teddy bear - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,73.71428571428567,M001,Single Jersey Cotton 160 GSM,Fabric,0.89,meter,10,65.60571428571424
+P052,Teddy bear - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,73.71428571428567,M006,Sewing Thread,Trims,0.034,cone,14,2.506285714285713
+P052,Teddy bear - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,73.71428571428567,M007,Neck Label,Trims,1.0,piece,7,73.71428571428567
+P052,Teddy bear - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,73.71428571428567,M008,Care Label,Trims,1.0,piece,14,73.71428571428567
+P052,Teddy bear - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,73.71428571428567,M009,Poly Bag,Packaging,1.0,piece,7,73.71428571428567
+P052,Teddy bear - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,73.71428571428567,M012,Heat Transfer Film,Printing,0.057,sheet,7,4.201714285714283
+P053,PINK panther - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,368.71428571428567,M004,Summer Melton,Fabric,0.55,meter,10,202.79285714285714
+P053,PINK panther - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,368.71428571428567,M006,Sewing Thread,Trims,0.024,cone,14,8.849142857142857
+P053,PINK panther - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,368.71428571428567,M007,Neck Label,Trims,1.0,piece,7,368.71428571428567
+P053,PINK panther - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,368.71428571428567,M008,Care Label,Trims,1.0,piece,14,368.71428571428567
+P053,PINK panther - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,368.71428571428567,M009,Poly Bag,Packaging,1.0,piece,7,368.71428571428567
+P053,PINK panther - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,368.71428571428567,M012,Heat Transfer Film,Printing,0.025,sheet,7,9.217857142857142
+P053,PINK panther - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,773.2857142857141,M004,Summer Melton,Fabric,0.55,meter,10,425.3071428571428
+P053,PINK panther - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,773.2857142857141,M006,Sewing Thread,Trims,0.024,cone,14,18.55885714285714
+P053,PINK panther - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,773.2857142857141,M007,Neck Label,Trims,1.0,piece,7,773.2857142857141
+P053,PINK panther - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,773.2857142857141,M008,Care Label,Trims,1.0,piece,14,773.2857142857141
+P053,PINK panther - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,773.2857142857141,M009,Poly Bag,Packaging,1.0,piece,7,773.2857142857141
+P053,PINK panther - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,773.2857142857141,M012,Heat Transfer Film,Printing,0.025,sheet,7,19.332142857142856
+P053,PINK panther - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,1345.8262199721676,M004,Summer Melton,Fabric,0.55,meter,10,740.2044209846922
+P053,PINK panther - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,1345.8262199721676,M006,Sewing Thread,Trims,0.024,cone,14,32.29982927933202
+P053,PINK panther - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,1345.8262199721676,M007,Neck Label,Trims,1.0,piece,7,1345.8262199721676
+P053,PINK panther - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,1345.8262199721676,M008,Care Label,Trims,1.0,piece,14,1345.8262199721676
+P053,PINK panther - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,1345.8262199721676,M009,Poly Bag,Packaging,1.0,piece,7,1345.8262199721676
+P053,PINK panther - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,1345.8262199721676,M012,Heat Transfer Film,Printing,0.025,sheet,7,33.64565549930419
+P054,Gazelle - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,0.0,M002,Single Jersey Cotton 180 GSM,Fabric,0.45,meter,14,0.0
+P054,Gazelle - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,0.0,M006,Sewing Thread,Trims,0.029,cone,14,0.0
+P054,Gazelle - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P054,Gazelle - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P054,Gazelle - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P054,Gazelle - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,0.0,M012,Heat Transfer Film,Printing,0.041,sheet,7,0.0
+P054,Gazelle - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,0.0,M002,Single Jersey Cotton 180 GSM,Fabric,0.45,meter,14,0.0
+P054,Gazelle - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,0.0,M006,Sewing Thread,Trims,0.029,cone,14,0.0
+P054,Gazelle - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P054,Gazelle - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P054,Gazelle - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P054,Gazelle - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,0.0,M012,Heat Transfer Film,Printing,0.041,sheet,7,0.0
+P054,Gazelle - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,0.0,M002,Single Jersey Cotton 180 GSM,Fabric,0.45,meter,14,0.0
+P054,Gazelle - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,0.0,M006,Sewing Thread,Trims,0.029,cone,14,0.0
+P054,Gazelle - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P054,Gazelle - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P054,Gazelle - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P054,Gazelle - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,0.0,M012,Heat Transfer Film,Printing,0.041,sheet,7,0.0
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,289.28571428571433,M003,Rib Cotton,Fabric,1.07,meter,10,309.53571428571433
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,289.28571428571433,M006,Sewing Thread,Trims,0.034,cone,14,9.835714285714289
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,289.28571428571433,M007,Neck Label,Trims,1.0,piece,7,289.28571428571433
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,289.28571428571433,M008,Care Label,Trims,1.0,piece,14,289.28571428571433
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,289.28571428571433,M009,Poly Bag,Packaging,1.0,piece,7,289.28571428571433
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,289.28571428571433,M011,Water-Based Ink,Printing,0.045,kg,21,13.017857142857144
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,668.9999999999999,M003,Rib Cotton,Fabric,1.07,meter,10,715.8299999999999
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,668.9999999999999,M006,Sewing Thread,Trims,0.034,cone,14,22.746
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,668.9999999999999,M007,Neck Label,Trims,1.0,piece,7,668.9999999999999
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,668.9999999999999,M008,Care Label,Trims,1.0,piece,14,668.9999999999999
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,668.9999999999999,M009,Poly Bag,Packaging,1.0,piece,7,668.9999999999999
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,668.9999999999999,M011,Water-Based Ink,Printing,0.045,kg,21,30.104999999999993
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,1286.142857142857,M003,Rib Cotton,Fabric,1.07,meter,10,1376.172857142857
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,1286.142857142857,M006,Sewing Thread,Trims,0.034,cone,14,43.728857142857144
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,1286.142857142857,M007,Neck Label,Trims,1.0,piece,7,1286.142857142857
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,1286.142857142857,M008,Care Label,Trims,1.0,piece,14,1286.142857142857
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,1286.142857142857,M009,Poly Bag,Packaging,1.0,piece,7,1286.142857142857
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,1286.142857142857,M011,Water-Based Ink,Printing,0.045,kg,21,57.87642857142857
+P056,BATGIRL - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,0.0,M003,Rib Cotton,Fabric,0.46,meter,10,0.0
+P056,BATGIRL - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,0.0,M006,Sewing Thread,Trims,0.026,cone,14,0.0
+P056,BATGIRL - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P056,BATGIRL - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P056,BATGIRL - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P056,BATGIRL - بيجامة حريمي صيفي2024,Pajamas/Homewear,30,0.0,M011,Water-Based Ink,Printing,0.014,kg,21,0.0
+P056,BATGIRL - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,238.79877451395964,M003,Rib Cotton,Fabric,0.46,meter,10,109.84743627642143
+P056,BATGIRL - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,238.79877451395964,M006,Sewing Thread,Trims,0.026,cone,14,6.20876813736295
+P056,BATGIRL - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,238.79877451395964,M007,Neck Label,Trims,1.0,piece,7,238.79877451395964
+P056,BATGIRL - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,238.79877451395964,M008,Care Label,Trims,1.0,piece,14,238.79877451395964
+P056,BATGIRL - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,238.79877451395964,M009,Poly Bag,Packaging,1.0,piece,7,238.79877451395964
+P056,BATGIRL - بيجامة حريمي صيفي2024,Pajamas/Homewear,60,238.79877451395964,M011,Water-Based Ink,Printing,0.014,kg,21,3.343182843195435
+P056,BATGIRL - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,870.2829537389769,M003,Rib Cotton,Fabric,0.46,meter,10,400.3301587199294
+P056,BATGIRL - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,870.2829537389769,M006,Sewing Thread,Trims,0.026,cone,14,22.627356797213398
+P056,BATGIRL - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,870.2829537389769,M007,Neck Label,Trims,1.0,piece,7,870.2829537389769
+P056,BATGIRL - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,870.2829537389769,M008,Care Label,Trims,1.0,piece,14,870.2829537389769
+P056,BATGIRL - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,870.2829537389769,M009,Poly Bag,Packaging,1.0,piece,7,870.2829537389769
+P056,BATGIRL - بيجامة حريمي صيفي2024,Pajamas/Homewear,90,870.2829537389769,M011,Water-Based Ink,Printing,0.014,kg,21,12.183961352345676
+P057,Save the planet بيجامة حريمي صيفي - 2024,Pajamas/Homewear,30,0.0,M004,Summer Melton,Fabric,0.99,meter,10,0.0
+P057,Save the planet بيجامة حريمي صيفي - 2024,Pajamas/Homewear,30,0.0,M006,Sewing Thread,Trims,0.016,cone,14,0.0
+P057,Save the planet بيجامة حريمي صيفي - 2024,Pajamas/Homewear,30,0.0,M007,Neck Label,Trims,1.0,piece,7,0.0
+P057,Save the planet بيجامة حريمي صيفي - 2024,Pajamas/Homewear,30,0.0,M008,Care Label,Trims,1.0,piece,14,0.0
+P057,Save the planet بيجامة حريمي صيفي - 2024,Pajamas/Homewear,30,0.0,M009,Poly Bag,Packaging,1.0,piece,7,0.0
+P057,Save the planet بيجامة حريمي صيفي - 2024,Pajamas/Homewear,30,0.0,M012,Heat Transfer Film,Printing,0.032,sheet,7,0.0
+P057,Save the planet بيجامة حريمي صيفي - 2024,Pajamas/Homewear,60,102.42857142857144,M004,Summer Melton,Fabric,0.99,meter,10,101.40428571428573
+P057,Save the planet بيجامة حريمي صيفي - 2024,Pajamas/Homewear,60,102.42857142857144,M006,Sewing Thread,Trims,0.016,cone,14,1.6388571428571432
+P057,Save the planet بيجامة حريمي صيفي - 2024,Pajamas/Homewear,60,102.42857142857144,M007,Neck Label,Trims,1.0,piece,7,102.42857142857144
+P057,Save the planet بيجامة حريمي صيفي - 2024,Pajamas/Homewear,60,102.42857142857144,M008,Care Label,Trims,1.0,piece,14,102.42857142857144
+P057,Save the planet بيجامة حريمي صيفي - 2024,Pajamas/Homewear,60,102.42857142857144,M009,Poly Bag,Packaging,1.0,piece,7,102.42857142857144
+P057,Save the planet بيجامة حريمي صيفي - 2024,Pajamas/Homewear,60,102.42857142857144,M012,Heat Transfer Film,Printing,0.032,sheet,7,3.2777142857142865
+P057,Save the planet بيجامة حريمي صيفي - 2024,Pajamas/Homewear,90,272.1428571428572,M004,Summer Melton,Fabric,0.99,meter,10,269.42142857142863
+P057,Save the planet بيجامة حريمي صيفي - 2024,Pajamas/Homewear,90,272.1428571428572,M006,Sewing Thread,Trims,0.016,cone,14,4.354285714285716
+P057,Save the planet بيجامة حريمي صيفي - 2024,Pajamas/Homewear,90,272.1428571428572,M007,Neck Label,Trims,1.0,piece,7,272.1428571428572
+P057,Save the planet بيجامة حريمي صيفي - 2024,Pajamas/Homewear,90,272.1428571428572,M008,Care Label,Trims,1.0,piece,14,272.1428571428572
+P057,Save the planet بيجامة حريمي صيفي - 2024,Pajamas/Homewear,90,272.1428571428572,M009,Poly Bag,Packaging,1.0,piece,7,272.1428571428572
+P057,Save the planet بيجامة حريمي صيفي - 2024,Pajamas/Homewear,90,272.1428571428572,M012,Heat Transfer Film,Printing,0.032,sheet,7,8.708571428571432
+P058,OHANA - بيجامة حريمي صيفي 2024,Pajamas/Homewear,30,264.0,M001,Single Jersey Cotton 160 GSM,Fabric,1.1,meter,10,290.40000000000003
+P058,OHANA - بيجامة حريمي صيفي 2024,Pajamas/Homewear,30,264.0,M006,Sewing Thread,Trims,0.035,cone,14,9.24
+P058,OHANA - بيجامة حريمي صيفي 2024,Pajamas/Homewear,30,264.0,M007,Neck Label,Trims,1.0,piece,7,264.0
+P058,OHANA - بيجامة حريمي صيفي 2024,Pajamas/Homewear,30,264.0,M008,Care Label,Trims,1.0,piece,14,264.0
+P058,OHANA - بيجامة حريمي صيفي 2024,Pajamas/Homewear,30,264.0,M009,Poly Bag,Packaging,1.0,piece,7,264.0
+P058,OHANA - بيجامة حريمي صيفي 2024,Pajamas/Homewear,60,473.9999999999999,M001,Single Jersey Cotton 160 GSM,Fabric,1.1,meter,10,521.3999999999999
+P058,OHANA - بيجامة حريمي صيفي 2024,Pajamas/Homewear,60,473.9999999999999,M006,Sewing Thread,Trims,0.035,cone,14,16.589999999999996
+P058,OHANA - بيجامة حريمي صيفي 2024,Pajamas/Homewear,60,473.9999999999999,M007,Neck Label,Trims,1.0,piece,7,473.9999999999999
+P058,OHANA - بيجامة حريمي صيفي 2024,Pajamas/Homewear,60,473.9999999999999,M008,Care Label,Trims,1.0,piece,14,473.9999999999999
+P058,OHANA - بيجامة حريمي صيفي 2024,Pajamas/Homewear,60,473.9999999999999,M009,Poly Bag,Packaging,1.0,piece,7,473.9999999999999
+P058,OHANA - بيجامة حريمي صيفي 2024,Pajamas/Homewear,90,1198.8483808298529,M001,Single Jersey Cotton 160 GSM,Fabric,1.1,meter,10,1318.7332189128383
+P058,OHANA - بيجامة حريمي صيفي 2024,Pajamas/Homewear,90,1198.8483808298529,M006,Sewing Thread,Trims,0.035,cone,14,41.95969332904485
+P058,OHANA - بيجامة حريمي صيفي 2024,Pajamas/Homewear,90,1198.8483808298529,M007,Neck Label,Trims,1.0,piece,7,1198.8483808298529
+P058,OHANA - بيجامة حريمي صيفي 2024,Pajamas/Homewear,90,1198.8483808298529,M008,Care Label,Trims,1.0,piece,14,1198.8483808298529
+P058,OHANA - بيجامة حريمي صيفي 2024,Pajamas/Homewear,90,1198.8483808298529,M009,Poly Bag,Packaging,1.0,piece,7,1198.8483808298529
+P059,Positive vibes - 2024بيجامة حريمي صيفي,Pajamas/Homewear,30,173.0,M004,Summer Melton,Fabric,1.15,meter,10,198.95
+P059,Positive vibes - 2024بيجامة حريمي صيفي,Pajamas/Homewear,30,173.0,M006,Sewing Thread,Trims,0.022,cone,14,3.8059999999999996
+P059,Positive vibes - 2024بيجامة حريمي صيفي,Pajamas/Homewear,30,173.0,M007,Neck Label,Trims,1.0,piece,7,173.0
+P059,Positive vibes - 2024بيجامة حريمي صيفي,Pajamas/Homewear,30,173.0,M008,Care Label,Trims,1.0,piece,14,173.0
+P059,Positive vibes - 2024بيجامة حريمي صيفي,Pajamas/Homewear,30,173.0,M009,Poly Bag,Packaging,1.0,piece,7,173.0
+P059,Positive vibes - 2024بيجامة حريمي صيفي,Pajamas/Homewear,30,173.0,M011,Water-Based Ink,Printing,0.041,kg,21,7.093
+P059,Positive vibes - 2024بيجامة حريمي صيفي,Pajamas/Homewear,60,1123.5220534459731,M004,Summer Melton,Fabric,1.15,meter,10,1292.050361462869
+P059,Positive vibes - 2024بيجامة حريمي صيفي,Pajamas/Homewear,60,1123.5220534459731,M006,Sewing Thread,Trims,0.022,cone,14,24.717485175811408
+P059,Positive vibes - 2024بيجامة حريمي صيفي,Pajamas/Homewear,60,1123.5220534459731,M007,Neck Label,Trims,1.0,piece,7,1123.5220534459731
+P059,Positive vibes - 2024بيجامة حريمي صيفي,Pajamas/Homewear,60,1123.5220534459731,M008,Care Label,Trims,1.0,piece,14,1123.5220534459731
+P059,Positive vibes - 2024بيجامة حريمي صيفي,Pajamas/Homewear,60,1123.5220534459731,M009,Poly Bag,Packaging,1.0,piece,7,1123.5220534459731
+P059,Positive vibes - 2024بيجامة حريمي صيفي,Pajamas/Homewear,60,1123.5220534459731,M011,Water-Based Ink,Printing,0.041,kg,21,46.0644041912849
+P059,Positive vibes - 2024بيجامة حريمي صيفي,Pajamas/Homewear,90,1958.842027124413,M004,Summer Melton,Fabric,1.15,meter,10,2252.668331193075
+P059,Positive vibes - 2024بيجامة حريمي صيفي,Pajamas/Homewear,90,1958.842027124413,M006,Sewing Thread,Trims,0.022,cone,14,43.09452459673709
+P059,Positive vibes - 2024بيجامة حريمي صيفي,Pajamas/Homewear,90,1958.842027124413,M007,Neck Label,Trims,1.0,piece,7,1958.842027124413
+P059,Positive vibes - 2024بيجامة حريمي صيفي,Pajamas/Homewear,90,1958.842027124413,M008,Care Label,Trims,1.0,piece,14,1958.842027124413
+P059,Positive vibes - 2024بيجامة حريمي صيفي,Pajamas/Homewear,90,1958.842027124413,M009,Poly Bag,Packaging,1.0,piece,7,1958.842027124413
+P059,Positive vibes - 2024بيجامة حريمي صيفي,Pajamas/Homewear,90,1958.842027124413,M011,Water-Based Ink,Printing,0.041,kg,21,80.31252311210095

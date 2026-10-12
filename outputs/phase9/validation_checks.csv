@@ -1,0 +1,22 @@
+check,passed,detail
+final_rows_531,True,rows=531
+all_177_product_location_pairs_retained,True,pairs=177
+horizons_exactly_30_60_90,True,"horizons=[30, 60, 90]"
+prior_forecast_values_unchanged,True,diffs=[]
+prior_inventory_values_unchanged,True,diffs=[]
+prior_replenishment_quantities_unchanged,True,diffs=[]
+phase6_material_requirements_unchanged,True,max_horizon_total_diff=0.000000000058
+phase7_procurement_metrics_available_unchanged,True,materials_covered=True
+phase8_production_metrics_unchanged,True,diffs=[]
+no_raw_material_inventory_fabricated,True,forbidden_columns_present=[]
+no_purchase_quantity_fabricated,True,forbidden_columns_present=[]
+no_supplier_future_availability_fabricated,True,forbidden_columns_present=[]
+no_factory_capacity_fabricated,True,forbidden_columns_present=[]
+conditional_action_dates_derived,True,production_dates=252; material_dates=252
+no_action_date_after_estimated_stockout,True,checked production and material dates
+null_timing_when_no_90_day_stockout,True,no_stockout_rows=279
+final_risk_rule_deterministic,True,Rule is encoded in derive_decision_risk and reproduced from traceability fields.
+traceability_reproduces_every_decision_risk,True,mismatches=0
+no_arbitrary_weighted_score_introduced,True,No score columns in Phase 9 outputs.
+management_priority_90d_rows_177,True,rows=177
+risk_horizon_consistency_checked,True,decreasing_transitions=0

@@ -1,0 +1,60 @@
+Product_ID,Product_Name,Product_Family,Production_Equivalent_Replenishment_Qty,Locations_Requiring_Replenishment_Count,High_Risk_Locations_Count,Product_Historical_Procurement_Risk,Historical_Production_Risk,Required_Material_Count,High_Procurement_Risk_Material_Count,Highest_Risk_Material_Name,Decision_Risk_Max_Across_Locations,Earliest_Estimated_Stockout_Date,Earliest_Conditional_Production_Start_By_Date,Earliest_Conditional_Material_Action_By_Date
+P033,Boys' sweatshirt-LEO,Sweatshirts,7205.142857142857,3,3,High,Low,5,1,Sewing Thread,High,2026-10-01,2026-09-09,2026-08-19
+P044,Girls' autumn pajamas-Ice Cream,Pajamas/Homewear,5536.428571428572,3,3,High,Medium,6,1,Sewing Thread,High,2026-10-01,2026-09-07,2026-08-17
+P042,Girls' autumn pajamas-Cheeky Charmins,Pajamas/Homewear,2372.8571428571427,2,2,High,Low,6,2,Sewing Thread,High,2026-10-01,2026-09-09,2026-08-19
+P049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,1691.5247571360342,1,1,High,High,6,2,Sewing Thread,High,2026-10-01,2026-09-08,2026-08-18
+P002,Summer children's girls-turtle,Pajamas/Homewear,1664.2097013469215,3,3,High,Low,6,1,Sewing Thread,High,2026-10-01,2026-09-08,2026-08-18
+P048,Semon - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,1647.571428571429,2,2,High,Medium,5,2,Sewing Thread,High,2026-10-01,2026-09-08,2026-08-17
+P004,Summer children's girls-Hello kitty black&white,Pajamas/Homewear,1308.7142857142856,1,1,High,Low,6,2,Sewing Thread,High,2026-10-01,2026-09-08,2026-08-17
+P006,Summer children's boys-Sonic,Pajamas/Homewear,1105.142857142857,1,1,High,High,6,2,Sewing Thread,High,2026-10-01,2026-09-07,2026-08-17
+P043,Girls' autumn pajamas-Snow White,Pajamas/Homewear,5799.000000000001,3,3,High,Medium,6,1,Sewing Thread,High,2026-10-02,2026-09-09,2026-08-19
+P003,Summer children's girls-Hello kitty Rose & turquoise,Pajamas/Homewear,1512.469385813762,1,1,High,High,6,1,Sewing Thread,High,2026-10-02,2026-09-07,2026-08-17
+P021,Girls' summer pajamas-Minnie Mouse,Pajamas/Homewear,2119.876309296737,1,1,High,Low,6,1,Sewing Thread,High,2026-10-04,2026-09-11,2026-08-21
+P016,Girls' summer pajamas-Watercolor Floral,Pajamas/Homewear,1218.5920310980546,1,1,High,High,5,1,Sewing Thread,High,2026-10-04,2026-09-10,2026-08-20
+P038,Boys' Autumn Pajamas-Mickey Mouse,Pajamas/Homewear,6856.857142857143,3,3,High,Medium,5,1,Sewing Thread,High,2026-10-05,2026-09-11,2026-08-21
+P001,Summer children's girls-Happy,Pajamas/Homewear,2918.9999999999995,3,3,High,Medium,5,1,Sewing Thread,High,2026-10-05,2026-09-11,2026-08-21
+P018,Boys' summer pajamas-Wear your attitude,Pajamas/Homewear,1346.494317344691,1,1,High,Low,6,2,Sewing Thread,High,2026-10-05,2026-09-12,2026-08-22
+P045,Girls' autumn pajamas-Stitch,Pajamas/Homewear,5755.857142857143,3,3,High,Low,5,1,Sewing Thread,High,2026-10-06,2026-09-13,2026-08-23
+P035,Girls' sweatshirt-Fuchsia,Sweatshirts,3249.857142857143,3,3,High,Low,5,1,Sewing Thread,High,2026-10-06,2026-09-12,2026-08-22
+P017,Girls' summer pajamas-flower,Pajamas/Homewear,1811.428571428572,1,1,High,Low,6,2,Sewing Thread,High,2026-10-06,2026-09-12,2026-08-22
+P039,Boys' Autumn Pajamas-Spider Man,Pajamas/Homewear,6424.999999999999,3,3,High,Low,6,2,Sewing Thread,High,2026-10-09,2026-09-16,2026-08-25
+P036,Girls' sweatshirt-Tinker Bell,Sweatshirts,2932.7142857142862,2,2,High,High,5,2,Sewing Thread,High,2026-10-09,2026-09-15,2026-08-24
+P014,Boys' summer t-shirt-Black,T-Shirts,2301.2857142857138,1,1,High,Medium,6,2,Sewing Thread,High,2026-10-09,2026-09-17,2026-08-26
+P053,PINK panther - بيجامة حريمي صيفي2024,Pajamas/Homewear,1345.8262199721676,1,1,High,High,6,1,Sewing Thread,High,2026-10-09,2026-09-13,2026-08-23
+P015,Girls' summer pajamas-Stay cool,Pajamas/Homewear,891.2857142857143,1,1,High,Medium,6,3,Sewing Thread,High,2026-10-10,2026-09-16,2026-08-25
+P022,Girls' summer pajamas-Stitch,Pajamas/Homewear,872.9036317530142,1,1,High,Low,5,1,Sewing Thread,High,2026-10-10,2026-09-19,2026-08-29
+P027,Girls' pajamas - I'm Just a girl,Pajamas/Homewear,796.2857142857144,1,1,High,High,6,2,Sewing Thread,High,2026-10-10,2026-09-16,2026-08-26
+P032,Boys' sweatshirt-blue,Sweatshirts,5768.428571428572,3,3,High,Medium,5,1,Sewing Thread,High,2026-10-14,2026-09-20,2026-08-30
+P009,Boys' summer t-shirt-Aubergine,T-Shirts,1415.212380492139,1,1,High,High,6,2,Sewing Thread,High,2026-10-14,2026-09-21,2026-08-31
+P031,Boys' pajamas -Don't Even!,Pajamas/Homewear,1386.6114591872524,1,1,High,Low,6,2,Sewing Thread,High,2026-10-15,2026-09-24,2026-09-03
+P058,OHANA - بيجامة حريمي صيفي 2024,Pajamas/Homewear,1198.8483808298529,1,1,High,High,5,1,Sewing Thread,High,2026-10-16,2026-09-23,2026-09-02
+P055,Scooby-Doo - بيجامة حريمي صيفي2024,Pajamas/Homewear,1286.142857142857,1,1,High,Low,6,3,Sewing Thread,High,2026-10-17,2026-09-25,2026-09-03
+P005,Summer children's boys-Black and orange,Pajamas/Homewear,1947.1428571428569,1,1,High,High,6,2,Sewing Thread,High,2026-10-19,2026-09-25,2026-09-03
+P025,Boys' summer pajamas-Snoopy,Pajamas/Homewear,734.9275859413434,2,2,High,Medium,6,2,Sewing Thread,High,2026-10-21,2026-09-27,2026-09-06
+P008,Summer children's boys-SpongeBob,Pajamas/Homewear,2868.7142857142853,1,1,High,Medium,6,2,Sewing Thread,High,2026-10-22,2026-09-28,2026-09-07
+P040,Boys' Autumn Pajamas-Loony Tunes,Pajamas/Homewear,2550.2857142857147,1,1,High,Medium,6,2,Sewing Thread,High,2026-10-22,2026-09-29,2026-09-08
+P037,Girls' sweatshirt-Flower,Sweatshirts,8318.857142857145,3,3,High,Medium,5,1,Sewing Thread,High,2026-10-23,2026-09-29,2026-09-08
+P047,Mauve - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,820.8185723841796,1,1,High,High,6,3,Sewing Thread,High,2026-10-26,2026-10-04,2026-09-12
+P051,Ice cream - بيجامة حريمي صيفي2024,Pajamas/Homewear,3043.8571428571427,1,1,High,Medium,6,3,Sewing Thread,High,2026-10-27,2026-10-03,2026-09-11
+P034,Boys' sweatshirt-black and white,Sweatshirts,1926.428571428572,2,2,High,High,5,1,Sewing Thread,High,2026-10-27,2026-10-06,2026-09-15
+P011,Boys' summer t-shirt-Navy blue,T-Shirts,458.4285714285713,1,1,High,Medium,6,2,Sewing Thread,High,2026-10-28,2026-10-05,2026-09-14
+P059,Positive vibes - 2024بيجامة حريمي صيفي,Pajamas/Homewear,1958.842027124413,1,1,High,Low,6,2,Sewing Thread,High,2026-10-31,2026-10-07,2026-09-16
+P046,Mustard - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,1386.857142857143,1,1,High,High,6,1,Sewing Thread,High,2026-10-31,2026-10-07,2026-09-16
+P020,Boys' summer pajamas-Rock Band,Pajamas/Homewear,706.1871818705054,1,1,High,High,6,2,Sewing Thread,High,2026-11-01,2026-10-11,2026-09-19
+P029,Girls' pajamas-Daylife+kuromi,Pajamas/Homewear,2184.935194345102,2,2,High,Low,5,1,Sewing Thread,High,2026-11-02,2026-10-10,2026-09-19
+P024,Boys' summer pajamas-Mickey,Pajamas/Homewear,1227.6810851949758,1,1,High,High,6,2,Sewing Thread,High,2026-11-04,2026-10-11,2026-09-20
+P012,Boys' summer t-shirt-light beige,T-Shirts,1095.8050550257617,1,1,High,Low,6,1,Sewing Thread,High,2026-11-06,2026-10-15,2026-09-24
+P026,Boys' summer pajamas-Bluey,Pajamas/Homewear,373.8571428571429,1,1,High,High,6,1,Sewing Thread,High,2026-11-10,2026-10-18,2026-09-27
+P007,Summer children's boys-Black and turquoise,Pajamas/Homewear,396.5714285714287,1,1,High,High,6,2,Sewing Thread,High,2026-11-13,2026-10-21,2026-09-30
+P030,Boys' pajamas -Mickey Mouse,Pajamas/Homewear,538.2860683758527,1,1,High,Low,5,1,Sewing Thread,High,2026-11-20,2026-10-27,2026-10-06
+P013,Boys' summer t-shirt-Beige,T-Shirts,528.8571428571428,2,2,High,Low,6,3,Sewing Thread,High,2026-11-22,2026-10-29,2026-10-07
+P028,Girls' summer pajamas,Pajamas/Homewear,706.9999999999998,1,1,High,High,5,2,Sewing Thread,High,2026-11-23,2026-10-29,2026-10-07
+P050,Yellow - طقم تيشيرت وشورت اطفال صيفي,Kids Sets,667.2857142857142,1,1,High,Medium,6,3,Sewing Thread,High,2026-11-28,2026-11-04,2026-10-13
+P056,BATGIRL - بيجامة حريمي صيفي2024,Pajamas/Homewear,870.2829537389769,2,2,High,High,6,3,Sewing Thread,High,2026-12-02,2026-11-06,2026-10-15
+P057,Save the planet بيجامة حريمي صيفي - 2024,Pajamas/Homewear,272.1428571428572,1,1,High,Low,6,1,Sewing Thread,High,2026-12-03,2026-11-11,2026-10-21
+P010,Boys' summer t-shirt-olive,T-Shirts,453.8571428571429,1,1,High,High,6,2,Sewing Thread,High,2026-12-10,2026-11-17,2026-10-27
+P052,Teddy bear - بيجامة حريمي صيفي2024,Pajamas/Homewear,73.71428571428567,1,1,High,Low,6,1,Sewing Thread,High,2026-12-18,2026-11-25,2026-11-04
+P019,Boys' summer pajamas- Seeds OF,Pajamas/Homewear,0.0,0,0,High,High,6,3,Sewing Thread,Low,,,
+P023,Girls' summer pajamas-Dumbo,Pajamas/Homewear,0.0,0,0,High,Insufficient Evidence,6,2,Sewing Thread,Low,,,
+P041,Boys' Autumn Pajamas-Jurassic Park,Pajamas/Homewear,0.0,0,0,High,Low,5,1,Sewing Thread,Low,,,
+P054,Gazelle - بيجامة حريمي صيفي2024,Pajamas/Homewear,0.0,0,0,High,Low,6,1,Sewing Thread,Low,,,

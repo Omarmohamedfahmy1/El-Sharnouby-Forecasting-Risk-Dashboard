@@ -1,0 +1,22 @@
+dictionary_table,present_in_folder,grain
+Product_Master.csv,True,1 row per public product
+Business_Units.csv,True,1 row per company business unit
+Locations.csv,True,1 row per channel / operating location
+Customers.csv,True,1 row per anonymized customer ID
+Sales_Transactions.csv,True,1 row per invoice line
+Inventory_History.csv,True,month x location x product
+Marketing.csv,True,1 row per campaign
+Web_Traffic_Daily.csv,True,1 row per day
+Materials.csv,True,1 row per material
+Product_BOM.csv,True,product x material
+Suppliers.csv,True,1 row per anonymized supplier
+Purchase_Orders.csv,True,1 row per material PO
+Production_Orders.csv,True,1 row per production order
+Printing_Batches.csv,True,1 row per print batch
+Machine_Downtime.csv,True,1 row per downtime event
+Quality.csv,True,1 row per QC inspection
+Customer_Service.csv,True,1 row per support ticket
+Group_Operations.csv,True,month x business unit
+Sources.csv,False,1 row per public source
+Case_Briefs.csv,True,Not listed in dictionary
+Data_Dictionary.csv,True,Not listed in dictionary

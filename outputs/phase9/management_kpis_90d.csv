@@ -1,0 +1,12 @@
+KPI,Value
+Product x Location pairs with High Decision_Risk,85.0
+Product x Location pairs with Medium Decision_Risk,0.0
+Product x Location pairs with Low Decision_Risk,92.0
+Product x Location pairs with expected shortage,85.0
+Total Expected_Shortage_Units,106723.19144112887
+Total Recommended_Replenishment_Qty,117853.19144112887
+Products requiring replenishment,55.0
+Products with High historical production risk,21.0
+Required materials with High historical procurement risk,5.0
+Pairs with conditional material action date at/before forecast origin,59.0
+Pairs with conditional production start date at/before forecast origin,40.0

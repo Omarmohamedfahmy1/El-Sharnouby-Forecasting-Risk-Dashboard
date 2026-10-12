@@ -1,0 +1,18 @@
+check,passed,detail
+baseline_validation_window_count_confirmed,True,baseline_windows=2114
+strict_guarded_missing_windows_identified,True,missing_windows=14; strict_missing_count=14
+common_policy_windows_identical,True,baseline_common=2100; guarded_common=2100
+full_policy_windows_identical,True,baseline_full=2114; guarded_full=2114
+full_evaluation_windows_equal,True,"[{'Policy': 'global_best_baseline', 'Evaluation_Windows': 2114}, {'Policy': 'guarded_hybrid', 'Evaluation_Windows': 2114}]"
+fallback_used_for_missing_guarded_windows,True,fallback_rows=14
+guarded_advanced_selection_count_69,True,guarded_advanced_rows=69
+all_177_product_location_pairs_retained,True,checked baseline and full-coverage guarded records
+all_30_60_90_horizons_retained,True,"horizons=[30, 60, 90]"
+no_validation_forecast_leakage,True,Phase 5.1 uses Phase 4 rolling-origin candidate records and Phase 4.1 guardrails only
+validation_forecasts_non_negative,True,min_guarded=0.857143
+monotonic_reconciliation_deterministic,True,checked_rows=531
+monotonic_reconciliation_no_reductions,True,checked original vs planning forecast
+monotonic_reconciliation_non_negative,True,checked original and planning forecasts
+monotonic_reconciliation_only_necessary_increases,True,checked adjusted rows against prior cumulative horizon
+final_forecast_rows_531,True,rows=531; phase5_regenerated=False
+final_forecast_pairs_177,True,pairs=177

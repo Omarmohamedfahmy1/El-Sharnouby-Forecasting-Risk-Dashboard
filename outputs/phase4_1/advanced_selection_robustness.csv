@@ -1,0 +1,227 @@
+Product_ID,Location_ID,Horizon_Days,Demand_Pattern_Class,Channel,Product_Family,Phase4_Selected_Model,Phase4_Cumulative_WAPE,Phase4_Robustness_Flag,LOO_Cumulative_WAPE,LOO_Cumulative_MAE,LOO_Advanced_Selected_Count,LOO_Baseline_Selected_Count,LOO_Same_Model_Count,LOO_Source_Result,Selection_Stability,Unstable_Model_Choice_Flag
+P001,LOC002,30,erratic,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,21.55226285818684,one_fold_dominates,52.300920368147274,93.35714285714288,0,4,0,switches_to_baseline,0.75,False
+P001,LOC002,90,erratic,Online,Pajamas/Homewear,advanced_global_hist_gradient_boosting,36.77869340397778,ok,51.645733060358545,271.2692128995333,2,2,2,unstable_source,0.5,True
+P001,LOC003,30,lumpy,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,20.300505659847556,one_fold_dominates,39.524396621868284,839.4981842484824,3,1,0,remains_advanced,0.75,False
+P001,LOC003,60,lumpy,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,24.63632581841005,one_fold_dominates,36.8468380120986,1535.9604425343302,3,1,3,remains_advanced,0.75,False
+P001,LOC003,90,lumpy,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,26.060568282941173,one_fold_dominates,34.661376690836434,2135.314111038979,3,1,3,remains_advanced,0.75,False
+P002,LOC002,30,lumpy,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,20.240435789869935,ok,69.77591036414566,44.482142857142854,0,4,0,switches_to_baseline,0.5,True
+P002,LOC002,60,lumpy,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,21.311313599527452,ok,57.03395141341311,72.57570317356819,1,3,0,switches_to_baseline,0.5,True
+P002,LOC002,90,lumpy,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,18.490309274557116,ok,36.821607470262684,71.06570241760699,3,1,0,remains_advanced,0.75,False
+P002,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,28.622725387329158,ok,36.40689593807785,323.29323593013135,3,1,3,remains_advanced,0.75,False
+P002,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,15.71049764595281,ok,18.243719911353036,269.2773058915708,3,1,3,remains_advanced,0.75,False
+P003,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,27.072799255915154,ok,43.81105088744853,889.8024435240795,2,2,2,unstable_source,0.5,True
+P003,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,23.551434201958223,ok,23.551434201958223,711.8420987541873,4,0,4,remains_advanced,1.0,False
+P004,LOC002,90,lumpy,Online,Pajamas/Homewear,advanced_global_hist_gradient_boosting,24.48852802996868,one_fold_dominates,41.92717348520524,71.27619492484891,3,1,3,remains_advanced,0.75,False
+P004,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,26.660581791146925,ok,66.15858668036012,465.4256572963334,0,4,0,switches_to_baseline,0.5,True
+P005,LOC001,30,lumpy,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,13.339054609622972,one_fold_dominates,24.68060394889663,15.178571428571427,0,4,0,switches_to_baseline,1.0,False
+P005,LOC001,60,lumpy,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,22.239822399952068,ok,23.28673712921924,24.392857142857153,0,4,0,switches_to_baseline,1.0,False
+P005,LOC002,30,lumpy,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,17.97996871689599,ok,40.304185275431465,37.986694622094156,3,1,0,remains_advanced,0.75,False
+P005,LOC002,60,lumpy,Online,Pajamas/Homewear,advanced_global_hist_gradient_boosting,21.71140192591255,one_fold_dominates,21.71140192591255,40.49176459182691,4,0,4,remains_advanced,1.0,False
+P005,LOC002,90,lumpy,Online,Pajamas/Homewear,advanced_global_hist_gradient_boosting,28.753150733287626,one_fold_dominates,28.753150733287626,81.15576794470432,4,0,4,remains_advanced,1.0,False
+P005,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,19.6692997582052,ok,46.62794729542302,576.3214285714286,0,4,0,switches_to_baseline,0.5,True
+P005,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,26.590818184349363,ok,46.13096118528663,1020.6475162244667,1,3,0,switches_to_baseline,0.5,True
+P005,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,21.10682512418192,ok,37.20883723704282,1236.2636172007476,2,2,2,unstable_source,0.5,True
+P006,LOC001,30,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,26.52919300143225,ok,57.179300291545196,28.017857142857146,0,4,0,switches_to_baseline,0.5,True
+P006,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,24.227556795510786,ok,24.32508436445444,185.35714285714283,0,4,0,switches_to_baseline,1.0,False
+P007,LOC001,30,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,28.426497055130973,ok,40.05340453938585,10.714285714285715,0,4,0,switches_to_baseline,1.0,False
+P007,LOC002,30,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,18.773410932427403,ok,33.98431341034641,15.123019467604152,1,3,0,switches_to_baseline,0.5,True
+P007,LOC002,60,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,24.672336938939093,ok,48.87467962303856,40.565984087122004,1,3,0,switches_to_baseline,0.5,True
+P007,LOC002,90,intermittent,Online,Pajamas/Homewear,advanced_global_hist_gradient_boosting,36.4765801750948,ok,45.20191742828519,56.615401578927205,1,3,1,switches_to_baseline,0.75,False
+P007,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,32.85097115977212,ok,43.26161420628736,249.18689782821522,3,1,3,remains_advanced,0.75,False
+P007,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,22.959359530932193,one_fold_dominates,31.68565540003093,355.98833841934754,3,1,3,remains_advanced,0.75,False
+P007,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,29.665337510510348,ok,49.580433742289706,841.1320584379448,3,1,2,remains_advanced,0.5,True
+P008,LOC001,30,erratic,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,20.380699887108435,ok,40.952418547665815,44.33099307784824,1,3,0,switches_to_baseline,0.75,False
+P008,LOC001,60,erratic,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,16.964963425875027,ok,20.402785620176914,38.714285714285694,0,4,0,switches_to_baseline,1.0,False
+P008,LOC002,30,erratic,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,16.849410725157895,one_fold_dominates,44.87864473217452,68.10334338107484,1,3,0,switches_to_baseline,0.25,True
+P008,LOC002,60,erratic,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,19.45633746319629,one_fold_dominates,46.56419378464564,134.6869305220875,2,2,0,unstable_source,0.5,True
+P008,LOC002,90,erratic,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,23.135684875815798,ok,40.42955892034234,175.46428571428575,0,4,0,switches_to_baseline,0.5,True
+P008,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,28.11379556561235,ok,42.66367303665543,825.5420732592826,2,2,2,unstable_source,0.5,True
+P008,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,24.037162003829916,ok,33.20602261403282,1242.2373059909676,3,1,3,remains_advanced,0.75,False
+P008,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,24.24784360113484,one_fold_dominates,33.20510575049187,1975.3717410967613,3,1,3,remains_advanced,0.75,False
+P009,LOC001,30,intermittent,Retail,T-Shirts,advanced_global_hist_gradient_boosting,27.369991727854746,ok,58.04250917647353,17.122540207059693,2,2,2,unstable_source,0.5,True
+P009,LOC001,60,intermittent,Retail,T-Shirts,advanced_local_holt_winters_additive_52w,20.542757218212156,one_fold_dominates,37.7225868128201,25.557052565685616,2,2,0,unstable_source,0.5,True
+P009,LOC003,60,intermittent,Wholesale,T-Shirts,advanced_global_hist_gradient_boosting,12.381292498925152,one_fold_dominates,12.381292498925152,140.03241816284347,4,0,4,remains_advanced,1.0,False
+P009,LOC003,90,intermittent,Wholesale,T-Shirts,advanced_global_hist_gradient_boosting,11.511145591550966,ok,11.511145591550966,211.86263461249553,4,0,4,remains_advanced,1.0,False
+P010,LOC001,60,intermittent,Retail,T-Shirts,advanced_local_holt_winters_additive_52w,29.42139909199442,one_fold_dominates,57.65854653835234,25.51390684322091,2,2,0,unstable_source,0.5,True
+P010,LOC001,90,intermittent,Retail,T-Shirts,advanced_local_holt_winters_additive_52w,26.82784537730117,ok,38.79386322790486,27.252688917603162,3,1,0,remains_advanced,0.5,True
+P010,LOC003,60,intermittent,Wholesale,T-Shirts,advanced_local_holt_winters_additive_52w,24.278783997434758,one_fold_dominates,29.05950676566556,231.0230787870412,3,1,0,remains_advanced,0.75,False
+P011,LOC001,60,intermittent,Retail,T-Shirts,advanced_local_holt_winters_additive_52w,24.939506595129494,one_fold_dominates,26.63139329805997,10.785714285714288,0,4,0,switches_to_baseline,1.0,False
+P011,LOC002,30,intermittent,Online,T-Shirts,advanced_local_holt_winters_additive_52w,6.904136722842684,ok,70.92352092352094,17.55357142857143,0,4,0,switches_to_baseline,0.25,True
+P011,LOC002,90,intermittent,Online,T-Shirts,advanced_global_hist_gradient_boosting,8.107114223176492,ok,11.886104241484757,9.954612302243484,2,2,2,unstable_source,0.5,True
+P012,LOC001,30,intermittent,Retail,T-Shirts,advanced_global_hist_gradient_boosting,17.95127637772249,ok,17.95127637772249,7.449779696754833,4,0,4,remains_advanced,1.0,False
+P012,LOC001,60,intermittent,Retail,T-Shirts,advanced_global_hist_gradient_boosting,18.01304590746397,ok,18.01304590746397,14.320371496433854,4,0,4,remains_advanced,1.0,False
+P012,LOC001,90,intermittent,Retail,T-Shirts,advanced_global_hist_gradient_boosting,16.815323669733086,ok,29.350501077772336,36.394621336437694,3,1,3,remains_advanced,0.75,False
+P012,LOC003,30,intermittent,Wholesale,T-Shirts,advanced_local_holt_winters_additive_52w,11.858036279326628,ok,31.5731838909233,230.64210832319472,3,1,0,remains_advanced,0.75,False
+P012,LOC003,60,intermittent,Wholesale,T-Shirts,advanced_local_holt_winters_additive_52w,18.437933459817735,ok,46.71482739820546,665.6862904244277,3,1,0,remains_advanced,0.75,False
+P012,LOC003,90,intermittent,Wholesale,T-Shirts,advanced_local_holt_winters_additive_52w,13.7340921406503,one_fold_dominates,18.020399732760936,422.2179657385887,4,0,0,remains_advanced,1.0,False
+P013,LOC001,90,intermittent,Retail,T-Shirts,advanced_local_holt_winters_additive_52w,22.791083188564805,one_fold_dominates,46.013585602276365,42.33249875409425,1,3,0,switches_to_baseline,0.75,False
+P013,LOC003,90,intermittent,Wholesale,T-Shirts,advanced_local_holt_winters_additive_52w,9.303250648095274,ok,45.61996783762456,741.7806770397754,1,3,0,switches_to_baseline,0.5,True
+P014,LOC002,60,lumpy,Online,T-Shirts,advanced_local_holt_winters_additive_52w,14.211740333344377,ok,27.54564337298214,40.21663932455393,1,3,0,switches_to_baseline,0.5,True
+P014,LOC002,90,lumpy,Online,T-Shirts,advanced_global_hist_gradient_boosting,11.082936568188648,ok,11.082936568188648,26.599047763652756,4,0,4,remains_advanced,1.0,False
+P015,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,20.19569085846376,ok,28.670188830448573,118.6945817580571,3,1,3,remains_advanced,0.75,False
+P015,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,19.726520109443545,ok,25.45107438210929,210.7348958838649,3,1,3,remains_advanced,0.75,False
+P016,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,5.838450933971316,one_fold_dominates,42.65773857437342,192.59968966329598,2,2,0,unstable_source,0.5,True
+P016,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,11.440495608903566,ok,20.616026475017534,217.08675878193463,2,2,2,unstable_source,0.5,True
+P016,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,7.837167578479034,ok,13.448009505741028,227.136880551966,3,1,3,remains_advanced,0.75,False
+P017,LOC001,30,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,9.749644800114108,ok,62.57545271629779,22.214285714285715,0,4,0,switches_to_baseline,0.5,True
+P017,LOC001,60,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,27.180202400717572,ok,41.32068486290642,30.990513647179814,2,2,0,unstable_source,0.5,True
+P017,LOC001,90,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,17.339359328915446,ok,47.66477584470606,54.45700640257667,1,3,0,switches_to_baseline,0.5,True
+P017,LOC002,30,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,12.104626853891732,one_fold_dominates,38.90852593712024,24.026014766171745,1,3,0,switches_to_baseline,0.75,False
+P017,LOC002,90,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,11.659626081226707,one_fold_dominates,11.914172783737998,22.60714285714285,0,4,0,switches_to_baseline,1.0,False
+P017,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,12.413701525904672,ok,22.710366121537977,194.1736303391497,3,1,0,remains_advanced,0.75,False
+P018,LOC002,30,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,28.35146524031812,one_fold_dominates,49.081362302853265,18.773621080841373,0,4,0,switches_to_baseline,0.25,True
+P018,LOC002,90,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,11.751632838654745,ok,24.982046437289547,28.54198805460331,1,3,0,switches_to_baseline,0.5,True
+P018,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,15.386764045094562,ok,20.94671201814057,158.35714285714272,0,4,0,switches_to_baseline,1.0,False
+P018,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,16.24463402598363,ok,16.24463402598363,200.5400070507679,4,0,4,remains_advanced,1.0,False
+P019,LOC002,30,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,12.96232284279435,one_fold_dominates,58.39525592852167,17.08061235909259,1,3,0,switches_to_baseline,0.25,True
+P019,LOC002,60,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,9.531250916061717,one_fold_dominates,57.019171304885596,32.92857142857143,0,4,0,switches_to_baseline,0.5,True
+P019,LOC002,90,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,15.112582545671202,ok,19.033735943356945,16.32142857142858,0,4,0,switches_to_baseline,1.0,False
+P019,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,13.785947086414366,ok,13.785947086414366,89.95330473885373,4,0,4,remains_advanced,1.0,False
+P019,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,19.527574586001457,ok,35.64002839658441,340.00587090341526,3,1,3,remains_advanced,0.75,False
+P020,LOC001,30,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,23.453108437363568,ok,51.05042016806721,8.678571428571425,0,4,0,switches_to_baseline,0.5,True
+P020,LOC001,60,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,20.525666223002283,ok,55.46875,17.75,0,4,0,switches_to_baseline,0.5,True
+P020,LOC002,30,intermittent,Online,Pajamas/Homewear,advanced_global_hist_gradient_boosting,12.402099247607552,ok,18.660417791919805,4.898359670378949,3,1,3,remains_advanced,0.75,False
+P020,LOC002,90,intermittent,Online,Pajamas/Homewear,advanced_global_hist_gradient_boosting,14.406103011423335,ok,18.29730585298959,16.55906179695558,3,1,3,remains_advanced,0.75,False
+P020,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,27.957326324859594,ok,37.135194791600455,174.34973954656414,3,1,0,remains_advanced,0.75,False
+P020,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,7.847924812733432,ok,7.847924812733432,63.568190983140795,4,0,4,remains_advanced,1.0,False
+P020,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,9.393951847447562,ok,9.393951847447562,109.0637809488662,4,0,4,remains_advanced,1.0,False
+P021,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,9.32649971164216,ok,14.328042328042326,145.07142857142856,0,4,0,switches_to_baseline,0.75,False
+P021,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,7.639533768691077,ok,7.639533768691077,150.91898960049224,4,0,4,remains_advanced,1.0,False
+P021,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,6.813972488940409,ok,6.813972488940409,203.2948692075371,4,0,4,remains_advanced,1.0,False
+P022,LOC001,90,intermittent,Retail,Pajamas/Homewear,advanced_local_ses_grid,14.838676797660591,ok,24.557604322584957,11.480680020808467,3,1,3,remains_advanced,0.75,False
+P022,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,13.864758673798153,ok,19.44148563958189,66.48988088737008,3,1,3,remains_advanced,0.75,False
+P022,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,8.979430987591433,ok,29.029460097480765,188.54634333313754,2,2,2,unstable_source,0.5,True
+P022,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,9.317521500121064,ok,19.22509389502591,192.34706441973424,3,1,3,remains_advanced,0.75,False
+P023,LOC001,30,intermittent,Retail,Pajamas/Homewear,advanced_local_ses_grid,25.868817860090225,ok,34.45705583932798,2.6704218275479183,3,1,3,remains_advanced,0.75,False
+P023,LOC001,60,intermittent,Retail,Pajamas/Homewear,advanced_local_ses_grid,24.27129102744254,ok,24.27129102744254,4.126119474665232,4,0,4,remains_advanced,1.0,False
+P023,LOC002,30,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,28.68806219631434,ok,60.44721007533824,8.311491385359009,0,4,0,switches_to_baseline,0.5,True
+P023,LOC002,60,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,8.340380798831859,one_fold_dominates,53.19666432417927,12.900191098613472,0,4,0,switches_to_baseline,0.5,True
+P023,LOC002,90,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,12.985387981862932,one_fold_dominates,24.608294930875573,9.535714285714285,0,4,0,switches_to_baseline,1.0,False
+P023,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,14.419107472879691,one_fold_dominates,79.08892677783564,313.19215004022914,1,3,0,switches_to_baseline,0.5,True
+P023,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,1.5402438990744605,one_fold_dominates,49.642857142857146,258.14285714285717,0,3,0,switches_to_baseline,0.25,True
+P024,LOC002,30,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,13.17469828798809,ok,28.769057029926586,18.196428571428566,0,4,0,switches_to_baseline,0.75,False
+P024,LOC002,60,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,11.839713883744503,ok,23.590037217291734,29.428571428571438,0,4,0,switches_to_baseline,0.75,False
+P024,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,8.65526476678468,ok,8.65526476678468,69.45849975344704,4,0,4,remains_advanced,1.0,False
+P024,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,11.953182167261325,ok,16.142646799208453,286.2091277499659,2,2,2,unstable_source,0.5,True
+P024,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,10.62761297441042,ok,10.62761297441042,258.5698236674055,4,0,4,remains_advanced,1.0,False
+P025,LOC001,30,intermittent,Retail,Pajamas/Homewear,advanced_global_hist_gradient_boosting,50.207396409387115,ok,72.56240417701355,11.609984668322168,2,2,2,unstable_source,0.5,True
+P025,LOC001,90,intermittent,Retail,Pajamas/Homewear,advanced_global_hist_gradient_boosting,36.51439020838113,ok,41.546580115602524,22.22742036184735,3,1,3,remains_advanced,0.75,False
+P025,LOC002,30,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,26.336535100011027,ok,44.8010849909584,17.69642857142857,0,4,0,switches_to_baseline,0.75,False
+P025,LOC002,60,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,12.496707157690192,ok,31.499242806663315,22.285714285714295,0,4,0,switches_to_baseline,0.75,False
+P025,LOC002,90,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,20.961154593616925,ok,38.397358453719306,42.04510750682264,1,3,0,switches_to_baseline,0.5,True
+P026,LOC002,90,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,13.765803063471713,ok,21.262458471760812,16.00000000000001,0,4,0,switches_to_baseline,0.75,False
+P026,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,23.044292130955764,ok,49.06425165444426,414.3476052217818,2,2,2,unstable_source,0.5,True
+P027,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,18.51768252681256,ok,21.911970392174062,324.0780421002544,2,2,2,unstable_source,0.5,True
+P028,LOC001,90,intermittent,Retail,Pajamas/Homewear,advanced_global_hist_gradient_boosting,17.966278250285438,ok,27.07219469270376,22.876004515334678,2,2,2,unstable_source,0.5,True
+P028,LOC002,30,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,9.318877476157894,ok,25.293259651624638,8.979107176326746,2,2,0,unstable_source,0.5,True
+P028,LOC002,60,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,12.254889207948008,one_fold_dominates,25.545382129537103,16.92381566081833,1,3,0,switches_to_baseline,0.75,False
+P028,LOC002,90,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,4.5505381957529885,one_fold_dominates,21.6145570709278,23.50583081463398,3,1,0,remains_advanced,0.75,False
+P029,LOC002,90,smooth,Online,Pajamas/Homewear,advanced_global_hist_gradient_boosting,16.116835129622835,ok,18.362741439083603,55.77682712121645,3,1,3,remains_advanced,0.75,False
+P029,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,10.911770513289511,ok,10.911770513289511,235.85791964475277,4,0,4,remains_advanced,1.0,False
+P029,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,10.850910853173174,ok,26.972741654647724,926.5136758371494,4,0,3,remains_advanced,0.75,False
+P030,LOC001,30,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,23.288442425649926,ok,43.408211419754224,9.332765455247158,1,3,0,switches_to_baseline,0.75,False
+P030,LOC001,60,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,10.273021110104436,ok,39.938048263934256,18.97057292536877,1,3,0,switches_to_baseline,0.75,False
+P030,LOC001,90,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,16.575874421004833,ok,52.49254403443724,35.43246722324513,2,2,0,unstable_source,0.5,True
+P030,LOC002,30,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,16.89529252513193,one_fold_dominates,36.082565704724495,12.177865925344516,0,4,0,switches_to_baseline,0.75,False
+P030,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,12.193579704045318,ok,12.193579704045318,52.493360625915095,4,0,4,remains_advanced,1.0,False
+P030,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,14.499538055736668,one_fold_dominates,22.667080318296552,209.7838283458346,3,1,0,remains_advanced,0.75,False
+P030,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,10.991517990610895,ok,10.991517990610895,136.0200351338098,4,0,4,remains_advanced,1.0,False
+P031,LOC001,30,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,12.317613226871693,ok,48.638014527845044,14.348214285714286,0,4,0,switches_to_baseline,0.75,False
+P031,LOC001,60,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,15.797781554647663,ok,29.72615745739866,18.801794591804654,1,3,0,switches_to_baseline,0.75,False
+P031,LOC001,90,intermittent,Retail,Pajamas/Homewear,advanced_global_hist_gradient_boosting,15.367665002170469,one_fold_dominates,25.37783445930065,25.187500700855896,3,1,3,remains_advanced,0.75,False
+P031,LOC002,30,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,8.135890781199032,ok,20.663615102403373,8.988672569545468,3,1,0,remains_advanced,0.75,False
+P031,LOC002,60,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,15.996155994727978,one_fold_dominates,32.34187852407946,29.754528242153107,1,3,0,switches_to_baseline,0.5,True
+P031,LOC002,90,intermittent,Online,Pajamas/Homewear,advanced_global_hist_gradient_boosting,19.717220352836932,ok,35.079399776507955,50.86512967593653,1,3,1,switches_to_baseline,0.25,True
+P031,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,17.980409799328346,ok,17.980409799328346,289.1249895731998,4,0,4,remains_advanced,1.0,False
+P032,LOC001,30,lumpy,Retail,Sweatshirts,advanced_local_holt_winters_additive_52w,15.679259944704741,ok,16.851595006934826,8.678571428571434,0,4,0,switches_to_baseline,1.0,False
+P032,LOC001,60,lumpy,Retail,Sweatshirts,advanced_local_holt_winters_additive_52w,5.827468986631513,ok,16.683087027914603,18.14285714285713,0,4,0,switches_to_baseline,1.0,False
+P033,LOC003,30,lumpy,Wholesale,Sweatshirts,advanced_local_holt_winters_additive_52w,8.839840049904666,ok,10.029498525073745,101.99999999999999,0,4,0,switches_to_baseline,1.0,False
+P033,LOC003,60,lumpy,Wholesale,Sweatshirts,advanced_global_hist_gradient_boosting,8.514767408379118,ok,11.872063910783162,259.64203772882775,3,1,3,remains_advanced,0.75,False
+P034,LOC001,30,intermittent,Retail,Sweatshirts,advanced_local_holt_winters_additive_52w,17.11641878974978,one_fold_dominates,26.275510204081638,7.357142857142858,0,4,0,switches_to_baseline,1.0,False
+P034,LOC003,30,intermittent,Wholesale,Sweatshirts,advanced_local_holt_winters_additive_52w,23.975200830847907,ok,55.75692963752669,224.14285714285728,0,4,0,switches_to_baseline,0.5,True
+P035,LOC003,30,intermittent,Wholesale,Sweatshirts,advanced_local_holt_winters_additive_52w,31.31056968764579,one_fold_dominates,103.16077650572429,444.10714285714306,0,4,0,switches_to_baseline,0.5,True
+P036,LOC001,30,intermittent,Retail,Sweatshirts,advanced_local_holt_winters_additive_52w,25.975729858083085,ok,27.160493827160494,5.5,0,4,0,switches_to_baseline,1.0,False
+P037,LOC001,30,lumpy,Retail,Sweatshirts,advanced_local_holt_winters_additive_52w,22.64920700018061,ok,50.11106880794235,36.70635790181777,2,2,0,unstable_source,0.5,True
+P037,LOC001,60,lumpy,Retail,Sweatshirts,advanced_local_holt_winters_additive_52w,17.726363896338924,ok,31.285949042004063,46.928923563006094,3,1,0,remains_advanced,0.75,False
+P037,LOC001,90,lumpy,Retail,Sweatshirts,advanced_local_holt_winters_additive_52w,17.609803748443337,ok,21.265863976570117,46.6785714285714,0,4,0,switches_to_baseline,1.0,False
+P037,LOC003,90,intermittent,Wholesale,Sweatshirts,advanced_local_holt_winters_additive_52w,4.116742456057312,ok,9.995435874030123,563.1428571428571,0,3,0,switches_to_baseline,0.75,False
+P038,LOC001,30,lumpy,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,15.556190781582014,one_fold_dominates,65.39609465381258,37.60275442594223,1,3,0,switches_to_baseline,0.5,True
+P038,LOC001,60,lumpy,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,12.591921038648646,ok,58.436090225563916,69.39285714285715,0,4,0,switches_to_baseline,0.75,False
+P039,LOC001,90,lumpy,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,11.585580543193185,ok,14.762661821485349,23.214285714285708,0,4,0,switches_to_baseline,1.0,False
+P040,LOC002,60,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,30.2462535988045,ok,57.8781512605042,39.357142857142854,0,4,0,switches_to_baseline,0.75,False
+P040,LOC002,90,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,17.108582153021555,ok,19.71884498480243,24.71428571428571,0,3,0,switches_to_baseline,0.75,False
+P041,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,17.837397396230912,ok,28.94267246208983,158.46113172994183,2,2,2,unstable_source,0.5,True
+P042,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,16.748738311020247,ok,40.14972245905992,139.11878832064264,3,1,3,remains_advanced,0.75,False
+P042,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,14.114778785680256,ok,30.543270076403395,349.1095769732908,2,2,0,unstable_source,0.5,True
+P043,LOC001,30,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,26.023755871446607,ok,66.48161642478466,29.584319309029173,3,1,0,remains_advanced,0.75,False
+P043,LOC001,60,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,22.55662751429185,ok,26.36229749631811,25.57142857142857,0,4,0,switches_to_baseline,1.0,False
+P043,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,5.413453906712425,ok,19.824291541116846,164.14513396044748,3,1,3,remains_advanced,0.75,False
+P044,LOC001,30,lumpy,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,25.096410888993198,ok,53.14605878228234,23.118535570292813,3,1,0,remains_advanced,0.75,False
+P044,LOC001,60,lumpy,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,36.389587880762086,ok,66.0078149529161,54.1264082613912,3,1,0,remains_advanced,0.75,False
+P044,LOC002,30,lumpy,Online,Pajamas/Homewear,advanced_global_hist_gradient_boosting,27.75091861663379,ok,47.0709824027484,27.418847249600944,2,2,2,unstable_source,0.5,True
+P044,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,18.52176475485936,ok,25.288248359320715,217.73181837375137,3,1,3,remains_advanced,0.75,False
+P044,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,9.88458456058542,ok,9.88458456058542,172.73311519623022,4,0,4,remains_advanced,1.0,False
+P045,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,27.905315072076814,ok,45.04758950220162,367.5883303379652,2,2,2,unstable_source,0.5,True
+P045,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,21.924843214205822,ok,33.51318330631768,563.021479546137,3,1,3,remains_advanced,0.75,False
+P046,LOC002,60,intermittent,Online,Kids Sets,advanced_local_holt_winters_additive_52w,11.12302629449825,ok,37.86780728163272,34.45970462628578,1,3,0,switches_to_baseline,0.75,False
+P046,LOC003,30,intermittent,Wholesale,Kids Sets,advanced_global_hist_gradient_boosting,12.456699536542422,ok,28.313829138015752,165.2111930203219,3,1,3,remains_advanced,0.75,False
+P046,LOC003,60,intermittent,Wholesale,Kids Sets,advanced_global_hist_gradient_boosting,11.392976171019713,ok,44.923547853017915,563.3412900768446,1,3,1,switches_to_baseline,0.5,True
+P046,LOC003,90,intermittent,Wholesale,Kids Sets,advanced_local_holt_winters_additive_52w,8.822706151839323,ok,36.48691264585304,743.7857142857142,0,4,0,switches_to_baseline,0.75,False
+P047,LOC001,30,intermittent,Retail,Kids Sets,advanced_local_holt_winters_additive_52w,26.91575872299254,one_fold_dominates,68.89472166900678,11.88433948790367,1,3,0,switches_to_baseline,0.5,True
+P047,LOC001,60,intermittent,Retail,Kids Sets,advanced_local_holt_winters_additive_52w,22.236460997235703,one_fold_dominates,67.3284759963905,24.911536118664483,1,3,0,switches_to_baseline,0.5,True
+P047,LOC002,60,intermittent,Online,Kids Sets,advanced_global_hist_gradient_boosting,21.965018383560963,one_fold_dominates,38.740260832463136,26.53707867023725,2,2,2,unstable_source,0.5,True
+P047,LOC002,90,intermittent,Online,Kids Sets,advanced_global_hist_gradient_boosting,30.932060004580954,ok,53.53902404630718,54.60980452723332,1,3,1,switches_to_baseline,0.25,True
+P047,LOC003,30,intermittent,Wholesale,Kids Sets,advanced_local_holt_winters_additive_52w,24.2401957040168,ok,25.873697118332323,90.42857142857146,0,4,0,switches_to_baseline,1.0,False
+P047,LOC003,60,intermittent,Wholesale,Kids Sets,advanced_global_hist_gradient_boosting,14.831298343048227,ok,22.525875352732054,165.90307197287157,3,1,3,remains_advanced,0.75,False
+P047,LOC003,90,intermittent,Wholesale,Kids Sets,advanced_local_holt_winters_additive_52w,11.695472782233518,ok,22.035198410667167,234.0138071212853,3,1,0,remains_advanced,0.75,False
+P048,LOC001,30,intermittent,Retail,Kids Sets,advanced_local_holt_winters_additive_52w,21.64418937343685,one_fold_dominates,54.634746787493825,23.492941118622344,2,2,0,unstable_source,0.5,True
+P048,LOC001,60,intermittent,Retail,Kids Sets,advanced_local_holt_winters_additive_52w,24.73225678736156,one_fold_dominates,56.401811445039115,48.92857142857143,0,4,0,switches_to_baseline,0.5,True
+P048,LOC002,30,intermittent,Online,Kids Sets,advanced_local_holt_winters_additive_52w,12.71911125428898,ok,35.932388222464546,23.535714285714278,0,4,0,switches_to_baseline,0.75,False
+P048,LOC002,60,intermittent,Online,Kids Sets,advanced_local_holt_winters_additive_52w,15.714570447846027,ok,28.189457601222294,39.53571428571427,0,4,0,switches_to_baseline,0.75,False
+P048,LOC003,30,intermittent,Wholesale,Kids Sets,advanced_local_ses_grid,28.7705507240059,one_fold_dominates,55.20565287926591,524.1776740886298,1,3,1,switches_to_baseline,0.5,True
+P049,LOC003,30,intermittent,Wholesale,Kids Sets,advanced_local_holt_winters_additive_52w,17.27755808084765,ok,36.61074634509765,188.36228994552744,3,1,0,remains_advanced,0.75,False
+P049,LOC003,60,intermittent,Wholesale,Kids Sets,advanced_global_hist_gradient_boosting,7.930267518442949,ok,7.930267518442949,97.06647442574169,4,0,4,remains_advanced,1.0,False
+P049,LOC003,90,intermittent,Wholesale,Kids Sets,advanced_global_hist_gradient_boosting,12.412813698075794,ok,12.412813698075794,248.19420989302552,4,0,4,remains_advanced,1.0,False
+P050,LOC001,60,intermittent,Retail,Kids Sets,advanced_local_sba_tuned,25.123397615894955,ok,48.29086863953731,29.5781570417166,0,4,0,switches_to_baseline,0.75,False
+P050,LOC002,60,lumpy,Online,Kids Sets,advanced_global_hist_gradient_boosting,25.109223275099797,ok,34.32763854032033,29.69340733737709,1,3,1,switches_to_baseline,0.75,False
+P050,LOC003,60,intermittent,Wholesale,Kids Sets,advanced_local_holt_winters_additive_52w,22.156318735041925,ok,41.39131269983643,426.5374773718144,0,4,0,switches_to_baseline,0.75,False
+P051,LOC002,30,smooth,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,10.081169454538815,ok,11.582295255764663,15.607142857142883,0,4,0,switches_to_baseline,1.0,False
+P051,LOC003,60,smooth,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,18.524696987667273,ok,51.86251801859774,1630.557566504713,1,3,0,switches_to_baseline,0.75,False
+P051,LOC003,90,smooth,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,21.534587469954197,ok,41.547547718907815,2080.285714285714,0,4,0,switches_to_baseline,0.75,False
+P052,LOC001,30,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,37.72944145604399,ok,114.3720696538928,9.435695746446155,1,3,0,switches_to_baseline,0.5,True
+P052,LOC001,60,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,25.467132236986735,one_fold_dominates,105.64475964699082,18.751944837340872,0,4,0,switches_to_baseline,0.5,True
+P052,LOC001,90,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,26.568038223412877,one_fold_dominates,86.73938795676804,24.503877097786972,1,3,0,switches_to_baseline,0.5,True
+P053,LOC001,30,intermittent,Retail,Pajamas/Homewear,advanced_global_hist_gradient_boosting,13.073228229132702,ok,16.063834129892328,6.385374066632201,3,1,3,remains_advanced,0.75,False
+P053,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,12.737951342988996,ok,32.519499828638985,224.87234131503857,1,3,0,switches_to_baseline,0.25,True
+P053,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,5.983247748250554,one_fold_dominates,11.685156497069702,172.99874193911694,3,1,0,remains_advanced,0.75,False
+P053,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,13.186974105287112,ok,16.607189554683355,354.72956888803645,3,1,3,remains_advanced,0.75,False
+P054,LOC001,30,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,51.858489818755906,one_fold_dominates,131.39911436038332,17.738880438651748,1,3,0,switches_to_baseline,0.25,True
+P054,LOC001,60,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,18.1206482277301,one_fold_dominates,79.92675420567733,25.97619511684513,2,2,0,unstable_source,0.5,True
+P054,LOC001,90,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,8.921741084364207,one_fold_dominates,45.00978473581213,24.642857142857142,0,4,0,switches_to_baseline,0.75,False
+P054,LOC002,30,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,16.354668930310403,ok,39.0948745910578,12.80357142857143,0,4,0,switches_to_baseline,0.5,True
+P054,LOC002,60,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,10.98009347463281,ok,11.428571428571447,6.571428571428582,0,4,0,switches_to_baseline,1.0,False
+P054,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,22.918696306336333,one_fold_dominates,60.363684065185474,211.876531068801,2,2,0,unstable_source,0.5,True
+P055,LOC001,30,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,24.773421486513005,ok,27.73654916512059,10.678571428571427,0,4,0,switches_to_baseline,1.0,False
+P055,LOC002,60,lumpy,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,16.031939817061165,ok,42.41043418493408,51.95278187654425,1,3,0,switches_to_baseline,0.5,True
+P056,LOC001,60,intermittent,Retail,Pajamas/Homewear,advanced_global_hist_gradient_boosting,13.974675472991994,ok,21.059639310934784,17.426851529798533,3,1,3,remains_advanced,0.75,False
+P056,LOC001,90,intermittent,Retail,Pajamas/Homewear,advanced_global_hist_gradient_boosting,14.362441827593123,ok,23.942065855549508,30.16700297799238,3,1,3,remains_advanced,0.75,False
+P056,LOC002,30,intermittent,Online,Pajamas/Homewear,advanced_global_hist_gradient_boosting,8.273291893111763,ok,12.163398586764236,8.21029404606586,3,1,3,remains_advanced,0.75,False
+P056,LOC002,60,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,13.710848356740346,ok,22.747298932988617,31.050063043529462,1,3,0,switches_to_baseline,0.5,True
+P056,LOC002,90,intermittent,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,13.92809370920958,ok,24.71514623336447,51.9635949556488,2,2,0,unstable_source,0.5,True
+P056,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,34.18484777233502,ok,49.27573293112752,510.0038358371699,2,2,2,unstable_source,0.5,True
+P056,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,24.464053306135852,ok,24.464053306135852,472.27854907495265,4,0,4,remains_advanced,1.0,False
+P056,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,13.890976266576475,ok,13.890976266576475,382.76585102551473,4,0,4,remains_advanced,1.0,False
+P057,LOC001,30,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,31.22486891050565,ok,122.43080993080993,22.037545787545785,0,4,0,switches_to_baseline,0.5,True
+P057,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,20.362917809524905,ok,37.813411078717216,138.96428571428578,0,4,0,switches_to_baseline,0.5,True
+P057,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,11.467343911238613,ok,48.29012686155544,375.2142857142858,0,4,0,switches_to_baseline,0.5,True
+P057,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,6.041615909916892,ok,26.412072062649155,327.6417539371628,2,2,0,unstable_source,0.5,True
+P058,LOC001,30,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,23.689257331752405,one_fold_dominates,37.67841269374955,8.666034919562398,1,3,0,switches_to_baseline,0.5,True
+P058,LOC003,30,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,21.278957064298528,ok,39.57989805619191,167.42296877769178,2,2,0,unstable_source,0.5,True
+P058,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,13.800284047181034,ok,31.465851975926316,262.8971932588644,2,2,0,unstable_source,0.5,True
+P058,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,15.193223013222557,ok,23.565891348875407,294.45581240419824,3,1,0,remains_advanced,0.75,False
+P059,LOC001,30,intermittent,Retail,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,19.55277019264307,ok,23.115577889447238,11.500000000000002,0,4,0,switches_to_baseline,1.0,False
+P059,LOC002,30,lumpy,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,8.929763035113819,ok,37.39820400444371,31.2275003437105,0,4,0,switches_to_baseline,0.75,False
+P059,LOC002,60,lumpy,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,7.217902390530346,one_fold_dominates,42.11788211788212,75.28571428571429,0,4,0,switches_to_baseline,0.75,False
+P059,LOC002,90,lumpy,Online,Pajamas/Homewear,advanced_local_holt_winters_additive_52w,10.575191186553173,one_fold_dominates,36.11258629845991,97.14285714285715,0,4,0,switches_to_baseline,0.75,False
+P059,LOC003,60,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,21.983266711224427,ok,21.983266711224427,480.44429397380986,4,0,4,remains_advanced,1.0,False
+P059,LOC003,90,intermittent,Wholesale,Pajamas/Homewear,advanced_global_hist_gradient_boosting,12.88132680721262,ok,12.88132680721262,414.0702502178497,4,0,4,remains_advanced,1.0,False

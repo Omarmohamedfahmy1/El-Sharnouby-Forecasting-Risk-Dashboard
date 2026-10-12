@@ -1,0 +1,18 @@
+Check,Metric_Value,Issue_Count,Total_Records,Issue_Pct,Detail
+row_count,2500,0,2500,0.0,Production_Orders.csv rows handled in enriched output.
+unique_production_order_id_count,2500,0,2500,0.0,duplicate_id_rows=0
+duplicate_production_order_id_rows,0,0,2500,0.0,Rows sharing a Production_Order_ID with at least one other row.
+missing_product_id,0,0,2500,0.0,Product_ID missing before product resolution.
+missing_start_date,0,0,2500,0.0,Start_Date missing or unparseable.
+missing_due_date,0,0,2500,0.0,Due_Date missing or unparseable.
+missing_completion_date,0,0,2500,0.0,Completion_Date missing or unparseable.
+invalid_date_ordering,0,0,2500,0.0,Flags due date before start date or completion date before start date.
+negative_quantities,0,0,2500,0.0,"Checked ['Planned_Qty', 'Produced_Qty', 'Good_Qty', 'Rejected_Qty']."
+negative_efficiency_pct,0,0,2500,0.0,Efficiency_Pct below zero.
+efficiency_pct_above_100,0,0,2500,0.0,Efficiency_Pct above 100.
+good_qty_greater_than_produced_qty,0,0,2500,0.0,Good_Qty should not exceed Produced_Qty.
+rejected_qty_relationship_mismatch,0,0,2500,0.0,Checks Produced_Qty - Good_Qty - Rejected_Qty equals zero.
+produced_qty_greater_than_planned_qty,0,0,2500,0.0,Produced_Qty above Planned_Qty.
+produced_qty_differs_from_planned_qty,2015,2015,2500,0.806,Produced below planned=2015; above planned=0. This feeds plan attainment.
+delay_days_source_mismatch,2,2,2500,0.0008,Compares source Delay_Days with Completion_Date - Due_Date.
+unresolved_product_id,0,0,2500,0.0,Product_ID not found in Product_Master.csv.

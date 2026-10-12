@@ -1,0 +1,43 @@
+﻿dataset_key,relative_path,exists,rows,columns,pages,description
+forecast_results,outputs/phase5/forecast_results.csv,True,531,20,Demand Forecast; Model Performance,Accepted Phase 5 final forecast output.
+stockout_analysis,outputs/phase5/stockout_analysis.csv,True,531,35,Inventory & Stockout Risk,Accepted Phase 5 inventory and stockout analysis.
+product_replenishment_requirements,outputs/phase6/product_replenishment_requirements.csv,True,177,8,Material Requirements,Accepted Phase 6 product-level replenishment requirement bridge.
+product_material_requirements,outputs/phase6/product_material_requirements.csv,True,1011,12,Material Requirements,Accepted Phase 6 gross material requirements if finished goods are produced.
+material_requirements_summary,outputs/phase6/material_requirements_summary.csv,True,30,9,Material Requirements,Accepted Phase 6 material-level gross requirement summary.
+material_requirement_procurement_risk,outputs/phase7/material_requirement_procurement_risk.csv,True,30,28,Procurement Risk; Material Requirements,Accepted Phase 7 material requirements with historical procurement risk.
+historical_procurement_risk,outputs/phase7/historical_procurement_risk.csv,True,12,29,Procurement Risk,Accepted Phase 7 historical material procurement risk.
+supplier_procurement_history,outputs/phase7/supplier_procurement_history.csv,True,12,25,Procurement Risk,Accepted Phase 7 historical supplier-level procurement performance.
+supplier_material_procurement_history,outputs/phase7/supplier_material_procurement_history.csv,True,144,19,Procurement Risk,Accepted Phase 7 supplier-material historical procurement performance.
+historical_supplier_performance_rank,outputs/phase7/historical_supplier_performance_rank.csv,True,144,20,Procurement Risk,Accepted Phase 7 historical supplier ranking by material.
+product_replenishment_production_risk,outputs/phase8/product_replenishment_production_risk.csv,True,177,33,Production Risk,Accepted Phase 8 product replenishment with historical production risk.
+line_production_history,outputs/phase8/line_production_history.csv,True,5,12,Production Risk,Accepted Phase 8 line-level historical production performance.
+bottleneck_analysis,outputs/phase8/bottleneck_analysis.csv,True,6,9,Production Risk,Accepted Phase 8 historical bottleneck analysis.
+product_production_history,outputs/phase8/product_production_history.csv,True,59,29,Production Risk,Accepted Phase 8 product historical production performance.
+product_line_production_history,outputs/phase8/product_line_production_history.csv,True,292,15,Production Risk,Accepted Phase 8 product-line historical production performance.
+historical_production_risk,outputs/phase8/historical_production_risk.csv,True,59,32,Production Risk,Accepted Phase 8 historical product production risk.
+final_decision,outputs/phase9/final_decision_recommendations.csv,True,531,65,Executive Overview; Final Decision Center,Accepted Phase 9 final decision layer.
+management_priority_90d,outputs/phase9/management_priority_90d.csv,True,177,19,Executive Overview; Final Decision Center,Accepted Phase 9 90-day management priority table.
+management_kpis_90d,outputs/phase9/management_kpis_90d.csv,True,11,2,Executive Overview,Accepted Phase 9 90-day KPI table.
+product_cross_functional_90d,outputs/phase9/product_cross_functional_90d.csv,True,59,15,Executive Overview; Procurement Risk; Production Risk,Accepted Phase 9 product-level cross-functional 90-day summary.
+decision_traceability,outputs/phase9/decision_risk_traceability.csv,True,531,16,Final Decision Center,Accepted Phase 9 decision-risk rule traceability.
+conditional_action_timing,outputs/phase9/conditional_action_timing.csv,True,531,15,Final Decision Center; Inventory & Stockout Risk,Accepted Phase 9 conditional planning-date table.
+product_procurement_risk_summary,outputs/phase9/product_procurement_risk_summary.csv,True,177,18,Procurement Risk; Final Decision Center,Accepted Phase 9 product-level historical procurement risk summary.
+daily_demand_panel,data/processed/daily_product_location_demand_panel.csv,True,193435,27,Demand Forecast; Methodology & Limitations,Accepted Phase 2 daily demand panel.
+monthly_sales_inventory_reconciliation,data/processed/monthly_sales_inventory_reconciliation.csv,True,6372,13,Methodology & Limitations,Accepted Phase 2 sales vs inventory reconciliation detail.
+demand_series_eda,outputs/phase2/demand_series_eda.csv,True,177,27,Demand Forecast; Methodology & Limitations,Accepted Phase 2 product-location demand behavior EDA.
+inventory_accounting_summary,outputs/phase2/inventory_accounting_summary.csv,True,15,2,Methodology & Limitations,Accepted Phase 2 inventory accounting validation summary.
+inventory_accounting_validation,outputs/phase2/inventory_accounting_validation.csv,True,6372,13,Methodology & Limitations,Accepted Phase 2 row-level inventory accounting validation.
+sales_inventory_reconciliation_summary,outputs/phase2/sales_inventory_reconciliation_summary.csv,True,12,2,Methodology & Limitations,Accepted Phase 2 sales vs inventory reconciliation summary.
+leakage_risk_table,outputs/phase2/leakage_risk_table.csv,True,9,4,Methodology & Limitations,Accepted Phase 2 leakage-risk table.
+weekday_demand_pattern,outputs/phase2/weekday_demand_pattern.csv,True,7,6,Demand Forecast,Accepted Phase 2 weekday demand pattern.
+monthly_demand_pattern,outputs/phase2/monthly_demand_pattern.csv,True,12,5,Demand Forecast,Accepted Phase 2 monthly demand pattern.
+location_channel_demand_summary,outputs/phase2/location_channel_demand_summary.csv,True,3,9,Demand Forecast,Accepted Phase 2 demand summary by location and channel.
+product_family_demand_summary,outputs/phase2/product_family_demand_summary.csv,True,4,6,Demand Forecast,Accepted Phase 2 demand summary by product family.
+baseline_metrics_overall,outputs/phase3/baseline_metrics_overall.csv,True,13,12,Model Performance,Accepted Phase 3 baseline model metrics.
+baseline_metrics_by_horizon,outputs/phase3/baseline_metrics_by_horizon.csv,True,39,13,Model Performance,Accepted Phase 3 baseline metrics by horizon.
+model_metrics_overall,outputs/phase4/model_metrics_overall.csv,True,17,13,Model Performance,Accepted Phase 4 model comparison metrics.
+advanced_vs_baseline_comparison,outputs/phase4/advanced_vs_baseline_comparison.csv,True,531,16,Model Performance,Accepted Phase 4 per-series advanced vs baseline comparison.
+policy_comparison,outputs/phase4_1/policy_comparison.csv,True,36,15,Model Performance,Accepted Phase 4.1 policy comparison.
+leave_one_fold_out_policy_metrics,outputs/phase4_1/leave_one_fold_out_policy_metrics.csv,True,12,15,Model Performance,Accepted Phase 4.1 leave-one-fold-out policy metrics.
+full_coverage_policy_comparison,outputs/phase5_1/full_coverage_policy_comparison.csv,True,24,16,Model Performance,Accepted Phase 5.1 equal-coverage policy comparison.
+common_window_policy_comparison,outputs/phase5_1/common_window_policy_comparison.csv,True,24,16,Model Performance,Accepted Phase 5.1 common-window policy comparison.

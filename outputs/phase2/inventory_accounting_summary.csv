@@ -1,0 +1,16 @@
+metric,value
+rows_checked,6372.0
+rows_holding_exactly,6225.0
+rows_holding_exactly_pct,97.69303201506591
+mismatch_rows,147.0
+mismatch_rows_pct,2.306967984934087
+mismatch_min,1.0
+mismatch_median,47.0
+mismatch_mean,106.82993197278911
+mismatch_p90,183.0
+mismatch_p95,244.19999999999982
+mismatch_p99,1367.259999999996
+mismatch_max,2108.0
+absolute_mismatch_median,47.0
+absolute_mismatch_p95,244.19999999999982
+absolute_mismatch_max,2108.0

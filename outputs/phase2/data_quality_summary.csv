@@ -1,0 +1,13 @@
+metric,value
+sales_rows,180000
+sales_order_date_missing,0
+sales_product_id_missing,0
+sales_location_id_missing,0
+sales_negative_quantity_rows,0
+sales_zero_quantity_rows,0
+inventory_rows,6372
+inventory_snapshot_month_missing,0
+inventory_negative_closing_stock_rows,0
+product_master_rows,59
+location_master_rows,5
+raw_data_modified,No. Raw CSV files were read only; derived outputs were written separately.

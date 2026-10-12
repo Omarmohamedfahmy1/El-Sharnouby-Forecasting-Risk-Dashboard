@@ -1,0 +1,21 @@
+table,phase1_relevance,rationale
+Business_Units.csv,Not required for current shortage-risk scope,"Useful for other case briefs, but not needed to answer Product x Location shortage and replenishment questions."
+Case_Briefs.csv,Not required for current shortage-risk scope,"Useful for other case briefs, but not needed to answer Product x Location shortage and replenishment questions."
+Customer_Service.csv,Not required for current shortage-risk scope,"Useful for other case briefs, but not needed to answer Product x Location shortage and replenishment questions."
+Customers.csv,Not required for current shortage-risk scope,"Useful for other case briefs, but not needed to answer Product x Location shortage and replenishment questions."
+Data_Dictionary.csv,Required,Project metadata and table grain reference.
+Group_Operations.csv,Not required for current shortage-risk scope,"Useful for other case briefs, but not needed to answer Product x Location shortage and replenishment questions."
+Inventory_History.csv,Required,Finished-goods stock history for shortage logic.
+Locations.csv,Required,Location/channel reference.
+Machine_Downtime.csv,Optional later,"May enrich production or quality risk, but Production_Orders.csv is the primary required production-risk source."
+Marketing.csv,Optional later,"Potential exogenous demand context, but not required for a defensible first forecasting grain."
+Materials.csv,Required,Material reference and standard lead times.
+Printing_Batches.csv,Optional later,"May enrich production or quality risk, but Production_Orders.csv is the primary required production-risk source."
+Product_BOM.csv,Required,Product-to-material requirements.
+Product_Master.csv,Required,Product attributes and product ID reference.
+Production_Orders.csv,Required,"Historical production efficiency, delay, and yield evidence."
+Purchase_Orders.csv,Required,"Historical procurement lead time, delay, and rejection evidence."
+Quality.csv,Optional later,"May enrich production or quality risk, but Production_Orders.csv is the primary required production-risk source."
+Sales_Transactions.csv,Required,Demand history at Product_ID x Location_ID.
+Suppliers.csv,Required,Supplier reference for procurement history.
+Web_Traffic_Daily.csv,Optional later,"Potential exogenous demand context, but not required for a defensible first forecasting grain."

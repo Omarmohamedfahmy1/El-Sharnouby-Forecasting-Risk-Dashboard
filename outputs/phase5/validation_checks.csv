@@ -1,0 +1,22 @@
+check,passed,detail
+final_policy_tested_before_use,True,final_policy=guarded_hybrid
+final_forecast_starts_after_2026_09_30,True,min_start=2026-10-01
+exact_30_60_90_day_windows,True,"counts={30: 30, 60: 60, 90: 90}"
+all_177_pairs_forecast,True,pairs=177
+exactly_531_forecast_rows,True,rows=531
+forecasts_non_negative,True,min=4.285714
+monotonic_reconciliation_documented,True,adjusted_rows=5
+forecast_monotonic_60_ge_30,True,checked all pairs
+forecast_monotonic_90_ge_60,True,checked all pairs
+complete_inventory_join,True,missing_available_stock=0
+one_latest_inventory_row_per_pair,True,rows=177; pairs=177
+no_negative_available_stock,True,min=0
+no_negative_expected_shortage,True,min=0.000000
+no_negative_recommended_replenishment,True,min=0.000000
+expected_shortage_monotonic,True,checked all pairs
+recommended_replenishment_monotonic,True,checked all pairs
+safety_stock_from_source_complete,True,missing=0
+reorder_point_not_double_counted,True,"Reorder_Point_Units used only for Below_Reorder_Point signal, not replenishment formula"
+stockout_date_after_origin_or_not_within_90,True,checked populated stockout dates
+no_fabricated_inventory,True,Inventory fields sourced only from September 2026 Inventory_History records
+no_future_leakage,True,Forecast policy uses historical demand through 2026-09-30 and latest provided September inventory only

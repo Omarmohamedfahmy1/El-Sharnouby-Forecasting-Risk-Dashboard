@@ -1,0 +1,18 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Editors
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Temporary files
+*.log
+.ipynb_checkpoints/

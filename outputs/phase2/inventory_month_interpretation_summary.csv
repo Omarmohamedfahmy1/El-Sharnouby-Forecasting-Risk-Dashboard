@@ -1,0 +1,11 @@
+metric,value
+snapshot_rows,6372
+unique_snapshot_days,day 1: 6372
+snapshot_min_month,2023-10-01
+snapshot_max_month,2026-09-01
+transition_rows,6195
+monthly_gap_one_rows,6195
+monthly_gap_one_pct,100.0
+continuity_exact_rows,6195
+continuity_exact_pct,100.0
+safest_interpretation,"Snapshot_Month is a monthly period label shown as the first day of the month. The row contains monthly movement fields and a period closing balance, not a point-in-time morning snapshot at that date."

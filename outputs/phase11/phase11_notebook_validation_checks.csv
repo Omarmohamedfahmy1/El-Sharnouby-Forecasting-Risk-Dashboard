@@ -1,0 +1,36 @@
+check,passed,detail
+notebook_file_exists,True,C:\Users\Acer\Documents\ChatGPT\El Sharnoby\notebooks\el_sharnouby_end_to_end_analysis.ipynb
+notebook_valid_json,True,Notebook JSON loaded successfully.
+notebook_format_v4,True,nbformat=4
+exactly_one_phase11_notebook,True,Found notebooks: ['el_sharnouby_end_to_end_analysis.ipynb']
+notebook_cell_count,True,Notebook has 33 cells.
+all_required_sections_present,True,Missing: 
+required_accepted_output_references_present,True,Missing: 
+accepted_values_documented,True,Missing: 
+limitations_documented,True,Missing: 
+no_external_data_access_static_scan,True,External-access tokens detected: 
+no_model_retraining_static_scan,True,Training/prediction tokens detected in code: 
+notebook_code_is_read_only_static_scan,True,Write tokens detected in code: 
+notebook_contains_visual_eda_cells,True,Chart-like code cells: 11.
+saved_notebook_all_cells_have_stable_unique_ids,True,"total_cells=33, cells_with_ids=33, unique_cell_ids=33"
+saved_notebook_all_code_cells_have_execution_counts,True,"code_cells=15, code_cells_with_execution_counts=15"
+saved_notebook_outputs_present,True,total_saved_outputs=48
+saved_notebook_table_or_text_outputs_present,True,"saved_table_outputs=34, saved_text_outputs=48"
+saved_notebook_chart_image_outputs_present,True,"saved_chart_image_outputs=12, saved_display_outputs=46"
+saved_notebook_has_no_error_outputs,True,saved_error_outputs=0
+source_scope_values_match_phase1,True,"sales_rows=180000, inventory_rows=6372, products=59, locations=5"
+daily_panel_scope_matches_phase2,True,"panel_rows=193435, expected_rows=193435, series=177, active_locations=['LOC001', 'LOC002', 'LOC003']"
+demand_class_counts_match_phase2,True,"class_counts={'intermittent': 139, 'lumpy': 29, 'smooth': 5, 'erratic': 4}"
+inventory_accounting_validation_values_match_phase2,True,"[{'metric': 'rows_checked', 'value': 6372.0}, {'metric': 'rows_holding_exactly', 'value': 6225.0}, {'metric': 'rows_holding_exactly_pct', 'value': 97.69303201506592}, {'metric': 'mismatch_rows', 'value': 147.0}, {'metric': 'mismatch_rows_pct', 'value': 2.306967984934087}, {'metric': 'mismatch_min', 'value': 1.0}, {'metric': 'mismatch_median', 'value': 47.0}, {'metric': 'mismatch_mean', 'value': 106.82993197278913}, {'metric': 'mismatch_p90', 'value': 183.0}, {'metric': 'mismatch_p95', 'value': 244.19999999999985}, {'metric': 'mismatch_p99', 'value': 1367.259999999996}, {'metric': 'mismatch_max', 'value': 2108.0}, {'metric': 'absolute_mismatch_median', 'value': 47.0}, {'metric': 'absolute_mismatch_p95', 'value': 244.19999999999985}, {'metric': 'absolute_mismatch_max', 'value': 2108.0}]"
+sales_inventory_reconciliation_values_match_phase2,True,"[{'metric': 'rows_compared', 'value': 6372.0}, {'metric': 'rows_with_both_sources', 'value': 6353.0}, {'metric': 'rows_inventory_only_after_zero_fill', 'value': 19.0}, {'metric': 'rows_sales_only', 'value': 0.0}, {'metric': 'exact_match_rows', 'value': 6372.0}, {'metric': 'exact_match_pct_all_rows', 'value': 100.0}, {'metric': 'exact_match_pct_rows_with_both_sources', 'value': 100.0}, {'metric': 'absolute_difference_mean', 'value': 0.0}, {'metric': 'absolute_difference_median', 'value': 0.0}, {'metric': 'absolute_difference_p95', 'value': 0.0}, {'metric': 'absolute_difference_max', 'value': 0.0}, {'metric': 'correlation_sales_quantity_vs_inventory_sold_qty', 'value': 1.0}]"
+returns_decision_values_match_phase2,True,"[{'metric': 'sales_rows', 'value': '180000'}, {'metric': 'returned_rows', 'value': '8543'}, {'metric': 'returned_rows_pct', 'value': '4.746111111111111'}, {'metric': 'quantity_total', 'value': '1660589.0'}, {'metric': 'returned_quantity_by_order_date', 'value': '37233.0'}, {'metric': 'returned_quantity_pct_of_sales_quantity', 'value': '2.2421562469702017'}, {'metric': 'refund_value_total_egp', 'value': '9427005.55'}, {'metric': 'return_date_present_for_returned_rows_pct', 'value': '100.0'}, {'metric': 'return_lag_days_median', 'value': '11.0'}, {'metric': 'return_lag_days_p95', 'value': '20.0'}, {'metric': 'return_lag_days_max', 'value': '21.0'}, {'metric': 'target_decision', 'value': 'Use gross outbound demand: Sales_Transactions.Quantity aggregated by Order_Date x Product_ID x Location_ID. Inventory Sold_Qty matches Quantity by month exactly, and inventory Returned_Qty matches returned sales by order month exactly. Returns should be analyzed separately, not silently subtracted from demand.'}]"
+forecasting_baseline_values_match_phase3,True,"best_baseline={'Frequency': 'weekly_distributed', 'Baseline': 'weekly_seasonal_naive_52w', 'Cumulative_WAPE': 22.25073300304612}, folds=['2025-09-28', '2025-12-28', '2026-03-29', '2026-06-28']"
+policy_validation_values_match_phase4_phase5_1,True,"phase4={'global_best_baseline': 22.25073300304612, 'leave_one_fold_out_selection': 27.464146109655317, 'phase4_apparent_selection': 17.07066035449716}, phase5_1={'global_best_baseline': 22.25073300304612, 'guarded_hybrid': 20.19555724968465}"
+final_forecast_coverage_matches_phase5,True,"rows=531, source_counts={'baseline': 462, 'advanced': 69}, horizon_counts={'30': 177, '60': 177, '90': 177}"
+inventory_risk_values_match_phase5,True,"latest_rows=177, inv90={'Horizon_Days': 90.0, 'Forecast_Demand_Total': 140059.6388976386, 'Expected_Shortage_Total': 106723.19144112887, 'Recommended_Replenishment_Total': 117853.19144112887, 'Pairs_With_Expected_Shortage': 85.0, 'Pairs_Below_Reorder_Point': 40.0, 'Low_Risk_Count': 92.0, 'Medium_Risk_Count': 0.0, 'High_Risk_Count': 85.0, 'Latest_Inventory_Accounting_Mismatch_Count': 7.0}"
+replenishment_bom_values_match_phase6,True,"repl_counts={30: 45, 60: 54, 90: 55}, repl_totals={30: 27501.37709441283, 60: 63247.06545500864, 90: 117853.19144112889}"
+procurement_values_match_phase7,True,"procurement_counts={'Low': 6, 'High': 5, 'Medium': 1}, product_proc90={'High': 59}"
+production_values_match_phase8,True,"production_counts={'Low': 22, 'High': 21, 'Medium': 15, 'Insufficient Evidence': 1}, evidence_counts={'High': 45, 'Medium': 13, 'Low': 1}"
+final_decision_values_match_phase9,True,"decisions_rows=531, priority90_rows=177, decision_counts90={'Low': 92, 'High': 85}, material_origin=59, production_origin=40"
+notebook_code_cells_execute,True,All notebook code cells executed and captured without errors.
+phase1_to_phase10_outputs_unchanged_during_validation,True,Changed files: 
